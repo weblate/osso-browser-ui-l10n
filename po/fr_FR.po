@@ -1,0 +1,855 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-browser-ui 20100208121232\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+
+msgid "bookm_li_imported_bookmarksd"
+msgstr "Signets importés (%d)"
+
+msgid "bookm_ti_import_bookmarks"
+msgstr "Importer signets"
+
+msgid "weba_ap_web_browser"
+msgstr "Web"
+
+msgid "weba_bd_cancel"
+msgstr "Annuler"
+
+msgid "weba_bd_certificate"
+msgstr "Certificat"
+
+msgid "weba_bd_close"
+msgstr "Fermer"
+
+msgid "weba_bd_cookie_conf_accept"
+msgstr "Accepter"
+
+msgid "weba_bd_cookie_conf_reject"
+msgstr "Rejeter"
+
+msgid "weba_bd_delete"
+msgstr "Supprimer"
+
+msgid "weba_bd_details"
+msgstr "Détails"
+
+msgid "weba_bd_download_open_with"
+msgstr "Ouvrir avec"
+
+msgid "weba_bd_download_save_to"
+msgstr "Enregistrer sur le terminal"
+
+msgid "weba_bd_downloads_pause"
+msgstr "Pause"
+
+msgid "weba_bd_downloads_resume"
+msgstr "Reprendre"
+
+msgid "weba_bd_geolocaton_allow"
+msgstr "Autoriser"
+
+msgid "weba_bd_geolocaton_always"
+msgstr "Toujours autoriser pour ce site"
+
+msgid "weba_bd_geolocaton_never"
+msgstr "Toujours refuser pour ce site"
+
+msgid "weba_bd_moveto"
+msgstr "Déplacer"
+
+msgid "weba_bd_never"
+msgstr "Jamais"
+
+msgid "weba_bd_not_now"
+msgstr "Pas maintenant"
+
+msgid "weba_bd_ok"
+msgstr "OK"
+
+msgid "weba_bd_select_clear_alll"
+msgstr "Effacer tout"
+
+msgid "weba_bd_stop"
+msgstr "Arrêter"
+
+msgid "weba_db_clear"
+msgstr "Effacer"
+
+msgid "weba_fi_address"
+msgstr "Adresse"
+
+msgid "weba_fi_address_colon"
+msgstr "Adresse"
+
+msgid "weba_fi_auhentication_password"
+msgstr "Mot de passe"
+
+msgid "weba_fi_auhentication_realm"
+msgstr "Message"
+
+msgid "weba_fi_auhentication_site"
+msgstr "Serveur"
+
+msgid "weba_fi_auhentication_username"
+msgstr "Nom d'utilisateur"
+
+msgid "weba_fi_authentivated"
+msgstr "Sessions authentifiées"
+
+msgid "weba_fi_browsing_his"
+msgstr "Historique de navigation"
+
+msgid "weba_fi_cache"
+msgstr "Cache"
+
+msgid "weba_fi_cookie_details_domain"
+msgstr "Domaine"
+
+msgid "weba_fi_cookie_details_expiration"
+msgstr "Expiration"
+
+msgid "weba_fi_cookie_details_path"
+msgstr "Chemin d'accès"
+
+msgid "weba_fi_cookie_details_slash"
+msgstr "/"
+
+msgid "weba_fi_cookie_details_value"
+msgstr "Valeur"
+
+msgid "weba_fi_cookies"
+msgstr "Cookies"
+
+msgid "weba_fi_downloads_name"
+msgstr "Nom"
+
+msgid "weba_fi_downloads_percentage"
+msgstr "Reçu"
+
+msgid "weba_fi_downloads_size"
+msgstr "Taille"
+
+msgid "weba_fi_encoding"
+msgstr "Encodage"
+
+msgid "weba_fi_geolocation"
+msgstr "Autorisations de géolocalisation"
+
+msgid "weba_fi_image_details_dimensions"
+msgstr "Résolution"
+
+msgid "weba_fi_location"
+msgstr "Emplacement"
+
+msgid "weba_fi_name"
+msgstr "Nom"
+
+msgid "weba_fi_name_colon"
+msgstr "Nom"
+
+msgid "weba_fi_open_with_colon"
+msgstr "Ouvrir avec :"
+
+msgid "weba_fi_page_details_page_title"
+msgstr "Titre"
+
+msgid "weba_fi_page_details_security"
+msgstr "Sécurité"
+
+msgid "weba_fi_page_details_verification"
+msgstr "Vérification"
+
+msgid "weba_fi_saved_pass"
+msgstr "Mots de passe enregistrés"
+
+msgid "weba_fi_select_username_title"
+msgstr "Sélectionner un nom d'utilisateur"
+
+msgid "weba_fi_settings_general_maxcache"
+msgstr "Taille de la mémoire cache"
+
+msgid "weba_fi_settings_plug_ins_enable_java_script"
+msgstr "Activer JavaScript"
+
+msgid "weba_fi_settings_privacy_accept_cookies"
+msgstr "Accepter cookies"
+
+msgid "weba_fi_settings_privacy_enable_pop_up_windows"
+msgstr "Ouvrir fenêtres contextuelles"
+
+msgid "weba_fi_settings_privacy_password"
+msgstr "Activer la sauvegarde de mots de passe"
+
+msgid "weba_fi_size_colon"
+msgstr "Taille"
+
+msgid "weba_fi_type_colon"
+msgstr "Type"
+
+msgid "weba_ib_closing_a_window_background"
+msgstr "Fermeture d'une fenêtre en arrière-plan"
+
+msgid "weba_ib_downloading_complete"
+msgstr "Téléchargement de %s terminé."
+
+msgid "weba_ib_enter_location"
+msgstr "Entrer d'abord l'adresse"
+
+msgid "weba_ib_flash_full"
+msgstr "Appuyer sur Retour arrière pour quitter le mode plein écran"
+
+msgid "weba_ib_invalid_username_or_password"
+msgstr "Nom d'utilisateur ou mot de passe incorrect"
+
+msgid "weba_ib_opening_new_window"
+msgstr "Ouverture nouvelle fenêtre"
+
+msgid "weba_ib_pop_up_window_blocked"
+msgstr "Fenêtre contextuelle bloquée"
+
+msgid "weba_ib_secure_server"
+msgstr "%s vérifié par %s"
+
+msgid "weba_ib_select_update_first"
+msgstr "Sélectionner d'abord la mise à jour"
+
+msgid "weba_ib_some_cache_items_cannot_be_deleted"
+msgstr "Certains éléments du cache sont utilisés. Impossible de les supprimer."
+
+msgid "weba_ib_target_not"
+msgstr "Fichier cible non disponible"
+
+msgid "weba_ib_upload_failed"
+msgstr "Échec du chargement"
+
+msgid "weba_li_history_list_item_name"
+msgstr "%s"
+
+msgid "weba_li_history_list_nr"
+msgid_plural "weba_li_history_list_nrs"
+msgstr[0] "%d élément"
+msgstr[1] "%d éléments"
+
+msgid "weba_li_history_list_today"
+msgstr "Aujourd'hui"
+
+msgid "weba_li_history_list_yesterday"
+msgstr "Hier"
+
+msgid "weba_me_add"
+msgstr "Ajouter adresse"
+
+msgid "weba_me_add_bookmark"
+msgstr "Ajouter aux signets"
+
+msgid "weba_me_add_home"
+msgstr "Ajouter raccourci sur le bureau"
+
+msgid "weba_me_add_link"
+msgstr "Ajouter signet"
+
+msgid "weba_me_adjustview"
+msgstr "Régler l'affichage"
+
+msgid "weba_me_clear_privatedata"
+msgstr "Effacer les données privées"
+
+msgid "weba_me_complete_his"
+msgstr "Historique complet de navigation"
+
+msgid "weba_me_components"
+msgstr "Modules complémentaires"
+
+msgid "weba_me_copy"
+msgstr "Copier"
+
+msgid "weba_me_copy_address"
+msgstr "Copier adresse du lien"
+
+msgid "weba_me_copy_img_address"
+msgstr "Copier adresse de l'image"
+
+msgid "weba_me_details"
+msgstr "Détails"
+
+msgid "weba_me_downloads"
+msgstr "Téléchargements"
+
+msgid "weba_me_find_on_page"
+msgstr "Chercher dans la page"
+
+msgid "weba_me_load_img"
+msgstr "Charger l'image"
+
+msgid "weba_me_new_window"
+msgstr "Nouvelle fenêtre"
+
+msgid "weba_me_open_bookmark_new_window"
+msgstr "Ouvrir dans nouvelle fenêtre"
+
+msgid "weba_me_open_in_new_window"
+msgstr "Ouvrir dans nouvelle fenêtre"
+
+msgid "weba_me_open_link_new_window"
+msgstr "Ouvrir le lien dans une nouvelle fenêtre"
+
+msgid "weba_me_openfile"
+msgstr "Ouvrir fichier"
+
+msgid "weba_me_options"
+msgstr "Options"
+
+msgid "weba_me_paste"
+msgstr "Coller"
+
+msgid "weba_me_reload"
+msgstr "Rafraîchir"
+
+msgid "weba_me_rss"
+msgstr "S'abonner au flux : %s"
+
+msgid "weba_me_save_img"
+msgstr "Enregistrer l'image sous…"
+
+msgid "weba_me_save_link_as"
+msgstr "Enregistrer le lien sous"
+
+msgid "weba_me_save_page"
+msgstr "Enregistrer la page sous"
+
+msgid "weba_me_settings"
+msgstr "Paramètres"
+
+msgid "weba_nc_change_stored_password"
+msgstr "Modifier le mot de passe enregistré pour %s ?"
+
+msgid "weba_nc_close"
+msgstr ""
+"La page Web ne répond pas. Forcer la fermeture de la fenêtre ?\n"
+"Les données non sauvegardées risquent d'être perdues."
+
+msgid "weba_nc_close_app_pause_load"
+msgstr ""
+"Fermer l'application et\n"
+"mettre en pause le téléchargement en cours ?\n"
+"%s"
+
+msgid "weba_nc_close_app_pause_loads"
+msgstr ""
+"Fermer l'application et\n"
+"mettre en pause les téléchargements en cours ?"
+
+msgid "weba_nc_delete_dowload"
+msgstr ""
+"Supprimer le téléchargement ?\n"
+"%s"
+
+msgid "weba_nc_geolocaton_dis"
+msgstr "Autoriser ce site à connaître votre localisation ?"
+
+msgid "weba_nc_remember_credentials"
+msgstr "Conserver les informations d'identification pour ce site en mémoire ?"
+
+msgid "weba_save_as"
+msgstr "Enregistrer la page sous"
+
+msgid "weba_search_list"
+msgstr "Recherche Google : %s"
+
+msgid "weba_ti_add_adress"
+msgstr "Ajouter adresse"
+
+msgid "weba_ti_add_bookmark_title"
+msgstr "Ajouter signet"
+
+msgid "weba_ti_adjuvi_met_showimg"
+msgstr "Afficher images"
+
+msgid "weba_ti_adjuvi_title"
+msgstr "Régler l'affichage"
+
+msgid "weba_ti_auhentication_title"
+msgstr "Authentification"
+
+msgid "weba_ti_bookmarks"
+msgstr "Signets"
+
+msgid "weba_ti_bookmarks_portrait"
+msgstr "Signets"
+
+msgid "weba_ti_clear_privatedata"
+msgstr "Effacer les données privées"
+
+msgid "weba_ti_compbrhis"
+msgstr "Historique complet de navigation"
+
+msgid "weba_ti_cookie_conf"
+msgstr "Confirmation du cookie"
+
+msgid "weba_ti_cookie_conf_accept_nor"
+msgstr ""
+"Accepter le cookie ?\n"
+"%s"
+
+msgid "weba_ti_cookie_conf_server"
+msgstr "Appliquer à tous les cookies du même serveur"
+
+msgid "weba_ti_cookie_details_title"
+msgstr "Détails du cookie"
+
+msgid "weba_ti_deletebook"
+msgstr "Sélectionner les signets"
+
+msgid "weba_ti_download_file_title"
+msgstr "Télécharger fichier"
+
+msgid "weba_ti_downloads_title"
+msgstr "Téléchargements"
+
+msgid "weba_ti_edit_bookmark_title"
+msgstr "Modifier signet"
+
+msgid "weba_ti_edit_folder"
+msgstr "Modifier dossier"
+
+msgid "weba_ti_foldername"
+msgstr "%s"
+
+msgid "weba_ti_geolocoation"
+msgstr "Géolocalisation"
+
+msgid "weba_ti_image_details_title"
+msgstr "Détails de l'image"
+
+msgid "weba_ti_java_script_confirmation"
+msgstr "Conf. de JavaScript"
+
+msgid "weba_ti_java_script_prompt"
+msgstr "Invite JavaScript"
+
+msgid "weba_ti_javas_alert"
+msgstr "Invite JavaScript"
+
+msgid "weba_ti_options"
+msgstr "Options"
+
+msgid "weba_ti_page_details_title"
+msgstr "Détails de la page"
+
+msgid "weba_ti_recenthis"
+msgstr "Historique récent"
+
+msgid "weba_ti_remeber_credentials"
+msgstr "Conserver le mot de passe en mémoire"
+
+msgid "weba_ti_select_file_title"
+msgstr "Sélectionner fichier "
+
+msgid "weba_ti_settings_browser"
+msgstr "Navigateur"
+
+msgid "weba_ti_settings_content"
+msgstr "Contenu"
+
+msgid "weba_ti_settings_title"
+msgstr "Paramètres"
+
+msgid "weba_ti_texlist_single"
+msgstr "Sélectionner option"
+
+msgid "weba_ti_text"
+msgstr "Taille du texte"
+
+msgid "weba_ti_textlist_multi"
+msgstr "Sélectionner options"
+
+msgid "weba_ti_webstart"
+msgstr "Web"
+
+msgid "weba_ti_webstart_portrait"
+msgstr "Web"
+
+msgid "weba_va_always"
+msgstr "Toujours"
+
+msgid "weba_va_download_from"
+msgstr "Depuis"
+
+msgid "weba_va_downloads_rec_kb"
+msgstr "%d Ko"
+
+msgid "weba_va_downloads_rec_percent"
+msgstr "%d%%"
+
+msgid "weba_va_downloads_size_kb"
+msgstr "%.2f Ko"
+
+msgid "weba_va_downloads_size_unknown"
+msgstr "–"
+
+msgid "weba_va_encoding_big5"
+msgstr "Chinois traditionnel (Big5 I/II)"
+
+msgid "weba_va_encoding_euc_tw"
+msgstr "Chinois traditionnel (EUC-TW)"
+
+msgid "weba_va_encoding_gb_18030"
+msgstr "Chinois simplifié (GB18030)"
+
+msgid "weba_va_encoding_iso_2022_cn"
+msgstr "Chinois simplifié (ISO-2022-CN)"
+
+msgid "weba_va_encoding_iso_8859_1"
+msgstr "Latin (ISO 8859-1)"
+
+msgid "weba_va_encoding_iso_8859_15"
+msgstr "Latin étendu (ISO-8859-15)"
+
+msgid "weba_va_encoding_iso_8859_2"
+msgstr "Europe centrale (ISO 8859-2)"
+
+msgid "weba_va_encoding_iso_8859_7"
+msgstr "Grec (ISO 8859-7)"
+
+msgid "weba_va_encoding_iso_8859_9"
+msgstr "Turc (ISO 8859-9)"
+
+msgid "weba_va_encoding_utf_16"
+msgstr "Unicode (UTF-16)"
+
+msgid "weba_va_encoding_utf_8"
+msgstr "Unicode (UTF-8)"
+
+msgid "weba_va_encoding_win_1250"
+msgstr "Europe centrale (Windows-1250)"
+
+msgid "weba_va_encoding_win_1251"
+msgstr "Cyrillique (Windows-1251)"
+
+msgid "weba_va_encoding_win_1253"
+msgstr "Grec (Windows-1253)"
+
+msgid "weba_va_encoding_win_1254"
+msgstr "Turc (Windows-1254)"
+
+msgid "weba_va_encoding_win_koi_8r"
+msgstr "Cyrillique (KOI-8R)"
+
+msgid "weba_va_high"
+msgstr "Élevée"
+
+msgid "weba_va_image_details_dim_px"
+msgstr "%1$d x %2$d pixels"
+
+msgid "weba_va_larger"
+msgstr "Grande"
+
+msgid "weba_va_largest"
+msgstr "Très grande"
+
+msgid "weba_va_loaded"
+msgstr "Déjà dans le cache"
+
+msgid "weba_va_low"
+msgstr "Faible"
+
+msgid "weba_va_medium"
+msgstr "Moyenne"
+
+msgid "weba_va_modal_dialog_abort"
+msgstr "Abandonner"
+
+msgid "weba_va_modal_dialog_cancel"
+msgstr "Annuler"
+
+msgid "weba_va_modal_dialog_ignore"
+msgstr "Ignorer"
+
+msgid "weba_va_modal_dialog_no"
+msgstr "Non"
+
+msgid "weba_va_modal_dialog_ok"
+msgstr "OK"
+
+msgid "weba_va_modal_dialog_retry"
+msgstr "Réessayer ?"
+
+msgid "weba_va_modal_dialog_yes"
+msgstr "Oui"
+
+msgid "weba_va_never"
+msgstr "Jamais"
+
+msgid "weba_va_normal"
+msgstr "Normale"
+
+msgid "weba_va_not_secure"
+msgstr "Page non sécurisée"
+
+msgid "weba_va_page_details_size_kb"
+msgstr "%.2f Ko"
+
+msgid "weba_va_page_not_verified"
+msgstr "Identité du site Web non vérifiée"
+
+msgid "weba_va_save_complete"
+msgstr "Page web complète"
+
+msgid "weba_va_save_html_only"
+msgstr "HTML uniquement"
+
+msgid "weba_va_saved_password"
+msgstr "(mot de passe enregistré)"
+
+msgid "weba_va_settings_autofocus"
+msgstr "Mise au point automatique - Champ d'adresse"
+
+msgid "weba_va_settings_fullscreen"
+msgstr "Ouvrir en plein écran"
+
+msgid "weba_va_settings_general_maxc_1024"
+msgstr "10 Mo"
+
+msgid "weba_va_settings_general_maxc_2048"
+msgstr "20 Mo"
+
+msgid "weba_va_settings_general_maxc_4096"
+msgstr "40 Mo"
+
+msgid "weba_va_settings_general_maxc_512"
+msgstr "5 Mo"
+
+msgid "weba_va_settings_general_maxc_aut"
+msgstr "Automatique"
+
+msgid "weba_va_settings_general_maxc_off"
+msgstr "Cache désactivé"
+
+msgid "weba_va_settings_geolocation"
+msgstr "Géolocalisation"
+
+msgid "weba_va_settings_hwkeys"
+msgstr "Assigner touches augmentation et diminution au"
+
+msgid "weba_va_settings_hwkeys_volume"
+msgstr "Volume"
+
+msgid "weba_va_settings_hwkeys_zoom"
+msgstr "Zoom"
+
+msgid "weba_va_settings_javaflash"
+msgstr "Autoriser les pauses JavaScript"
+
+msgid "weba_va_settings_javaflash_immediately"
+msgstr "immédiatement"
+
+msgid "weba_va_settings_javaflash_in15"
+msgstr "au bout de 15 sec."
+
+msgid "weba_va_settings_javaflash_in30"
+msgstr "au bout de 30 sec."
+
+msgid "weba_va_settings_javaflash_in60"
+msgstr "au bout de 60 sec."
+
+msgid "weba_va_settings_javaflash_not"
+msgstr "Ne pas mettre en pause"
+
+msgid "weba_va_settings_portrait"
+msgstr "Activer pivotement"
+
+msgid "weba_va_settings_privacy_accept_cookies_always"
+msgstr "Toujours"
+
+msgid "weba_va_settings_privacy_accept_cookies_askfirst"
+msgstr "Demander"
+
+msgid "weba_va_settings_privacy_accept_cookies_never"
+msgstr "Jamais"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_always"
+msgstr "Toujours"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_askfirst"
+msgstr "Manuellement"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_never"
+msgstr "Jamais"
+
+msgid "weba_yi_hisfolder"
+msgstr "%s"
+
+msgid "webb_fi_bookmark_details_add"
+msgstr "Ajouté"
+
+msgid "webb_fi_bookmark_details_use"
+msgstr "Dernière utilisation"
+
+msgid "webb_fi_folder_details_contents"
+msgstr "Contenu"
+
+msgid "webb_fi_folder_details_contents_01"
+msgstr "1 signet"
+
+msgid "webb_fi_folder_details_contents_02"
+msgstr "2 signets"
+
+msgid "webb_fi_folder_details_contents_0n"
+msgstr "%d signets"
+
+msgid "webb_fi_folder_details_contents_10"
+msgstr "1 dossier"
+
+msgid "webb_fi_folder_details_contents_1n"
+msgstr "1 dossier, %d signets"
+
+msgid "webb_fi_folder_details_contents_20"
+msgstr "2 dossiers"
+
+msgid "webb_fi_folder_details_contents_2n"
+msgstr "2 dossiers, %d signets"
+
+msgid "webb_fi_folder_details_contents_bookmark"
+msgid_plural "webb_fi_folder_details_contents_bookmars"
+msgstr[0] "%d signet"
+msgstr[1] "%d signets"
+
+msgid "webb_fi_folder_details_contents_folder"
+msgid_plural "webb_fi_folder_details_contents_folders"
+msgstr[0] "%d dossier "
+msgstr[1] "%d dossiers "
+
+msgid "webb_fi_folder_details_contents_n0"
+msgstr "%d dossiers"
+
+msgid "webb_fi_folder_details_contents_n1"
+msgstr "%d dossiers, 1 signet"
+
+msgid "webb_fi_folder_details_contents_n2"
+msgstr "%d dossiers, 2 signets"
+
+msgid "webb_fi_folder_details_contents_nn"
+msgstr "%d dossiers, %d signets"
+
+msgid "webb_fi_folder_details_date"
+msgstr "Ajouté"
+
+msgid "webb_fi_folder_details_time"
+msgstr "Modifié"
+
+msgid "webb_folder_imported_bookmarks"
+msgstr "Signets importés"
+
+msgid "webb_folder_operator"
+msgstr "Signets de l'opérateur"
+
+msgid "webb_folder_root_user"
+msgstr "Mes signets"
+
+msgid "webb_ia_cookie_after_sessions_ends"
+msgstr "Après la session"
+
+msgid "webb_ia_no_bookmarks_folders_to_show"
+msgstr "(aucun signet/dossier)"
+
+msgid "webb_ia_no_description"
+msgstr "(aucune description)"
+
+msgid "webb_ia_no_downloads"
+msgstr "(aucun fichier téléchargé)"
+
+msgid "webb_ia_none"
+msgstr "Aucun"
+
+msgid "webb_ia_not_available"
+msgstr "Non disponible"
+
+msgid "webb_ia_not_defined_in_html"
+msgstr "(sans titre)"
+
+msgid "webb_ia_unknown"
+msgstr "Inconnu"
+
+msgid "webb_ib_this_folder_cannot_be_renamed"
+msgstr "Impossible de renommer le dossier sélectionné"
+
+msgid "webb_me_delete"
+msgstr "Supprimer"
+
+msgid "webb_me_details"
+msgstr "Détails"
+
+msgid "webb_me_file_edit"
+msgstr "Édition"
+
+msgid "webb_me_impor"
+msgstr "Importer signets"
+
+msgid "webb_me_move_to"
+msgstr "Déplacer"
+
+msgid "webb_nc_delete_item_nr"
+msgid_plural "webb_nc_delete_item_nrs"
+msgstr[0] "Supprimer %s ?"
+msgstr[1] "Supprimer les %d éléments sélectionnés ?"
+
+msgid "webb_nc_replace_item_nr"
+msgid_plural "webb_nc_replace_item_nrs"
+msgstr[0] "Remplacer l'élément portant le même nom ?"
+msgstr[1] "Remplacer les %d éléments portant le même nom ?"
+
+msgid "webb_ni_change_save_target_location"
+msgstr ""
+"Impossible d'enregistrer à l'emplacement sélectionné.\n"
+"Enregistrer dans la mémoire du terminal ?"
+
+msgid "webb_ni_downloading_paused"
+msgstr ""
+"Mémoire du terminal insuffisante.\n"
+"Téléchargement en pause."
+
+msgid "webb_ni_invalid_bookmarks_file"
+msgstr ""
+"Fichier de signets non valide.\n"
+"Aucun signet n'a été importé."
+
+msgid "webb_ni_resuming_failed"
+msgstr ""
+"Échec de la reprise du téléchargement.\n"
+"Relancer ?"
+
+msgid "webb_ni_target_folder_not_available"
+msgstr ""
+"Dossier cible non disponible.\n"
+"Enregistrer dans un autre dossier."
+
+msgid "webb_ni_target_location_not_available"
+msgstr ""
+"Emplacement cible non disponible.\n"
+"Enregistrer dans la mémoire locale."
+
+msgid "webb_nw_deleting_bookmark"
+msgstr "Suppression en cours"
+
+msgid "webb_nw_importing_bookmark"
+msgstr "Importation en cours"
+
+msgid "webb_nw_moving_bookmark"
+msgstr "Déplacement en cours"
+
+msgid "webb_ti_bookmark_details_title"
+msgstr "Détails du signet"
+
+msgid "webb_ti_folder_details"
+msgstr "Détails du dossier"
+
+msgid "webb_ti_selectbok"
+msgstr "Sélectionner les signets"

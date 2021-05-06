@@ -1,0 +1,855 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-browser-ui 20100208121232\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "bookm_li_imported_bookmarksd"
+msgstr "Tuodut kirjanmerkit (%d)"
+
+msgid "bookm_ti_import_bookmarks"
+msgstr "Tuo kirjanmerkkejä"
+
+msgid "weba_ap_web_browser"
+msgstr "Web"
+
+msgid "weba_bd_cancel"
+msgstr "Peruuta"
+
+msgid "weba_bd_certificate"
+msgstr "Varmenne"
+
+msgid "weba_bd_close"
+msgstr "Sulje"
+
+msgid "weba_bd_cookie_conf_accept"
+msgstr "Hyväksy"
+
+msgid "weba_bd_cookie_conf_reject"
+msgstr "Hylkää"
+
+msgid "weba_bd_delete"
+msgstr "Poista"
+
+msgid "weba_bd_details"
+msgstr "Tiedot"
+
+msgid "weba_bd_download_open_with"
+msgstr "Avaa sovelluksessa"
+
+msgid "weba_bd_download_save_to"
+msgstr "Tallenna laitteeseen"
+
+msgid "weba_bd_downloads_pause"
+msgstr "Keskeytä"
+
+msgid "weba_bd_downloads_resume"
+msgstr "Jatka"
+
+msgid "weba_bd_geolocaton_allow"
+msgstr "Salli"
+
+msgid "weba_bd_geolocaton_always"
+msgstr "Salli aina tälle sivustolle"
+
+msgid "weba_bd_geolocaton_never"
+msgstr "Älä salli koskaan tälle sivustolle"
+
+msgid "weba_bd_moveto"
+msgstr "Siirrä"
+
+msgid "weba_bd_never"
+msgstr "Ei koskaan"
+
+msgid "weba_bd_not_now"
+msgstr "Ei nyt"
+
+msgid "weba_bd_ok"
+msgstr "OK"
+
+msgid "weba_bd_select_clear_alll"
+msgstr "Tyhj. kaikki"
+
+msgid "weba_bd_stop"
+msgstr "Lopeta"
+
+msgid "weba_db_clear"
+msgstr "Tyhjennä"
+
+msgid "weba_fi_address"
+msgstr "Osoite"
+
+msgid "weba_fi_address_colon"
+msgstr "Osoite"
+
+msgid "weba_fi_auhentication_password"
+msgstr "Salasana"
+
+msgid "weba_fi_auhentication_realm"
+msgstr "Viesti"
+
+msgid "weba_fi_auhentication_site"
+msgstr "Palvelin"
+
+msgid "weba_fi_auhentication_username"
+msgstr "Käyttäjänimi"
+
+msgid "weba_fi_authentivated"
+msgstr "Todennetut istunnot"
+
+msgid "weba_fi_browsing_his"
+msgstr "Sivuhistoria"
+
+msgid "weba_fi_cache"
+msgstr "Välimuisti"
+
+msgid "weba_fi_cookie_details_domain"
+msgstr "Toimialue"
+
+msgid "weba_fi_cookie_details_expiration"
+msgstr "Voimassaolo päättyy"
+
+msgid "weba_fi_cookie_details_path"
+msgstr "Polku"
+
+msgid "weba_fi_cookie_details_slash"
+msgstr "/"
+
+msgid "weba_fi_cookie_details_value"
+msgstr "Arvo"
+
+msgid "weba_fi_cookies"
+msgstr "Evästeet"
+
+msgid "weba_fi_downloads_name"
+msgstr "Nimi"
+
+msgid "weba_fi_downloads_percentage"
+msgstr "Lad."
+
+msgid "weba_fi_downloads_size"
+msgstr "Koko"
+
+msgid "weba_fi_encoding"
+msgstr "Koodaus"
+
+msgid "weba_fi_geolocation"
+msgstr "Sijaintioikeudet"
+
+msgid "weba_fi_image_details_dimensions"
+msgstr "Mitat"
+
+msgid "weba_fi_location"
+msgstr "Sijainti"
+
+msgid "weba_fi_name"
+msgstr "Nimi"
+
+msgid "weba_fi_name_colon"
+msgstr "Nimi"
+
+msgid "weba_fi_open_with_colon"
+msgstr "Avaa sovelluksessa:"
+
+msgid "weba_fi_page_details_page_title"
+msgstr "Nimi"
+
+msgid "weba_fi_page_details_security"
+msgstr "Suojaus"
+
+msgid "weba_fi_page_details_verification"
+msgstr "Tarkistus"
+
+msgid "weba_fi_saved_pass"
+msgstr "Tallennetut salasanat"
+
+msgid "weba_fi_select_username_title"
+msgstr "Valitse käyttäjänimi"
+
+msgid "weba_fi_settings_general_maxcache"
+msgstr "Välimuistin koko"
+
+msgid "weba_fi_settings_plug_ins_enable_java_script"
+msgstr "Salli JavaScript"
+
+msgid "weba_fi_settings_privacy_accept_cookies"
+msgstr "Salli evästeet"
+
+msgid "weba_fi_settings_privacy_enable_pop_up_windows"
+msgstr "Avaa ponnahdusikkunat"
+
+msgid "weba_fi_settings_privacy_password"
+msgstr "Tallenna salasanat"
+
+msgid "weba_fi_size_colon"
+msgstr "Koko"
+
+msgid "weba_fi_type_colon"
+msgstr "Tyyppi"
+
+msgid "weba_ib_closing_a_window_background"
+msgstr "Taustalla oleva ikkuna suljetaan"
+
+msgid "weba_ib_downloading_complete"
+msgstr "Tiedoston %s lataus valmis"
+
+msgid "weba_ib_enter_location"
+msgstr "Kirjoita ensin osoite"
+
+msgid "weba_ib_flash_full"
+msgstr "Poistu koko näytön tilasta painamalla askelpalautinta"
+
+msgid "weba_ib_invalid_username_or_password"
+msgstr "Virheellinen käyttäjänimi tai salasana"
+
+msgid "weba_ib_opening_new_window"
+msgstr "Avataan uusi ikkuna"
+
+msgid "weba_ib_pop_up_window_blocked"
+msgstr "Ponnahdusikkuna estetty"
+
+msgid "weba_ib_secure_server"
+msgstr "Sivuston %s on todentanut %s"
+
+msgid "weba_ib_select_update_first"
+msgstr "Valitse päivitys ensin"
+
+msgid "weba_ib_some_cache_items_cannot_be_deleted"
+msgstr "Jotkin välimuistin kohteet ovat käytössä. Ei voi poistaa."
+
+msgid "weba_ib_target_not"
+msgstr "Kohdetiedosto ei ole käytettävissä"
+
+msgid "weba_ib_upload_failed"
+msgstr "Lataaminen palvelimelle epäonnistui"
+
+msgid "weba_li_history_list_item_name"
+msgstr "%s"
+
+msgid "weba_li_history_list_nr"
+msgid_plural "weba_li_history_list_nrs"
+msgstr[0] "%d kohde"
+msgstr[1] "%d kohdetta"
+
+msgid "weba_li_history_list_today"
+msgstr "Tänään"
+
+msgid "weba_li_history_list_yesterday"
+msgstr "Eilen"
+
+msgid "weba_me_add"
+msgstr "Lisää osoite"
+
+msgid "weba_me_add_bookmark"
+msgstr "Lisää kirjanmerkkeihin"
+
+msgid "weba_me_add_home"
+msgstr "Lisää linkki työpöydälle"
+
+msgid "weba_me_add_link"
+msgstr "Lisää kirjanmerkiksi"
+
+msgid "weba_me_adjustview"
+msgstr "Mukauta näkymää"
+
+msgid "weba_me_clear_privatedata"
+msgstr "Tyhjennä henkilökohtaiset tiedot"
+
+msgid "weba_me_complete_his"
+msgstr "Koko sivuhistoria"
+
+msgid "weba_me_components"
+msgstr "Lisäosat"
+
+msgid "weba_me_copy"
+msgstr "Kopioi"
+
+msgid "weba_me_copy_address"
+msgstr "Kopioi linkin osoite"
+
+msgid "weba_me_copy_img_address"
+msgstr "Kopioi kuvan osoite"
+
+msgid "weba_me_details"
+msgstr "Tiedot"
+
+msgid "weba_me_downloads"
+msgstr "Lataukset"
+
+msgid "weba_me_find_on_page"
+msgstr "Etsi sivulta"
+
+msgid "weba_me_load_img"
+msgstr "Lataa kuva"
+
+msgid "weba_me_new_window"
+msgstr "Uusi ikkuna"
+
+msgid "weba_me_open_bookmark_new_window"
+msgstr "Avaa uudessa ikkunassa"
+
+msgid "weba_me_open_in_new_window"
+msgstr "Avaa uudessa ikkunassa"
+
+msgid "weba_me_open_link_new_window"
+msgstr "Avaa linkki uudessa ikkunassa"
+
+msgid "weba_me_openfile"
+msgstr "Avaa tiedosto"
+
+msgid "weba_me_options"
+msgstr "Asetukset"
+
+msgid "weba_me_paste"
+msgstr "Liitä"
+
+msgid "weba_me_reload"
+msgstr "Päivitä"
+
+msgid "weba_me_rss"
+msgstr "Tilaa syöte: %s"
+
+msgid "weba_me_save_img"
+msgstr "Tallenna kuva nimellä"
+
+msgid "weba_me_save_link_as"
+msgstr "Tallenna linkki nimellä"
+
+msgid "weba_me_save_page"
+msgstr "Tallenna sivu nimellä"
+
+msgid "weba_me_settings"
+msgstr "Lisäasetukset"
+
+msgid "weba_nc_change_stored_password"
+msgstr "Vaihdetaanko käyttäjänimen %s tallennettu salasana?"
+
+msgid "weba_nc_close"
+msgstr ""
+"Sivu ei vastaa. Pakotetaanko ikkuna sulkeutumaan?\n"
+"Tallentamattomat tiedot voivat hävitä."
+
+msgid "weba_nc_close_app_pause_load"
+msgstr ""
+"Suljetaanko sovellus ja\n"
+"keskeytetään meneillään oleva lataus?\n"
+"%s"
+
+msgid "weba_nc_close_app_pause_loads"
+msgstr ""
+"Suljetaanko sovellus ja\n"
+"keskeytetään käynnissä olevat lataukset?"
+
+msgid "weba_nc_delete_dowload"
+msgstr ""
+"Poista lataus?\n"
+"%s"
+
+msgid "weba_nc_geolocaton_dis"
+msgstr "Sallitaanko sijaintitietojen luovuttaminen sivustolle?"
+
+msgid "weba_nc_remember_credentials"
+msgstr "Muistetaanko tämän sivuston kirjautumistiedot?"
+
+msgid "weba_save_as"
+msgstr "Tallenna sivu nimellä"
+
+msgid "weba_search_list"
+msgstr "Google-haku: %s"
+
+msgid "weba_ti_add_adress"
+msgstr "Lisää osoite"
+
+msgid "weba_ti_add_bookmark_title"
+msgstr "Lisää kirjanmerkki"
+
+msgid "weba_ti_adjuvi_met_showimg"
+msgstr "Näytä kuvat"
+
+msgid "weba_ti_adjuvi_title"
+msgstr "Mukauta näkymää"
+
+msgid "weba_ti_auhentication_title"
+msgstr "Todennus"
+
+msgid "weba_ti_bookmarks"
+msgstr "Kirjanmerkit"
+
+msgid "weba_ti_bookmarks_portrait"
+msgstr "Kirjanmerkit"
+
+msgid "weba_ti_clear_privatedata"
+msgstr "Tyhjennä henkilökohtaiset tiedot"
+
+msgid "weba_ti_compbrhis"
+msgstr "Koko sivuhistoria"
+
+msgid "weba_ti_cookie_conf"
+msgstr "Evästeen vahvistus"
+
+msgid "weba_ti_cookie_conf_accept_nor"
+msgstr ""
+"Hyväksytäänkö eväste?\n"
+"%s"
+
+msgid "weba_ti_cookie_conf_server"
+msgstr "Käytä kaikkiin saman palvelimen evästeisiin"
+
+msgid "weba_ti_cookie_details_title"
+msgstr "Evästeen tiedot"
+
+msgid "weba_ti_deletebook"
+msgstr "Valitse kirjanmerkit"
+
+msgid "weba_ti_download_file_title"
+msgstr "Tiedoston lataaminen"
+
+msgid "weba_ti_downloads_title"
+msgstr "Lataukset"
+
+msgid "weba_ti_edit_bookmark_title"
+msgstr "Muokkaa kirjanmerkkiä"
+
+msgid "weba_ti_edit_folder"
+msgstr "Muokkaa kansiota"
+
+msgid "weba_ti_foldername"
+msgstr "%s"
+
+msgid "weba_ti_geolocoation"
+msgstr "Sijainti"
+
+msgid "weba_ti_image_details_title"
+msgstr "Kuvan tiedot"
+
+msgid "weba_ti_java_script_confirmation"
+msgstr "JavaScript-vahvistus"
+
+msgid "weba_ti_java_script_prompt"
+msgstr "JavaScript-kehote"
+
+msgid "weba_ti_javas_alert"
+msgstr "JavaScript-hälytys"
+
+msgid "weba_ti_options"
+msgstr "Asetukset"
+
+msgid "weba_ti_page_details_title"
+msgstr "Sivun tiedot"
+
+msgid "weba_ti_recenthis"
+msgstr "Viimeksi avatut"
+
+msgid "weba_ti_remeber_credentials"
+msgstr "Muista salasana"
+
+msgid "weba_ti_select_file_title"
+msgstr "Valitse tiedosto"
+
+msgid "weba_ti_settings_browser"
+msgstr "Selain"
+
+msgid "weba_ti_settings_content"
+msgstr "Sisältö"
+
+msgid "weba_ti_settings_title"
+msgstr "Lisäasetukset"
+
+msgid "weba_ti_texlist_single"
+msgstr "Valitse kohde"
+
+msgid "weba_ti_text"
+msgstr "Tekstikoko"
+
+msgid "weba_ti_textlist_multi"
+msgstr "Valitse kohteet"
+
+msgid "weba_ti_webstart"
+msgstr "Web"
+
+msgid "weba_ti_webstart_portrait"
+msgstr "Web"
+
+msgid "weba_va_always"
+msgstr "Aina"
+
+msgid "weba_va_download_from"
+msgstr "Sijainti"
+
+msgid "weba_va_downloads_rec_kb"
+msgstr "%d kt"
+
+msgid "weba_va_downloads_rec_percent"
+msgstr "%d%%"
+
+msgid "weba_va_downloads_size_kb"
+msgstr "%.2f kt"
+
+msgid "weba_va_downloads_size_unknown"
+msgstr "–"
+
+msgid "weba_va_encoding_big5"
+msgstr "Kiinalainen, perinteinen (Big5 I/II)"
+
+msgid "weba_va_encoding_euc_tw"
+msgstr "Kiinalainen, perinteinen (EUC-TW)"
+
+msgid "weba_va_encoding_gb_18030"
+msgstr "Kiinalainen, yksinkertaistettu (GB18030)"
+
+msgid "weba_va_encoding_iso_2022_cn"
+msgstr "Kiinalainen, yksinkertaistettu (ISO-2022-CN)"
+
+msgid "weba_va_encoding_iso_8859_1"
+msgstr "Latinalainen (ISO 8859-1)"
+
+msgid "weba_va_encoding_iso_8859_15"
+msgstr "Laajennettu latinalainen (ISO-8859-15)"
+
+msgid "weba_va_encoding_iso_8859_2"
+msgstr "Keskieurooppalainen (ISO 8859-2)"
+
+msgid "weba_va_encoding_iso_8859_7"
+msgstr "Kreikkalainen (ISO 8859-7)"
+
+msgid "weba_va_encoding_iso_8859_9"
+msgstr "Turkkilainen (ISO 8859-9)"
+
+msgid "weba_va_encoding_utf_16"
+msgstr "Unicode (UTF-16)"
+
+msgid "weba_va_encoding_utf_8"
+msgstr "Unicode (UTF-8)"
+
+msgid "weba_va_encoding_win_1250"
+msgstr "Keskieurooppalainen (Windows-1250)"
+
+msgid "weba_va_encoding_win_1251"
+msgstr "Kyrillinen (Windows-1251)"
+
+msgid "weba_va_encoding_win_1253"
+msgstr "Kreikkalainen (Windows-1253)"
+
+msgid "weba_va_encoding_win_1254"
+msgstr "Turkkilainen (Windows-1254)"
+
+msgid "weba_va_encoding_win_koi_8r"
+msgstr "Kyrillinen (KOI-8R)"
+
+msgid "weba_va_high"
+msgstr "Korkea"
+
+msgid "weba_va_image_details_dim_px"
+msgstr "%1$d x %2$d kuvapistettä"
+
+msgid "weba_va_larger"
+msgstr "Suuri"
+
+msgid "weba_va_largest"
+msgstr "Erittäin suuri"
+
+msgid "weba_va_loaded"
+msgstr "Välimuistissa olevat"
+
+msgid "weba_va_low"
+msgstr "Alhainen"
+
+msgid "weba_va_medium"
+msgstr "Keskitaso"
+
+msgid "weba_va_modal_dialog_abort"
+msgstr "Keskeytä"
+
+msgid "weba_va_modal_dialog_cancel"
+msgstr "Peruuta"
+
+msgid "weba_va_modal_dialog_ignore"
+msgstr "Ohita"
+
+msgid "weba_va_modal_dialog_no"
+msgstr "Ei"
+
+msgid "weba_va_modal_dialog_ok"
+msgstr "OK"
+
+msgid "weba_va_modal_dialog_retry"
+msgstr "Yritetäänkö uudelleen?"
+
+msgid "weba_va_modal_dialog_yes"
+msgstr "Kyllä"
+
+msgid "weba_va_never"
+msgstr "Ei koskaan"
+
+msgid "weba_va_normal"
+msgstr "Normaali"
+
+msgid "weba_va_not_secure"
+msgstr "Sivu ei ole suojattu"
+
+msgid "weba_va_page_details_size_kb"
+msgstr "%.2f kt"
+
+msgid "weba_va_page_not_verified"
+msgstr "Web-sivuston identiteettiä ei ole todennettu"
+
+msgid "weba_va_save_complete"
+msgstr "Kokonainen Web-sivu"
+
+msgid "weba_va_save_html_only"
+msgstr "Vain HTML"
+
+msgid "weba_va_saved_password"
+msgstr "(tallennettu salasana)"
+
+msgid "weba_va_settings_autofocus"
+msgstr "Kohdennus osoitekenttään"
+
+msgid "weba_va_settings_fullscreen"
+msgstr "Avaa koko näytön tilassa"
+
+msgid "weba_va_settings_general_maxc_1024"
+msgstr "10 Mt"
+
+msgid "weba_va_settings_general_maxc_2048"
+msgstr "20 Mt"
+
+msgid "weba_va_settings_general_maxc_4096"
+msgstr "40 Mt"
+
+msgid "weba_va_settings_general_maxc_512"
+msgstr "5 Mt"
+
+msgid "weba_va_settings_general_maxc_aut"
+msgstr "Automaattinen"
+
+msgid "weba_va_settings_general_maxc_off"
+msgstr "Ei käytössä"
+
+msgid "weba_va_settings_geolocation"
+msgstr "Sijainti"
+
+msgid "weba_va_settings_hwkeys"
+msgstr "Lisäys- ja vähennyspainikkeiden käyttö:"
+
+msgid "weba_va_settings_hwkeys_volume"
+msgstr "äänenvoimakkuus"
+
+msgid "weba_va_settings_hwkeys_zoom"
+msgstr "zoomaus"
+
+msgid "weba_va_settings_javaflash"
+msgstr "Salli JavaScript-keskeytys"
+
+msgid "weba_va_settings_javaflash_immediately"
+msgstr "heti"
+
+msgid "weba_va_settings_javaflash_in15"
+msgstr "15 sekunnin kuluttua"
+
+msgid "weba_va_settings_javaflash_in30"
+msgstr "30 sekunnin kuluttua"
+
+msgid "weba_va_settings_javaflash_in60"
+msgstr "60 sekunnin kuluttua"
+
+msgid "weba_va_settings_javaflash_not"
+msgstr "Älä keskeytä"
+
+msgid "weba_va_settings_portrait"
+msgstr "Ota kierto käyttöön"
+
+msgid "weba_va_settings_privacy_accept_cookies_always"
+msgstr "Aina"
+
+msgid "weba_va_settings_privacy_accept_cookies_askfirst"
+msgstr "Kysy ensin"
+
+msgid "weba_va_settings_privacy_accept_cookies_never"
+msgstr "Ei koskaan"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_always"
+msgstr "Aina"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_askfirst"
+msgstr "Kysy ensin"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_never"
+msgstr "Ei koskaan"
+
+msgid "weba_yi_hisfolder"
+msgstr "%s"
+
+msgid "webb_fi_bookmark_details_add"
+msgstr "Lisätty"
+
+msgid "webb_fi_bookmark_details_use"
+msgstr "Viimeksi käytetty"
+
+msgid "webb_fi_folder_details_contents"
+msgstr "Sisältö"
+
+msgid "webb_fi_folder_details_contents_01"
+msgstr "1 kirjanmerkki"
+
+msgid "webb_fi_folder_details_contents_02"
+msgstr "2 kirjanmerkkiä"
+
+msgid "webb_fi_folder_details_contents_0n"
+msgstr "%d kirjanmerkkiä"
+
+msgid "webb_fi_folder_details_contents_10"
+msgstr "1 kansio"
+
+msgid "webb_fi_folder_details_contents_1n"
+msgstr "1 kansio, %d kirjanmerkkiä"
+
+msgid "webb_fi_folder_details_contents_20"
+msgstr "2 kansiota"
+
+msgid "webb_fi_folder_details_contents_2n"
+msgstr "2 kansiota, %d kirjanmerkkiä"
+
+msgid "webb_fi_folder_details_contents_bookmark"
+msgid_plural "webb_fi_folder_details_contents_bookmars"
+msgstr[0] "%d kirjanmerkki"
+msgstr[1] "%d kirjanmerkkiä"
+
+msgid "webb_fi_folder_details_contents_folder"
+msgid_plural "webb_fi_folder_details_contents_folders"
+msgstr[0] "%d kansio "
+msgstr[1] "%d kansiota "
+
+msgid "webb_fi_folder_details_contents_n0"
+msgstr "%d kansiota"
+
+msgid "webb_fi_folder_details_contents_n1"
+msgstr "%d kansiota, 1 kirjanmerkki"
+
+msgid "webb_fi_folder_details_contents_n2"
+msgstr "%d kansiota, 2 kirjanmerkkiä"
+
+msgid "webb_fi_folder_details_contents_nn"
+msgstr "%d kansiota, %d kirjanmerkkiä"
+
+msgid "webb_fi_folder_details_date"
+msgstr "Lisätty"
+
+msgid "webb_fi_folder_details_time"
+msgstr "Muokattu"
+
+msgid "webb_folder_imported_bookmarks"
+msgstr "Tuodut kirjanmerkit"
+
+msgid "webb_folder_operator"
+msgstr "Operaattorin kirjanmerkit"
+
+msgid "webb_folder_root_user"
+msgstr "Omat kirjanmerkit"
+
+msgid "webb_ia_cookie_after_sessions_ends"
+msgstr "Istunnon jälkeen"
+
+msgid "webb_ia_no_bookmarks_folders_to_show"
+msgstr "(ei kirjanmerkkejä/kansioita)"
+
+msgid "webb_ia_no_description"
+msgstr "(ei kuvausta)"
+
+msgid "webb_ia_no_downloads"
+msgstr "(ei latauksia käynnissä)"
+
+msgid "webb_ia_none"
+msgstr "Ei mitään"
+
+msgid "webb_ia_not_available"
+msgstr "Ei käytettävissä"
+
+msgid "webb_ia_not_defined_in_html"
+msgstr "(nimetön)"
+
+msgid "webb_ia_unknown"
+msgstr "Tuntematon"
+
+msgid "webb_ib_this_folder_cannot_be_renamed"
+msgstr "Valittua kansiota ei voi nimetä uudelleen"
+
+msgid "webb_me_delete"
+msgstr "Poista"
+
+msgid "webb_me_details"
+msgstr "Tiedot"
+
+msgid "webb_me_file_edit"
+msgstr "Muokkaa"
+
+msgid "webb_me_impor"
+msgstr "Tuo kirjanmerkkejä"
+
+msgid "webb_me_move_to"
+msgstr "Siirrä"
+
+msgid "webb_nc_delete_item_nr"
+msgid_plural "webb_nc_delete_item_nrs"
+msgstr[0] "Poista '%s'?"
+msgstr[1] "Poistetaanko %d valittua kohdetta?"
+
+msgid "webb_nc_replace_item_nr"
+msgid_plural "webb_nc_replace_item_nrs"
+msgstr[0] "Korvataanko nykyinen samanniminen kohde?"
+msgstr[1] "Korvataanko nykyiset %d samannimistä kohdetta?"
+
+msgid "webb_ni_change_save_target_location"
+msgstr ""
+"Valittuun sijaintiin ei voi tallentaa.\n"
+"Tallennetaanko laitteen muistiin?"
+
+msgid "webb_ni_downloading_paused"
+msgstr ""
+"Laitteen muisti ei riitä.\n"
+"Haku keskeytetty."
+
+msgid "webb_ni_invalid_bookmarks_file"
+msgstr ""
+"Virheellinen kirjanmerkkitiedosto.\n"
+"Kirjanmerkkejä ei tuotu."
+
+msgid "webb_ni_resuming_failed"
+msgstr ""
+"Latauksen jatkaminen epäonnistui.\n"
+"Aloitetaanko uusi lataus?"
+
+msgid "webb_ni_target_folder_not_available"
+msgstr ""
+"Kohdekansio ei ole käytettävissä.\n"
+"Tallenna toiseen kansioon."
+
+msgid "webb_ni_target_location_not_available"
+msgstr ""
+"Kohdesijainti ei ole käytettävissä.\n"
+"Tallenna paikalliseen muistiin."
+
+msgid "webb_nw_deleting_bookmark"
+msgstr "Poistetaan"
+
+msgid "webb_nw_importing_bookmark"
+msgstr "Tuodaan"
+
+msgid "webb_nw_moving_bookmark"
+msgstr "Siirretään"
+
+msgid "webb_ti_bookmark_details_title"
+msgstr "Kirjanmerkin tiedot"
+
+msgid "webb_ti_folder_details"
+msgstr "Kansion tiedot"
+
+msgid "webb_ti_selectbok"
+msgstr "Valitse kirjanmerkit"

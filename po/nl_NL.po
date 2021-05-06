@@ -1,0 +1,855 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-browser-ui 20100208121232\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "bookm_li_imported_bookmarksd"
+msgstr "Geïmporteerde favorieten (%d)"
+
+msgid "bookm_ti_import_bookmarks"
+msgstr "Favorieten importeren"
+
+msgid "weba_ap_web_browser"
+msgstr "Web"
+
+msgid "weba_bd_cancel"
+msgstr "Annuleren"
+
+msgid "weba_bd_certificate"
+msgstr "Certificaat"
+
+msgid "weba_bd_close"
+msgstr "Sluiten"
+
+msgid "weba_bd_cookie_conf_accept"
+msgstr "Accepteren"
+
+msgid "weba_bd_cookie_conf_reject"
+msgstr "Weigeren"
+
+msgid "weba_bd_delete"
+msgstr "Verwijderen"
+
+msgid "weba_bd_details"
+msgstr "Details"
+
+msgid "weba_bd_download_open_with"
+msgstr "Openen met"
+
+msgid "weba_bd_download_save_to"
+msgstr "Opslaan naar apparaat"
+
+msgid "weba_bd_downloads_pause"
+msgstr "Pauzeren"
+
+msgid "weba_bd_downloads_resume"
+msgstr "Hervatten"
+
+msgid "weba_bd_geolocaton_allow"
+msgstr "Toestaan"
+
+msgid "weba_bd_geolocaton_always"
+msgstr "Alleen voor deze site toestaan"
+
+msgid "weba_bd_geolocaton_never"
+msgstr "Nooit voor deze site toestaan"
+
+msgid "weba_bd_moveto"
+msgstr "Verplaatsen"
+
+msgid "weba_bd_never"
+msgstr "Nooit"
+
+msgid "weba_bd_not_now"
+msgstr "Nu niet"
+
+msgid "weba_bd_ok"
+msgstr "OK"
+
+msgid "weba_bd_select_clear_alll"
+msgstr "Alles wissen"
+
+msgid "weba_bd_stop"
+msgstr "Stoppen"
+
+msgid "weba_db_clear"
+msgstr "Wissen"
+
+msgid "weba_fi_address"
+msgstr "Adres"
+
+msgid "weba_fi_address_colon"
+msgstr "Adres"
+
+msgid "weba_fi_auhentication_password"
+msgstr "Wachtwoord"
+
+msgid "weba_fi_auhentication_realm"
+msgstr "Bericht"
+
+msgid "weba_fi_auhentication_site"
+msgstr "Server"
+
+msgid "weba_fi_auhentication_username"
+msgstr "Gebruikersnaam"
+
+msgid "weba_fi_authentivated"
+msgstr "Geverifieerde sessies"
+
+msgid "weba_fi_browsing_his"
+msgstr "Geschiedenis"
+
+msgid "weba_fi_cache"
+msgstr "Cache"
+
+msgid "weba_fi_cookie_details_domain"
+msgstr "Domein"
+
+msgid "weba_fi_cookie_details_expiration"
+msgstr "Verloopt op"
+
+msgid "weba_fi_cookie_details_path"
+msgstr "Pad"
+
+msgid "weba_fi_cookie_details_slash"
+msgstr "/"
+
+msgid "weba_fi_cookie_details_value"
+msgstr "Waarde"
+
+msgid "weba_fi_cookies"
+msgstr "Cookies"
+
+msgid "weba_fi_downloads_name"
+msgstr "Naam"
+
+msgid "weba_fi_downloads_percentage"
+msgstr "Ontv."
+
+msgid "weba_fi_downloads_size"
+msgstr "Grootte"
+
+msgid "weba_fi_encoding"
+msgstr "Codering"
+
+msgid "weba_fi_geolocation"
+msgstr "Geolocatiemachtigingen"
+
+msgid "weba_fi_image_details_dimensions"
+msgstr "Afmetingen"
+
+msgid "weba_fi_location"
+msgstr "Locatie"
+
+msgid "weba_fi_name"
+msgstr "Naam"
+
+msgid "weba_fi_name_colon"
+msgstr "Naam"
+
+msgid "weba_fi_open_with_colon"
+msgstr "Openen met:"
+
+msgid "weba_fi_page_details_page_title"
+msgstr "Titel"
+
+msgid "weba_fi_page_details_security"
+msgstr "Beveiliging"
+
+msgid "weba_fi_page_details_verification"
+msgstr "Verificatie"
+
+msgid "weba_fi_saved_pass"
+msgstr "Opgeslagen wachtwoorden"
+
+msgid "weba_fi_select_username_title"
+msgstr "Gebruikersnaam selecteren"
+
+msgid "weba_fi_settings_general_maxcache"
+msgstr "Grootte van geheugencache"
+
+msgid "weba_fi_settings_plug_ins_enable_java_script"
+msgstr "JavaScript inschakelen"
+
+msgid "weba_fi_settings_privacy_accept_cookies"
+msgstr "Cookies accepteren"
+
+msgid "weba_fi_settings_privacy_enable_pop_up_windows"
+msgstr "Pop-upberichten openen"
+
+msgid "weba_fi_settings_privacy_password"
+msgstr "Opslaan van wachtwoorden inschakelen"
+
+msgid "weba_fi_size_colon"
+msgstr "Grootte"
+
+msgid "weba_fi_type_colon"
+msgstr "Type"
+
+msgid "weba_ib_closing_a_window_background"
+msgstr "Een venster in de achtergrond wordt gesloten"
+
+msgid "weba_ib_downloading_complete"
+msgstr "Downloaden van %s is voltooid"
+
+msgid "weba_ib_enter_location"
+msgstr "Voer eerst het adres in"
+
+msgid "weba_ib_flash_full"
+msgstr "Druk op backspace om de modus Volledig scherm te verlaten"
+
+msgid "weba_ib_invalid_username_or_password"
+msgstr "Ongeldige gebruikersnaam of ongeldig wachtwoord"
+
+msgid "weba_ib_opening_new_window"
+msgstr "Bezig met openen van nieuw venster"
+
+msgid "weba_ib_pop_up_window_blocked"
+msgstr "Pop-upvenster is geblokkeerd"
+
+msgid "weba_ib_secure_server"
+msgstr "%s geverifieerd door %s"
+
+msgid "weba_ib_select_update_first"
+msgstr "Eerst update selecteren"
+
+msgid "weba_ib_some_cache_items_cannot_be_deleted"
+msgstr "Bepaalde cache-items zijn in gebruik. Kan niet verwijderen."
+
+msgid "weba_ib_target_not"
+msgstr "Doelbestand niet beschikbaar"
+
+msgid "weba_ib_upload_failed"
+msgstr "Uploaden is mislukt"
+
+msgid "weba_li_history_list_item_name"
+msgstr "%s"
+
+msgid "weba_li_history_list_nr"
+msgid_plural "weba_li_history_list_nrs"
+msgstr[0] "%d item"
+msgstr[1] "%d items"
+
+msgid "weba_li_history_list_today"
+msgstr "Vandaag"
+
+msgid "weba_li_history_list_yesterday"
+msgstr "Gisteren"
+
+msgid "weba_me_add"
+msgstr "Adres toevoegen"
+
+msgid "weba_me_add_bookmark"
+msgstr "Toevoegen aan favorieten"
+
+msgid "weba_me_add_home"
+msgstr "Snelkoppeling toevoegen aan bureaublad"
+
+msgid "weba_me_add_link"
+msgstr "Favoriet toevoegen"
+
+msgid "weba_me_adjustview"
+msgstr "Weergave aanpassen"
+
+msgid "weba_me_clear_privatedata"
+msgstr "Privégegevens wissen"
+
+msgid "weba_me_complete_his"
+msgstr "Volledige geschiedenis"
+
+msgid "weba_me_components"
+msgstr "Add-ons"
+
+msgid "weba_me_copy"
+msgstr "Kopiëren"
+
+msgid "weba_me_copy_address"
+msgstr "Koppelingsadres kopiëren"
+
+msgid "weba_me_copy_img_address"
+msgstr "Adres van afbeelding kopiëren"
+
+msgid "weba_me_details"
+msgstr "Details"
+
+msgid "weba_me_downloads"
+msgstr "Downloads"
+
+msgid "weba_me_find_on_page"
+msgstr "Zoeken op pagina"
+
+msgid "weba_me_load_img"
+msgstr "Afbeelding laden"
+
+msgid "weba_me_new_window"
+msgstr "Nieuw venster"
+
+msgid "weba_me_open_bookmark_new_window"
+msgstr "Openen in nieuw venster"
+
+msgid "weba_me_open_in_new_window"
+msgstr "Openen in nieuw venster"
+
+msgid "weba_me_open_link_new_window"
+msgstr "Koppeling openen in nieuw venster"
+
+msgid "weba_me_openfile"
+msgstr "Bestand openen"
+
+msgid "weba_me_options"
+msgstr "Opties"
+
+msgid "weba_me_paste"
+msgstr "Plakken"
+
+msgid "weba_me_reload"
+msgstr "Opnieuw laden"
+
+msgid "weba_me_rss"
+msgstr "Abonneren op feed: %s"
+
+msgid "weba_me_save_img"
+msgstr "Afbeelding opslaan als"
+
+msgid "weba_me_save_link_as"
+msgstr "Koppeling opslaan als"
+
+msgid "weba_me_save_page"
+msgstr "Pagina opslaan als"
+
+msgid "weba_me_settings"
+msgstr "Instellingen"
+
+msgid "weba_nc_change_stored_password"
+msgstr "Opgeslagen wachtwoord van %s wijzigen?"
+
+msgid "weba_nc_close"
+msgstr ""
+"Webpagina reageert niet. Venster gedwongen sluiten?\n"
+"Niet-opgeslagen gegevens gaan mogelijk verloren."
+
+msgid "weba_nc_close_app_pause_load"
+msgstr ""
+"Toepassing sluiten en\n"
+"actieve downloadbewerking onderbreken?\n"
+"%s"
+
+msgid "weba_nc_close_app_pause_loads"
+msgstr ""
+"Toepassing sluiten en\n"
+"actieve downloadbewerkingen onderbreken?"
+
+msgid "weba_nc_delete_dowload"
+msgstr ""
+"Download verwijderen?\n"
+"%s"
+
+msgid "weba_nc_geolocaton_dis"
+msgstr "Deze site toestaan uw locatie te weten?"
+
+msgid "weba_nc_remember_credentials"
+msgstr "Referenties voor deze site onthouden?"
+
+msgid "weba_save_as"
+msgstr "Pagina opslaan als"
+
+msgid "weba_search_list"
+msgstr "Zoeken met Google: '%s'"
+
+msgid "weba_ti_add_adress"
+msgstr "Adres toevoegen"
+
+msgid "weba_ti_add_bookmark_title"
+msgstr "Favoriet toevoegen"
+
+msgid "weba_ti_adjuvi_met_showimg"
+msgstr "Afb. weergeven"
+
+msgid "weba_ti_adjuvi_title"
+msgstr "Weergave aanpassen"
+
+msgid "weba_ti_auhentication_title"
+msgstr "Verificatie"
+
+msgid "weba_ti_bookmarks"
+msgstr "Favorieten"
+
+msgid "weba_ti_bookmarks_portrait"
+msgstr "Favorieten"
+
+msgid "weba_ti_clear_privatedata"
+msgstr "Privégegevens wissen"
+
+msgid "weba_ti_compbrhis"
+msgstr "Volledige geschiedenis"
+
+msgid "weba_ti_cookie_conf"
+msgstr "Cookies bevestigen"
+
+msgid "weba_ti_cookie_conf_accept_nor"
+msgstr ""
+"Cookie accepteren?\n"
+"%s"
+
+msgid "weba_ti_cookie_conf_server"
+msgstr "Toepassen op alle cookies van dezelfde server"
+
+msgid "weba_ti_cookie_details_title"
+msgstr "Details van cookie"
+
+msgid "weba_ti_deletebook"
+msgstr "Favorieten selecteren"
+
+msgid "weba_ti_download_file_title"
+msgstr "Bestand downloaden"
+
+msgid "weba_ti_downloads_title"
+msgstr "Downloads"
+
+msgid "weba_ti_edit_bookmark_title"
+msgstr "Favoriet bewerken"
+
+msgid "weba_ti_edit_folder"
+msgstr "Map bewerken"
+
+msgid "weba_ti_foldername"
+msgstr "%s"
+
+msgid "weba_ti_geolocoation"
+msgstr "Geolocatie"
+
+msgid "weba_ti_image_details_title"
+msgstr "Details van afbeelding"
+
+msgid "weba_ti_java_script_confirmation"
+msgstr "JavaScript-bevestiging"
+
+msgid "weba_ti_java_script_prompt"
+msgstr "JavaScript melding"
+
+msgid "weba_ti_javas_alert"
+msgstr "JavaScript-waarschuwing"
+
+msgid "weba_ti_options"
+msgstr "Opties"
+
+msgid "weba_ti_page_details_title"
+msgstr "Details pagina"
+
+msgid "weba_ti_recenthis"
+msgstr "Recente geschiedenis"
+
+msgid "weba_ti_remeber_credentials"
+msgstr "Wachtwoord onthouden"
+
+msgid "weba_ti_select_file_title"
+msgstr "Bestand selecteren"
+
+msgid "weba_ti_settings_browser"
+msgstr "Browser"
+
+msgid "weba_ti_settings_content"
+msgstr "Inhoud"
+
+msgid "weba_ti_settings_title"
+msgstr "Instellingen"
+
+msgid "weba_ti_texlist_single"
+msgstr "Selecteer optie"
+
+msgid "weba_ti_text"
+msgstr "Tekstgrootte"
+
+msgid "weba_ti_textlist_multi"
+msgstr "Selecteer opties"
+
+msgid "weba_ti_webstart"
+msgstr "Web"
+
+msgid "weba_ti_webstart_portrait"
+msgstr "Web"
+
+msgid "weba_va_always"
+msgstr "Altijd"
+
+msgid "weba_va_download_from"
+msgstr "Van"
+
+msgid "weba_va_downloads_rec_kb"
+msgstr "%d kB"
+
+msgid "weba_va_downloads_rec_percent"
+msgstr "%d %%"
+
+msgid "weba_va_downloads_size_kb"
+msgstr "%.2f kB"
+
+msgid "weba_va_downloads_size_unknown"
+msgstr "–"
+
+msgid "weba_va_encoding_big5"
+msgstr "Chinees, traditioneel (Big5 I/II)"
+
+msgid "weba_va_encoding_euc_tw"
+msgstr "Chinees, traditioneel (EUC-TW)"
+
+msgid "weba_va_encoding_gb_18030"
+msgstr "Chinees, vereenvoud. (GB18030)"
+
+msgid "weba_va_encoding_iso_2022_cn"
+msgstr "Chinees, vereenv. (ISO-2022-CN)"
+
+msgid "weba_va_encoding_iso_8859_1"
+msgstr "Latijn (ISO 8859-1)"
+
+msgid "weba_va_encoding_iso_8859_15"
+msgstr "Latijn - uitgebreid (ISO-8859-15)"
+
+msgid "weba_va_encoding_iso_8859_2"
+msgstr "Centraal-Europees (ISO 8859-2)"
+
+msgid "weba_va_encoding_iso_8859_7"
+msgstr "Grieks (ISO 8859-7)"
+
+msgid "weba_va_encoding_iso_8859_9"
+msgstr "Turks (ISO 8859-9)"
+
+msgid "weba_va_encoding_utf_16"
+msgstr "Unicode (UTF-16)"
+
+msgid "weba_va_encoding_utf_8"
+msgstr "Unicode (UTF-8)"
+
+msgid "weba_va_encoding_win_1250"
+msgstr "Centr.-Europees (Win-1250)"
+
+msgid "weba_va_encoding_win_1251"
+msgstr "Cyrillisch (Windows-1251)"
+
+msgid "weba_va_encoding_win_1253"
+msgstr "Grieks (Windows-1253)"
+
+msgid "weba_va_encoding_win_1254"
+msgstr "Turks (Windows-1254)"
+
+msgid "weba_va_encoding_win_koi_8r"
+msgstr "Cyrillisch (KOI-8R)"
+
+msgid "weba_va_high"
+msgstr "Hoog"
+
+msgid "weba_va_image_details_dim_px"
+msgstr "%1$d x %2$d pixels"
+
+msgid "weba_va_larger"
+msgstr "Groot"
+
+msgid "weba_va_largest"
+msgstr "Zeer groot"
+
+msgid "weba_va_loaded"
+msgstr "Al in cache"
+
+msgid "weba_va_low"
+msgstr "Laag"
+
+msgid "weba_va_medium"
+msgstr "Gemiddeld"
+
+msgid "weba_va_modal_dialog_abort"
+msgstr "Afbreken"
+
+msgid "weba_va_modal_dialog_cancel"
+msgstr "Annuleren"
+
+msgid "weba_va_modal_dialog_ignore"
+msgstr "Negeren"
+
+msgid "weba_va_modal_dialog_no"
+msgstr "Nee"
+
+msgid "weba_va_modal_dialog_ok"
+msgstr "OK"
+
+msgid "weba_va_modal_dialog_retry"
+msgstr "Opnieuw proberen?"
+
+msgid "weba_va_modal_dialog_yes"
+msgstr "Ja"
+
+msgid "weba_va_never"
+msgstr "Nooit"
+
+msgid "weba_va_normal"
+msgstr "Normaal"
+
+msgid "weba_va_not_secure"
+msgstr "Geen beveiligde pagina"
+
+msgid "weba_va_page_details_size_kb"
+msgstr "%.2f kB"
+
+msgid "weba_va_page_not_verified"
+msgstr "Identiteit van website niet geverifieerd"
+
+msgid "weba_va_save_complete"
+msgstr "Volledige webpagina"
+
+msgid "weba_va_save_html_only"
+msgstr "Alleen HTML"
+
+msgid "weba_va_saved_password"
+msgstr "(opgeslagen wachtwoord)"
+
+msgid "weba_va_settings_autofocus"
+msgstr "Autofocus adresveld"
+
+msgid "weba_va_settings_fullscreen"
+msgstr "Openen in volledig scherm"
+
+msgid "weba_va_settings_general_maxc_1024"
+msgstr "10 MB"
+
+msgid "weba_va_settings_general_maxc_2048"
+msgstr "20 MB"
+
+msgid "weba_va_settings_general_maxc_4096"
+msgstr "40 MB"
+
+msgid "weba_va_settings_general_maxc_512"
+msgstr "5 MB"
+
+msgid "weba_va_settings_general_maxc_aut"
+msgstr "Automatisch"
+
+msgid "weba_va_settings_general_maxc_off"
+msgstr "Uit"
+
+msgid "weba_va_settings_geolocation"
+msgstr "Geolocatie"
+
+msgid "weba_va_settings_hwkeys"
+msgstr "Verhoog- en verlaagtoetsen gebruiken voor"
+
+msgid "weba_va_settings_hwkeys_volume"
+msgstr "Volume"
+
+msgid "weba_va_settings_hwkeys_zoom"
+msgstr "Zoomen"
+
+msgid "weba_va_settings_javaflash"
+msgstr "Onderbreking JavaScript toestaan"
+
+msgid "weba_va_settings_javaflash_immediately"
+msgstr "onmiddellijk"
+
+msgid "weba_va_settings_javaflash_in15"
+msgstr "na 15 sec."
+
+msgid "weba_va_settings_javaflash_in30"
+msgstr "na 30 sec."
+
+msgid "weba_va_settings_javaflash_in60"
+msgstr "na 60 sec."
+
+msgid "weba_va_settings_javaflash_not"
+msgstr "Niet pauzeren"
+
+msgid "weba_va_settings_portrait"
+msgstr "Draaien inschakelen"
+
+msgid "weba_va_settings_privacy_accept_cookies_always"
+msgstr "Altijd"
+
+msgid "weba_va_settings_privacy_accept_cookies_askfirst"
+msgstr "Eerst vragen"
+
+msgid "weba_va_settings_privacy_accept_cookies_never"
+msgstr "Nooit"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_always"
+msgstr "Altijd"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_askfirst"
+msgstr "Op verzoek"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_never"
+msgstr "Nooit"
+
+msgid "weba_yi_hisfolder"
+msgstr "%s"
+
+msgid "webb_fi_bookmark_details_add"
+msgstr "Toegevoegd"
+
+msgid "webb_fi_bookmark_details_use"
+msgstr "Laatst gebruikt"
+
+msgid "webb_fi_folder_details_contents"
+msgstr "Inhoudsopgave"
+
+msgid "webb_fi_folder_details_contents_01"
+msgstr "1 favoriet"
+
+msgid "webb_fi_folder_details_contents_02"
+msgstr "2 favorieten"
+
+msgid "webb_fi_folder_details_contents_0n"
+msgstr "%d favorieten"
+
+msgid "webb_fi_folder_details_contents_10"
+msgstr "1 map"
+
+msgid "webb_fi_folder_details_contents_1n"
+msgstr "1 map, %d favorieten"
+
+msgid "webb_fi_folder_details_contents_20"
+msgstr "2 mappen"
+
+msgid "webb_fi_folder_details_contents_2n"
+msgstr "2 mappen, %d favorieten"
+
+msgid "webb_fi_folder_details_contents_bookmark"
+msgid_plural "webb_fi_folder_details_contents_bookmars"
+msgstr[0] "%d favoriet"
+msgstr[1] "%d favorieten"
+
+msgid "webb_fi_folder_details_contents_folder"
+msgid_plural "webb_fi_folder_details_contents_folders"
+msgstr[0] "%d map "
+msgstr[1] "%d mappen "
+
+msgid "webb_fi_folder_details_contents_n0"
+msgstr "%d mappen"
+
+msgid "webb_fi_folder_details_contents_n1"
+msgstr "%d mappen, 1 favoriet"
+
+msgid "webb_fi_folder_details_contents_n2"
+msgstr "%d mappen, 2 favorieten"
+
+msgid "webb_fi_folder_details_contents_nn"
+msgstr "%d mappen, %d favorieten"
+
+msgid "webb_fi_folder_details_date"
+msgstr "Toegevoegd"
+
+msgid "webb_fi_folder_details_time"
+msgstr "Gewijzigd"
+
+msgid "webb_folder_imported_bookmarks"
+msgstr "Geïmporteerde favorieten"
+
+msgid "webb_folder_operator"
+msgstr "Favorieten van operator"
+
+msgid "webb_folder_root_user"
+msgstr "Mijn favorieten"
+
+msgid "webb_ia_cookie_after_sessions_ends"
+msgstr "Na beëindigen van sessie"
+
+msgid "webb_ia_no_bookmarks_folders_to_show"
+msgstr "(geen favorieten/mappen)"
+
+msgid "webb_ia_no_description"
+msgstr "(geen beschrijving)"
+
+msgid "webb_ia_no_downloads"
+msgstr "(geen downloads)"
+
+msgid "webb_ia_none"
+msgstr "Geen"
+
+msgid "webb_ia_not_available"
+msgstr "Niet beschikbaar"
+
+msgid "webb_ia_not_defined_in_html"
+msgstr "(zonder titel)"
+
+msgid "webb_ia_unknown"
+msgstr "Onbekend"
+
+msgid "webb_ib_this_folder_cannot_be_renamed"
+msgstr "Kan de naam van de geselecteerde map niet wijzigen"
+
+msgid "webb_me_delete"
+msgstr "Verwijderen"
+
+msgid "webb_me_details"
+msgstr "Details"
+
+msgid "webb_me_file_edit"
+msgstr "Bewerken"
+
+msgid "webb_me_impor"
+msgstr "Favorieten importeren"
+
+msgid "webb_me_move_to"
+msgstr "Verplaatsen"
+
+msgid "webb_nc_delete_item_nr"
+msgid_plural "webb_nc_delete_item_nrs"
+msgstr[0] "'%s' verwijderen?"
+msgstr[1] "Geselecteerde %d items verwijderen?"
+
+msgid "webb_nc_replace_item_nr"
+msgid_plural "webb_nc_replace_item_nrs"
+msgstr[0] "Bestaand item met dezelfde naam vervangen?"
+msgstr[1] "Bestaande %d items met dezelfde naam vervangen?"
+
+msgid "webb_ni_change_save_target_location"
+msgstr ""
+"Kan niet opslaan op de geselecteerde locatie.\n"
+"Opslaan in apparaatgeheugen?"
+
+msgid "webb_ni_downloading_paused"
+msgstr ""
+"Onvoldoende geheugen beschikbaar op apparaat.\n"
+"Downloaden is onderbroken."
+
+msgid "webb_ni_invalid_bookmarks_file"
+msgstr ""
+"Ongeldig favorietbestand.\n"
+"Geen favorieten geïmporteerd."
+
+msgid "webb_ni_resuming_failed"
+msgstr ""
+"Kan downloaden niet hervatten.\n"
+"Downloaden opnieuw starten?"
+
+msgid "webb_ni_target_folder_not_available"
+msgstr ""
+"Doelmap is niet beschikbaar.\n"
+"Sla in een andere map op."
+
+msgid "webb_ni_target_location_not_available"
+msgstr ""
+"Doellocatie is niet beschikbaar.\n"
+"Sla in het lokale geheugen op."
+
+msgid "webb_nw_deleting_bookmark"
+msgstr "Bezig met verwijderen"
+
+msgid "webb_nw_importing_bookmark"
+msgstr "Bezig met importeren"
+
+msgid "webb_nw_moving_bookmark"
+msgstr "Bezig met verplaatsen"
+
+msgid "webb_ti_bookmark_details_title"
+msgstr "Details van favoriet"
+
+msgid "webb_ti_folder_details"
+msgstr "Details van map"
+
+msgid "webb_ti_selectbok"
+msgstr "Favorieten selecteren"

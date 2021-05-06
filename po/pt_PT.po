@@ -1,0 +1,856 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-browser-ui 20100208121232\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "bookm_li_imported_bookmarksd"
+msgstr "Marcadores importados (%d)"
+
+msgid "bookm_ti_import_bookmarks"
+msgstr "Importar marcadores"
+
+msgid "weba_ap_web_browser"
+msgstr "Web"
+
+msgid "weba_bd_cancel"
+msgstr "Cancelar"
+
+msgid "weba_bd_certificate"
+msgstr "Certificado"
+
+msgid "weba_bd_close"
+msgstr "Fechar"
+
+msgid "weba_bd_cookie_conf_accept"
+msgstr "Aceitar"
+
+msgid "weba_bd_cookie_conf_reject"
+msgstr "Rejeitar"
+
+msgid "weba_bd_delete"
+msgstr "Eliminar"
+
+msgid "weba_bd_details"
+msgstr "Detalhes"
+
+msgid "weba_bd_download_open_with"
+msgstr "Abrir com"
+
+msgid "weba_bd_download_save_to"
+msgstr "Guardar no dispositivo"
+
+msgid "weba_bd_downloads_pause"
+msgstr "Pausa"
+
+msgid "weba_bd_downloads_resume"
+msgstr "Continuar"
+
+msgid "weba_bd_geolocaton_allow"
+msgstr "Permitir"
+
+msgid "weba_bd_geolocaton_always"
+msgstr "Permitir sempre a este site"
+
+msgid "weba_bd_geolocaton_never"
+msgstr "Nunca permitir a este site"
+
+msgid "weba_bd_moveto"
+msgstr "Mover"
+
+msgid "weba_bd_never"
+msgstr "Nunca"
+
+msgid "weba_bd_not_now"
+msgstr "Agora não"
+
+msgid "weba_bd_ok"
+msgstr "OK"
+
+msgid "weba_bd_select_clear_alll"
+msgstr "Limpar tudo"
+
+msgid "weba_bd_stop"
+msgstr "Parar"
+
+msgid "weba_db_clear"
+msgstr "Limpar"
+
+msgid "weba_fi_address"
+msgstr "Endereço"
+
+msgid "weba_fi_address_colon"
+msgstr "Endereço"
+
+msgid "weba_fi_auhentication_password"
+msgstr "Palavra-passe"
+
+msgid "weba_fi_auhentication_realm"
+msgstr "Mensagem"
+
+msgid "weba_fi_auhentication_site"
+msgstr "Servidor"
+
+msgid "weba_fi_auhentication_username"
+msgstr "Nome de utilizador"
+
+msgid "weba_fi_authentivated"
+msgstr "Sessões autenticadas"
+
+msgid "weba_fi_browsing_his"
+msgstr "Histórico de navegação"
+
+msgid "weba_fi_cache"
+msgstr "Cache"
+
+msgid "weba_fi_cookie_details_domain"
+msgstr "Domínio"
+
+msgid "weba_fi_cookie_details_expiration"
+msgstr "Expira"
+
+msgid "weba_fi_cookie_details_path"
+msgstr "Caminho"
+
+msgid "weba_fi_cookie_details_slash"
+msgstr "/"
+
+msgid "weba_fi_cookie_details_value"
+msgstr "Valor"
+
+msgid "weba_fi_cookies"
+msgstr "Cookies"
+
+msgid "weba_fi_downloads_name"
+msgstr "Nome"
+
+msgid "weba_fi_downloads_percentage"
+msgstr "Recebido"
+
+msgid "weba_fi_downloads_size"
+msgstr "Tamanho"
+
+msgid "weba_fi_encoding"
+msgstr "Codificação"
+
+msgid "weba_fi_geolocation"
+msgstr "Permissões de geolocalização"
+
+msgid "weba_fi_image_details_dimensions"
+msgstr "Dimensões"
+
+msgid "weba_fi_location"
+msgstr "Localização"
+
+msgid "weba_fi_name"
+msgstr "Nome"
+
+msgid "weba_fi_name_colon"
+msgstr "Nome"
+
+msgid "weba_fi_open_with_colon"
+msgstr "Abrir com:"
+
+msgid "weba_fi_page_details_page_title"
+msgstr "Título"
+
+msgid "weba_fi_page_details_security"
+msgstr "Segurança"
+
+msgid "weba_fi_page_details_verification"
+msgstr "Verificação"
+
+msgid "weba_fi_saved_pass"
+msgstr "Palavras-passe guardadas"
+
+msgid "weba_fi_select_username_title"
+msgstr "Seleccionar nome de utilizador"
+
+msgid "weba_fi_settings_general_maxcache"
+msgstr "Tamanho da memória cache"
+
+msgid "weba_fi_settings_plug_ins_enable_java_script"
+msgstr "Activar JavaScript"
+
+msgid "weba_fi_settings_privacy_accept_cookies"
+msgstr "Aceitar cookies"
+
+msgid "weba_fi_settings_privacy_enable_pop_up_windows"
+msgstr "Abrir pop-ups"
+
+msgid "weba_fi_settings_privacy_password"
+msgstr "Activar gravação de palavras-passe"
+
+msgid "weba_fi_size_colon"
+msgstr "Tamanho"
+
+msgid "weba_fi_type_colon"
+msgstr "Tipo"
+
+msgid "weba_ib_closing_a_window_background"
+msgstr "A fechar uma janela em segundo plano"
+
+msgid "weba_ib_downloading_complete"
+msgstr "Transferência de %s concluída"
+
+msgid "weba_ib_enter_location"
+msgstr "Introduza primeiro o endereço"
+
+msgid "weba_ib_flash_full"
+msgstr "Prima Retroceder para sair do modo de ecrã inteiro "
+
+msgid "weba_ib_invalid_username_or_password"
+msgstr "Nome de utilizador ou palavra-passe inválida"
+
+msgid "weba_ib_opening_new_window"
+msgstr "A abrir uma nova janela"
+
+msgid "weba_ib_pop_up_window_blocked"
+msgstr "Janela de pop-up bloqueada"
+
+msgid "weba_ib_secure_server"
+msgstr "%s verificados por %s"
+
+msgid "weba_ib_select_update_first"
+msgstr "Seleccionar actualização primeiro"
+
+msgid "weba_ib_some_cache_items_cannot_be_deleted"
+msgstr ""
+"Alguns itens da cache estão a ser utilizados. Não foi possível eliminar."
+
+msgid "weba_ib_target_not"
+msgstr "Ficheiro destino não disponível"
+
+msgid "weba_ib_upload_failed"
+msgstr "Falha ao enviar"
+
+msgid "weba_li_history_list_item_name"
+msgstr "%s"
+
+msgid "weba_li_history_list_nr"
+msgid_plural "weba_li_history_list_nrs"
+msgstr[0] "%d item"
+msgstr[1] "%d itens"
+
+msgid "weba_li_history_list_today"
+msgstr "Hoje"
+
+msgid "weba_li_history_list_yesterday"
+msgstr "Ontem"
+
+msgid "weba_me_add"
+msgstr "Adicionar endereço"
+
+msgid "weba_me_add_bookmark"
+msgstr "Adicionar a marcadores"
+
+msgid "weba_me_add_home"
+msgstr "Adicionar atalho ao ambiente de trabalho"
+
+msgid "weba_me_add_link"
+msgstr "Adicionar marcador"
+
+msgid "weba_me_adjustview"
+msgstr "Ajustar vista"
+
+msgid "weba_me_clear_privatedata"
+msgstr "Limpar dados privados"
+
+msgid "weba_me_complete_his"
+msgstr "Histórico de navegação completo"
+
+msgid "weba_me_components"
+msgstr "Extras"
+
+msgid "weba_me_copy"
+msgstr "Copiar"
+
+msgid "weba_me_copy_address"
+msgstr "Copiar endereço de ligação"
+
+msgid "weba_me_copy_img_address"
+msgstr "Copiar endereço de imagem"
+
+msgid "weba_me_details"
+msgstr "Detalhes"
+
+msgid "weba_me_downloads"
+msgstr "Transferências"
+
+msgid "weba_me_find_on_page"
+msgstr "Localizar na página"
+
+msgid "weba_me_load_img"
+msgstr "Carregar imagem"
+
+msgid "weba_me_new_window"
+msgstr "Nova janela"
+
+msgid "weba_me_open_bookmark_new_window"
+msgstr "Abrir numa nova janela"
+
+msgid "weba_me_open_in_new_window"
+msgstr "Abrir numa nova janela"
+
+msgid "weba_me_open_link_new_window"
+msgstr "Abrir ligação numa nova janela"
+
+msgid "weba_me_openfile"
+msgstr "Abrir ficheiro"
+
+msgid "weba_me_options"
+msgstr "Opções"
+
+msgid "weba_me_paste"
+msgstr "Colar"
+
+msgid "weba_me_reload"
+msgstr "Recarregar"
+
+msgid "weba_me_rss"
+msgstr "Subscrever para transmissão: %s"
+
+msgid "weba_me_save_img"
+msgstr "Guardar imagem como"
+
+msgid "weba_me_save_link_as"
+msgstr "Guardar ligação como"
+
+msgid "weba_me_save_page"
+msgstr "Guardar página como"
+
+msgid "weba_me_settings"
+msgstr "Definições"
+
+msgid "weba_nc_change_stored_password"
+msgstr "Alterar a palavra-passe guardada para %s?"
+
+msgid "weba_nc_close"
+msgstr ""
+"A página da Web não responde. Fechar janela?\n"
+"Os dados não guardados serão perdidos."
+
+msgid "weba_nc_close_app_pause_load"
+msgstr ""
+"Fechar a aplicação e\n"
+"efectuar uma pausa na transferência a decorrer?\n"
+"%s"
+
+msgid "weba_nc_close_app_pause_loads"
+msgstr ""
+"Fechar a aplicação e\n"
+"efectuar uma pausa nas transferências a decorrer?"
+
+msgid "weba_nc_delete_dowload"
+msgstr ""
+"Eliminar a transferência?\n"
+"%s"
+
+msgid "weba_nc_geolocaton_dis"
+msgstr "Permitir que este site saiba a sua localização?"
+
+msgid "weba_nc_remember_credentials"
+msgstr "Recordar credenciais para este site?"
+
+msgid "weba_save_as"
+msgstr "Guardar página como"
+
+msgid "weba_search_list"
+msgstr "Pesquisa no Google: '%s'"
+
+msgid "weba_ti_add_adress"
+msgstr "Adicionar endereço"
+
+msgid "weba_ti_add_bookmark_title"
+msgstr "Adicionar marcador"
+
+msgid "weba_ti_adjuvi_met_showimg"
+msgstr "Mostrar imagens"
+
+msgid "weba_ti_adjuvi_title"
+msgstr "Ajustar vista"
+
+msgid "weba_ti_auhentication_title"
+msgstr "Autenticação"
+
+msgid "weba_ti_bookmarks"
+msgstr "Marcadores"
+
+msgid "weba_ti_bookmarks_portrait"
+msgstr "Marcadores"
+
+msgid "weba_ti_clear_privatedata"
+msgstr "Limpar dados privados"
+
+msgid "weba_ti_compbrhis"
+msgstr "Histórico de navegação completo"
+
+msgid "weba_ti_cookie_conf"
+msgstr "Informações de cookies"
+
+msgid "weba_ti_cookie_conf_accept_nor"
+msgstr ""
+"Aceitar cookie?\n"
+"%s"
+
+msgid "weba_ti_cookie_conf_server"
+msgstr "Aplicar a todos os cookies do mesmo servidor"
+
+msgid "weba_ti_cookie_details_title"
+msgstr "Detalhes do cookie"
+
+msgid "weba_ti_deletebook"
+msgstr "Seleccionar marcadores"
+
+msgid "weba_ti_download_file_title"
+msgstr "Transferência de ficheiros"
+
+msgid "weba_ti_downloads_title"
+msgstr "Transferências"
+
+msgid "weba_ti_edit_bookmark_title"
+msgstr "Editar marcador"
+
+msgid "weba_ti_edit_folder"
+msgstr "Editar pasta"
+
+msgid "weba_ti_foldername"
+msgstr "%s"
+
+msgid "weba_ti_geolocoation"
+msgstr "Geolocalização"
+
+msgid "weba_ti_image_details_title"
+msgstr "Detalhes da imagem"
+
+msgid "weba_ti_java_script_confirmation"
+msgstr "Confirmação de JavaScript"
+
+msgid "weba_ti_java_script_prompt"
+msgstr "Pedido de JavaScript"
+
+msgid "weba_ti_javas_alert"
+msgstr "Alerta de JavaScript"
+
+msgid "weba_ti_options"
+msgstr "Opções"
+
+msgid "weba_ti_page_details_title"
+msgstr "Detalhes da página"
+
+msgid "weba_ti_recenthis"
+msgstr "Histórico recente"
+
+msgid "weba_ti_remeber_credentials"
+msgstr "Recordar palavra-passe"
+
+msgid "weba_ti_select_file_title"
+msgstr "Seleccionar ficheiro"
+
+msgid "weba_ti_settings_browser"
+msgstr "Browser"
+
+msgid "weba_ti_settings_content"
+msgstr "Conteúdo"
+
+msgid "weba_ti_settings_title"
+msgstr "Definições"
+
+msgid "weba_ti_texlist_single"
+msgstr "Seleccionar opção"
+
+msgid "weba_ti_text"
+msgstr "Tamanho do texto"
+
+msgid "weba_ti_textlist_multi"
+msgstr "Seleccionar opções"
+
+msgid "weba_ti_webstart"
+msgstr "Web"
+
+msgid "weba_ti_webstart_portrait"
+msgstr "Web"
+
+msgid "weba_va_always"
+msgstr "Sempre"
+
+msgid "weba_va_download_from"
+msgstr "De"
+
+msgid "weba_va_downloads_rec_kb"
+msgstr "%d kB"
+
+msgid "weba_va_downloads_rec_percent"
+msgstr "%d %%"
+
+msgid "weba_va_downloads_size_kb"
+msgstr "%.2f kB"
+
+msgid "weba_va_downloads_size_unknown"
+msgstr "–"
+
+msgid "weba_va_encoding_big5"
+msgstr "Chinês Tradicional (Big5 I/II)"
+
+msgid "weba_va_encoding_euc_tw"
+msgstr "Chinês Tradicional (EUC-TW)"
+
+msgid "weba_va_encoding_gb_18030"
+msgstr "Chinês Simplificado (GB18030)"
+
+msgid "weba_va_encoding_iso_2022_cn"
+msgstr "Chinês Simplif. (ISO-2022-CN)"
+
+msgid "weba_va_encoding_iso_8859_1"
+msgstr "Latim (ISO 8859-1)"
+
+msgid "weba_va_encoding_iso_8859_15"
+msgstr "Latim expand. (ISO-8859-15)"
+
+msgid "weba_va_encoding_iso_8859_2"
+msgstr "Europa Central (ISO 8859-2)"
+
+msgid "weba_va_encoding_iso_8859_7"
+msgstr "Grego (ISO 8859-7)"
+
+msgid "weba_va_encoding_iso_8859_9"
+msgstr "Turco (ISO 8859-9)"
+
+msgid "weba_va_encoding_utf_16"
+msgstr "Unicode (UTF-16)"
+
+msgid "weba_va_encoding_utf_8"
+msgstr "Unicode (UTF-8)"
+
+msgid "weba_va_encoding_win_1250"
+msgstr "Europe Central (Win-1250)"
+
+msgid "weba_va_encoding_win_1251"
+msgstr "Cirílico (Windows-1251)"
+
+msgid "weba_va_encoding_win_1253"
+msgstr "Grego (Windows-1253)"
+
+msgid "weba_va_encoding_win_1254"
+msgstr "Turco (Windows-1254)"
+
+msgid "weba_va_encoding_win_koi_8r"
+msgstr "Cirílico (KOI-8R)"
+
+msgid "weba_va_high"
+msgstr "Alta"
+
+msgid "weba_va_image_details_dim_px"
+msgstr "%1$d x %2$d pixéis"
+
+msgid "weba_va_larger"
+msgstr "Grande"
+
+msgid "weba_va_largest"
+msgstr "Muito grande"
+
+msgid "weba_va_loaded"
+msgstr "Já em cache"
+
+msgid "weba_va_low"
+msgstr "Baixa"
+
+msgid "weba_va_medium"
+msgstr "Média"
+
+msgid "weba_va_modal_dialog_abort"
+msgstr "Abortar"
+
+msgid "weba_va_modal_dialog_cancel"
+msgstr "Cancelar"
+
+msgid "weba_va_modal_dialog_ignore"
+msgstr "Ignorar"
+
+msgid "weba_va_modal_dialog_no"
+msgstr "Não"
+
+msgid "weba_va_modal_dialog_ok"
+msgstr "Concluído"
+
+msgid "weba_va_modal_dialog_retry"
+msgstr "Tentar novamente?"
+
+msgid "weba_va_modal_dialog_yes"
+msgstr "Sim"
+
+msgid "weba_va_never"
+msgstr "Nunca"
+
+msgid "weba_va_normal"
+msgstr "Normal"
+
+msgid "weba_va_not_secure"
+msgstr "Não é uma página segura"
+
+msgid "weba_va_page_details_size_kb"
+msgstr "%.2f kB"
+
+msgid "weba_va_page_not_verified"
+msgstr "Identidade do site Web não verificada"
+
+msgid "weba_va_save_complete"
+msgstr "Página da Web completa"
+
+msgid "weba_va_save_html_only"
+msgstr "Apenas HTML"
+
+msgid "weba_va_saved_password"
+msgstr "(palavra-passe guardada)"
+
+msgid "weba_va_settings_autofocus"
+msgstr "Foco automático no campo de endereço"
+
+msgid "weba_va_settings_fullscreen"
+msgstr "Abrir em modo ecrã inteiro"
+
+msgid "weba_va_settings_general_maxc_1024"
+msgstr "10 MB"
+
+msgid "weba_va_settings_general_maxc_2048"
+msgstr "20 MB"
+
+msgid "weba_va_settings_general_maxc_4096"
+msgstr "40 MB"
+
+msgid "weba_va_settings_general_maxc_512"
+msgstr "5 MB"
+
+msgid "weba_va_settings_general_maxc_aut"
+msgstr "Automático"
+
+msgid "weba_va_settings_general_maxc_off"
+msgstr "Desligado"
+
+msgid "weba_va_settings_geolocation"
+msgstr "Geolocalização"
+
+msgid "weba_va_settings_hwkeys"
+msgstr "Utilizar teclas de aumentar e diminuir para"
+
+msgid "weba_va_settings_hwkeys_volume"
+msgstr "Volume"
+
+msgid "weba_va_settings_hwkeys_zoom"
+msgstr "Zoom"
+
+msgid "weba_va_settings_javaflash"
+msgstr "Permitir suspensão do JavaScript"
+
+msgid "weba_va_settings_javaflash_immediately"
+msgstr "imediatamente"
+
+msgid "weba_va_settings_javaflash_in15"
+msgstr "após 15 segundos"
+
+msgid "weba_va_settings_javaflash_in30"
+msgstr "após 30 segundos"
+
+msgid "weba_va_settings_javaflash_in60"
+msgstr "após 60 segundos"
+
+msgid "weba_va_settings_javaflash_not"
+msgstr "Não colocar em pausa"
+
+msgid "weba_va_settings_portrait"
+msgstr "Permitir rotação"
+
+msgid "weba_va_settings_privacy_accept_cookies_always"
+msgstr "Sempre"
+
+msgid "weba_va_settings_privacy_accept_cookies_askfirst"
+msgstr "Perguntar"
+
+msgid "weba_va_settings_privacy_accept_cookies_never"
+msgstr "Nunca"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_always"
+msgstr "Sempre"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_askfirst"
+msgstr "Manualmente"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_never"
+msgstr "Nunca"
+
+msgid "weba_yi_hisfolder"
+msgstr "%s"
+
+msgid "webb_fi_bookmark_details_add"
+msgstr "Adicionado"
+
+msgid "webb_fi_bookmark_details_use"
+msgstr "Última utilização"
+
+msgid "webb_fi_folder_details_contents"
+msgstr "Conteúdo"
+
+msgid "webb_fi_folder_details_contents_01"
+msgstr "1 marcador"
+
+msgid "webb_fi_folder_details_contents_02"
+msgstr "2 marcadores"
+
+msgid "webb_fi_folder_details_contents_0n"
+msgstr "%d marcadores"
+
+msgid "webb_fi_folder_details_contents_10"
+msgstr "1 pasta"
+
+msgid "webb_fi_folder_details_contents_1n"
+msgstr "1 pasta, %d marcadores"
+
+msgid "webb_fi_folder_details_contents_20"
+msgstr "2 pastas"
+
+msgid "webb_fi_folder_details_contents_2n"
+msgstr "2 pastas, %d marcadores"
+
+msgid "webb_fi_folder_details_contents_bookmark"
+msgid_plural "webb_fi_folder_details_contents_bookmars"
+msgstr[0] "%d marcador"
+msgstr[1] "%d marcadores"
+
+msgid "webb_fi_folder_details_contents_folder"
+msgid_plural "webb_fi_folder_details_contents_folders"
+msgstr[0] "%d pasta "
+msgstr[1] "%d pastas "
+
+msgid "webb_fi_folder_details_contents_n0"
+msgstr "%d pastas"
+
+msgid "webb_fi_folder_details_contents_n1"
+msgstr "%d pastas, 1 marcador"
+
+msgid "webb_fi_folder_details_contents_n2"
+msgstr "%d pastas, 2 marcadores"
+
+msgid "webb_fi_folder_details_contents_nn"
+msgstr "%d pastas, %d marcadores"
+
+msgid "webb_fi_folder_details_date"
+msgstr "Adicionada"
+
+msgid "webb_fi_folder_details_time"
+msgstr "Modificada"
+
+msgid "webb_folder_imported_bookmarks"
+msgstr "Marcadores importados"
+
+msgid "webb_folder_operator"
+msgstr "Marcadores do operador"
+
+msgid "webb_folder_root_user"
+msgstr "Os meus marcadores"
+
+msgid "webb_ia_cookie_after_sessions_ends"
+msgstr "Após o final da sessão"
+
+msgid "webb_ia_no_bookmarks_folders_to_show"
+msgstr "(sem marcadores/pastas)"
+
+msgid "webb_ia_no_description"
+msgstr "(sem descrições)"
+
+msgid "webb_ia_no_downloads"
+msgstr "(sem transferências)"
+
+msgid "webb_ia_none"
+msgstr "Nenhum"
+
+msgid "webb_ia_not_available"
+msgstr "Indisponível"
+
+msgid "webb_ia_not_defined_in_html"
+msgstr "(sem título)"
+
+msgid "webb_ia_unknown"
+msgstr "Desconhecido"
+
+msgid "webb_ib_this_folder_cannot_be_renamed"
+msgstr "Não foi possível renomear a pasta seleccionada"
+
+msgid "webb_me_delete"
+msgstr "Eliminar"
+
+msgid "webb_me_details"
+msgstr "Detalhes"
+
+msgid "webb_me_file_edit"
+msgstr "Editar"
+
+msgid "webb_me_impor"
+msgstr "Importar marcadores"
+
+msgid "webb_me_move_to"
+msgstr "Mover"
+
+msgid "webb_nc_delete_item_nr"
+msgid_plural "webb_nc_delete_item_nrs"
+msgstr[0] "Eliminar '%s'?"
+msgstr[1] "Eliminar os %d itens seleccionados?"
+
+msgid "webb_nc_replace_item_nr"
+msgid_plural "webb_nc_replace_item_nrs"
+msgstr[0] "Substituir o item com o mesmo nome?"
+msgstr[1] "Substituir os %d itens com o mesmo nome?"
+
+msgid "webb_ni_change_save_target_location"
+msgstr ""
+"Não foi possível guardar na localização seleccionada.\n"
+"Guardar na memória do dispositivo?"
+
+msgid "webb_ni_downloading_paused"
+msgstr ""
+"Memória insuficiente no dispositivo.\n"
+"Pausa na transferência."
+
+msgid "webb_ni_invalid_bookmarks_file"
+msgstr ""
+"Ficheiro de marcador inválido.\n"
+"Nenhum marcador importado."
+
+msgid "webb_ni_resuming_failed"
+msgstr ""
+"Falha ao continuar a transferência.\n"
+"Reiniciar a transferência?"
+
+msgid "webb_ni_target_folder_not_available"
+msgstr ""
+"Pasta destino indisponível.\n"
+"Guarde noutra pasta."
+
+msgid "webb_ni_target_location_not_available"
+msgstr ""
+"Localização destino indisponível.\n"
+"Guarde na memória local."
+
+msgid "webb_nw_deleting_bookmark"
+msgstr "A eliminar"
+
+msgid "webb_nw_importing_bookmark"
+msgstr "A importar"
+
+msgid "webb_nw_moving_bookmark"
+msgstr "A mover"
+
+msgid "webb_ti_bookmark_details_title"
+msgstr "Detalhes do marcador"
+
+msgid "webb_ti_folder_details"
+msgstr "Detalhes da pasta"
+
+msgid "webb_ti_selectbok"
+msgstr "Seleccionar marcadores"

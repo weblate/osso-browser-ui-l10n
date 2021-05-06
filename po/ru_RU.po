@@ -1,0 +1,861 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-browser-ui 20100208121232\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "bookm_li_imported_bookmarksd"
+msgstr "Импортированные закладки (%d)"
+
+msgid "bookm_ti_import_bookmarks"
+msgstr "Импортировать закладки"
+
+msgid "weba_ap_web_browser"
+msgstr "Веб"
+
+msgid "weba_bd_cancel"
+msgstr "Отмена"
+
+msgid "weba_bd_certificate"
+msgstr "Сертификат"
+
+msgid "weba_bd_close"
+msgstr "Закрыть"
+
+msgid "weba_bd_cookie_conf_accept"
+msgstr "Принять"
+
+msgid "weba_bd_cookie_conf_reject"
+msgstr "Отклонить"
+
+msgid "weba_bd_delete"
+msgstr "Удаление"
+
+msgid "weba_bd_details"
+msgstr "Свойства"
+
+msgid "weba_bd_download_open_with"
+msgstr "Открыть с помощью:"
+
+msgid "weba_bd_download_save_to"
+msgstr "Сохранить в память устройства"
+
+msgid "weba_bd_downloads_pause"
+msgstr "Пауза"
+
+msgid "weba_bd_downloads_resume"
+msgstr "Возобновить"
+
+msgid "weba_bd_geolocaton_allow"
+msgstr "Разрешить"
+
+msgid "weba_bd_geolocaton_always"
+msgstr "Всегда разрешать для этого сайта"
+
+msgid "weba_bd_geolocaton_never"
+msgstr "Никогда не разрешать для этого сайта"
+
+msgid "weba_bd_moveto"
+msgstr "Переместить"
+
+msgid "weba_bd_never"
+msgstr "Никогда"
+
+msgid "weba_bd_not_now"
+msgstr "Не сейчас"
+
+msgid "weba_bd_ok"
+msgstr "OK"
+
+msgid "weba_bd_select_clear_alll"
+msgstr "Очистить"
+
+msgid "weba_bd_stop"
+msgstr "Остановить"
+
+msgid "weba_db_clear"
+msgstr "Очистить"
+
+msgid "weba_fi_address"
+msgstr "Адрес"
+
+msgid "weba_fi_address_colon"
+msgstr "Адрес"
+
+msgid "weba_fi_auhentication_password"
+msgstr "Пароль"
+
+msgid "weba_fi_auhentication_realm"
+msgstr "Сообщение"
+
+msgid "weba_fi_auhentication_site"
+msgstr "Сервер"
+
+msgid "weba_fi_auhentication_username"
+msgstr "Имя пользователя"
+
+msgid "weba_fi_authentivated"
+msgstr "Сеансы проверки подлинности"
+
+msgid "weba_fi_browsing_his"
+msgstr "Журнал посещений"
+
+msgid "weba_fi_cache"
+msgstr "Кэш"
+
+msgid "weba_fi_cookie_details_domain"
+msgstr "Домен"
+
+msgid "weba_fi_cookie_details_expiration"
+msgstr "Истекает"
+
+msgid "weba_fi_cookie_details_path"
+msgstr "Путь"
+
+msgid "weba_fi_cookie_details_slash"
+msgstr "/"
+
+msgid "weba_fi_cookie_details_value"
+msgstr "Значение"
+
+msgid "weba_fi_cookies"
+msgstr "Файлы Cookies"
+
+msgid "weba_fi_downloads_name"
+msgstr "Имя"
+
+msgid "weba_fi_downloads_percentage"
+msgstr "Получ."
+
+msgid "weba_fi_downloads_size"
+msgstr "Размер"
+
+msgid "weba_fi_encoding"
+msgstr "Кодировка"
+
+msgid "weba_fi_geolocation"
+msgstr "Разрешения для геолокации"
+
+msgid "weba_fi_image_details_dimensions"
+msgstr "Размеры изображения"
+
+msgid "weba_fi_location"
+msgstr "Расположение"
+
+msgid "weba_fi_name"
+msgstr "Имя"
+
+msgid "weba_fi_name_colon"
+msgstr "Имя"
+
+msgid "weba_fi_open_with_colon"
+msgstr "Открыть с помощью:"
+
+msgid "weba_fi_page_details_page_title"
+msgstr "Заголовок"
+
+msgid "weba_fi_page_details_security"
+msgstr "Безопасность"
+
+msgid "weba_fi_page_details_verification"
+msgstr "Проверка"
+
+msgid "weba_fi_saved_pass"
+msgstr "Сохраненные пароли"
+
+msgid "weba_fi_select_username_title"
+msgstr "Выберите имя пользователя:"
+
+msgid "weba_fi_settings_general_maxcache"
+msgstr "Размер кэша памяти"
+
+msgid "weba_fi_settings_plug_ins_enable_java_script"
+msgstr "Включить JavaScript"
+
+msgid "weba_fi_settings_privacy_accept_cookies"
+msgstr "Разрешить файлы cookie"
+
+msgid "weba_fi_settings_privacy_enable_pop_up_windows"
+msgstr "Открывать всплывающие окна"
+
+msgid "weba_fi_settings_privacy_password"
+msgstr "Включить сохранение пароля"
+
+msgid "weba_fi_size_colon"
+msgstr "Размер"
+
+msgid "weba_fi_type_colon"
+msgstr "Тип"
+
+msgid "weba_ib_closing_a_window_background"
+msgstr "Закрывается окно на фоне "
+
+msgid "weba_ib_downloading_complete"
+msgstr "Загрузка %s завершена"
+
+msgid "weba_ib_enter_location"
+msgstr "Сначала введите адрес"
+
+msgid "weba_ib_flash_full"
+msgstr "Чтобы выйти из полноэкранного режима, нажмите Backspace"
+
+msgid "weba_ib_invalid_username_or_password"
+msgstr "Неверное имя пользователя или пароль"
+
+msgid "weba_ib_opening_new_window"
+msgstr "Открытие нового окна"
+
+msgid "weba_ib_pop_up_window_blocked"
+msgstr "Всплывающее окно блокировано"
+
+msgid "weba_ib_secure_server"
+msgstr "%s проверено %s"
+
+msgid "weba_ib_select_update_first"
+msgstr "Сначала выберите обновление"
+
+msgid "weba_ib_some_cache_items_cannot_be_deleted"
+msgstr "Некоторые объекты в кэше используются системой. Удаление невозможно."
+
+msgid "weba_ib_target_not"
+msgstr "Выбранный файл недоступен"
+
+msgid "weba_ib_upload_failed"
+msgstr "Сбой загрузки"
+
+msgid "weba_li_history_list_item_name"
+msgstr "%s"
+
+msgid "weba_li_history_list_nr"
+msgid_plural "weba_li_history_list_nrs"
+msgstr[0] "%d объект"
+msgstr[1] "%d объекта"
+msgstr[2] "%d объектов"
+
+msgid "weba_li_history_list_today"
+msgstr "Сегодня"
+
+msgid "weba_li_history_list_yesterday"
+msgstr "Вчера"
+
+msgid "weba_me_add"
+msgstr "Добавить адрес"
+
+msgid "weba_me_add_bookmark"
+msgstr "Добавить в закладки"
+
+msgid "weba_me_add_home"
+msgstr "Добавить ярлык на рабочий стол"
+
+msgid "weba_me_add_link"
+msgstr "Добавить закладку"
+
+msgid "weba_me_adjustview"
+msgstr "Настроить вид"
+
+msgid "weba_me_clear_privatedata"
+msgstr "Очистить личные данные"
+
+msgid "weba_me_complete_his"
+msgstr "Полный журнал посещений"
+
+msgid "weba_me_components"
+msgstr "Дополнения"
+
+msgid "weba_me_copy"
+msgstr "Копировать"
+
+msgid "weba_me_copy_address"
+msgstr "Копировать ссылку"
+
+msgid "weba_me_copy_img_address"
+msgstr "Копировать адрес изображения"
+
+msgid "weba_me_details"
+msgstr "Свойства"
+
+msgid "weba_me_downloads"
+msgstr "Загрузки"
+
+msgid "weba_me_find_on_page"
+msgstr "Найти на странице"
+
+msgid "weba_me_load_img"
+msgstr "Загрузить изображение"
+
+msgid "weba_me_new_window"
+msgstr "Новое окно"
+
+msgid "weba_me_open_bookmark_new_window"
+msgstr "Открыть в новом окне"
+
+msgid "weba_me_open_in_new_window"
+msgstr "Открыть в новом окне"
+
+msgid "weba_me_open_link_new_window"
+msgstr "Открыть ссылку в новом окне"
+
+msgid "weba_me_openfile"
+msgstr "Открыть файл"
+
+msgid "weba_me_options"
+msgstr "Параметры"
+
+msgid "weba_me_paste"
+msgstr "Вставить"
+
+msgid "weba_me_reload"
+msgstr "Перезагрузить"
+
+msgid "weba_me_rss"
+msgstr "Подписаться на канал: %s"
+
+msgid "weba_me_save_img"
+msgstr "Сохранить изображение как"
+
+msgid "weba_me_save_link_as"
+msgstr "Сохранить ссылку как"
+
+msgid "weba_me_save_page"
+msgstr "Сохранить страницу как"
+
+msgid "weba_me_settings"
+msgstr "Настройки"
+
+msgid "weba_nc_change_stored_password"
+msgstr "Изменить сохраненный пароль для %s?"
+
+msgid "weba_nc_close"
+msgstr ""
+"Веб-страница не загружается. Закрыть окно?\n"
+"Несохраненные данные будут утрачены."
+
+msgid "weba_nc_close_app_pause_load"
+msgstr ""
+"Закрыть приложение и приостановить\n"
+"идущую загрузку?\n"
+"%s"
+
+msgid "weba_nc_close_app_pause_loads"
+msgstr ""
+"Закрыть приложение и приостановить\n"
+"идущую загрузку?"
+
+msgid "weba_nc_delete_dowload"
+msgstr ""
+"Удалить загрузку?\n"
+"%s"
+
+msgid "weba_nc_geolocaton_dis"
+msgstr "Передавать этому сайту ваше местоположение?"
+
+msgid "weba_nc_remember_credentials"
+msgstr "Запомнить данные для входа на этот сайт?"
+
+msgid "weba_save_as"
+msgstr "Сохранить страницу как"
+
+msgid "weba_search_list"
+msgstr "Поиск в Google: '%s'"
+
+msgid "weba_ti_add_adress"
+msgstr "Добавить адрес"
+
+msgid "weba_ti_add_bookmark_title"
+msgstr "Добавить закладку"
+
+msgid "weba_ti_adjuvi_met_showimg"
+msgstr "Показывать изобр-я"
+
+msgid "weba_ti_adjuvi_title"
+msgstr "Настроить вид"
+
+msgid "weba_ti_auhentication_title"
+msgstr "Проверка подлинности"
+
+msgid "weba_ti_bookmarks"
+msgstr "Закладки"
+
+msgid "weba_ti_bookmarks_portrait"
+msgstr "Закладки"
+
+msgid "weba_ti_clear_privatedata"
+msgstr "Очистить личные данные"
+
+msgid "weba_ti_compbrhis"
+msgstr "Полный журнал посещений"
+
+msgid "weba_ti_cookie_conf"
+msgstr "Подтверждение cookie"
+
+msgid "weba_ti_cookie_conf_accept_nor"
+msgstr ""
+"Принять файл cookie?\n"
+"%s"
+
+msgid "weba_ti_cookie_conf_server"
+msgstr "Применить ко всем cookies того же сервера"
+
+msgid "weba_ti_cookie_details_title"
+msgstr "Свойства файла cookie"
+
+msgid "weba_ti_deletebook"
+msgstr "Выбрать закладки"
+
+msgid "weba_ti_download_file_title"
+msgstr "Загрузка файла"
+
+msgid "weba_ti_downloads_title"
+msgstr "Загрузки"
+
+msgid "weba_ti_edit_bookmark_title"
+msgstr "Изменить закладку"
+
+msgid "weba_ti_edit_folder"
+msgstr "Изменить папку"
+
+msgid "weba_ti_foldername"
+msgstr "%s"
+
+msgid "weba_ti_geolocoation"
+msgstr "Геолокация"
+
+msgid "weba_ti_image_details_title"
+msgstr "Свойства изображения"
+
+msgid "weba_ti_java_script_confirmation"
+msgstr "Подтверждение JavaScript"
+
+msgid "weba_ti_java_script_prompt"
+msgstr "Запрос JavaScript"
+
+msgid "weba_ti_javas_alert"
+msgstr "Предупреждение JavaScript"
+
+msgid "weba_ti_options"
+msgstr "Параметры"
+
+msgid "weba_ti_page_details_title"
+msgstr "Свойства страницы"
+
+msgid "weba_ti_recenthis"
+msgstr "Последние посещения"
+
+msgid "weba_ti_remeber_credentials"
+msgstr "Запомнить пароль"
+
+msgid "weba_ti_select_file_title"
+msgstr "Выбрать файл"
+
+msgid "weba_ti_settings_browser"
+msgstr "Браузер"
+
+msgid "weba_ti_settings_content"
+msgstr "Содержимое"
+
+msgid "weba_ti_settings_title"
+msgstr "Настройки"
+
+msgid "weba_ti_texlist_single"
+msgstr "Выбрать параметр"
+
+msgid "weba_ti_text"
+msgstr "Размер текста"
+
+msgid "weba_ti_textlist_multi"
+msgstr "Выбрать параметры"
+
+msgid "weba_ti_webstart"
+msgstr "Веб"
+
+msgid "weba_ti_webstart_portrait"
+msgstr "Веб"
+
+msgid "weba_va_always"
+msgstr "Всегда"
+
+msgid "weba_va_download_from"
+msgstr "От"
+
+msgid "weba_va_downloads_rec_kb"
+msgstr "%d КБ"
+
+msgid "weba_va_downloads_rec_percent"
+msgstr "%d %%"
+
+msgid "weba_va_downloads_size_kb"
+msgstr "%.2f КБ"
+
+msgid "weba_va_downloads_size_unknown"
+msgstr "–"
+
+msgid "weba_va_encoding_big5"
+msgstr "Кит., тр. (Big5 I/II)"
+
+msgid "weba_va_encoding_euc_tw"
+msgstr "Кит., тр. (EUC-TW)"
+
+msgid "weba_va_encoding_gb_18030"
+msgstr "Кит., упр. (GB18030)"
+
+msgid "weba_va_encoding_iso_2022_cn"
+msgstr "Кит., упр. (ISO-2022-CN)"
+
+msgid "weba_va_encoding_iso_8859_1"
+msgstr "Латиница (ISO 8859-1)"
+
+msgid "weba_va_encoding_iso_8859_15"
+msgstr "Расш.лат.(ISO-8859-15)"
+
+msgid "weba_va_encoding_iso_8859_2"
+msgstr "Ц.-европ. (ISO 8859-2)"
+
+msgid "weba_va_encoding_iso_8859_7"
+msgstr "Греческая (ISO 8859-7)"
+
+msgid "weba_va_encoding_iso_8859_9"
+msgstr "Турецкая (ISO 8859-9)"
+
+msgid "weba_va_encoding_utf_16"
+msgstr "Юникод (UTF-16)"
+
+msgid "weba_va_encoding_utf_8"
+msgstr "Юникод (UTF-8)"
+
+msgid "weba_va_encoding_win_1250"
+msgstr "Ц.-европ. (Win-1250)"
+
+msgid "weba_va_encoding_win_1251"
+msgstr "Кирилл. (Win-1251)"
+
+msgid "weba_va_encoding_win_1253"
+msgstr "Греческ. (Win-1253)"
+
+msgid "weba_va_encoding_win_1254"
+msgstr "Турецк. (Win-1254)"
+
+msgid "weba_va_encoding_win_koi_8r"
+msgstr "Кириллица (KOI-8R)"
+
+msgid "weba_va_high"
+msgstr "Высокая"
+
+msgid "weba_va_image_details_dim_px"
+msgstr "%1$d x %2$d пикселей"
+
+msgid "weba_va_larger"
+msgstr "Крупный"
+
+msgid "weba_va_largest"
+msgstr "Очень большой"
+
+msgid "weba_va_loaded"
+msgstr "Только из кэша"
+
+msgid "weba_va_low"
+msgstr "Низкая"
+
+msgid "weba_va_medium"
+msgstr "Средняя"
+
+msgid "weba_va_modal_dialog_abort"
+msgstr "Прервать"
+
+msgid "weba_va_modal_dialog_cancel"
+msgstr "Отмена"
+
+msgid "weba_va_modal_dialog_ignore"
+msgstr "Пропустить"
+
+msgid "weba_va_modal_dialog_no"
+msgstr "Нет"
+
+msgid "weba_va_modal_dialog_ok"
+msgstr "OK"
+
+msgid "weba_va_modal_dialog_retry"
+msgstr "Повторить попытку?"
+
+msgid "weba_va_modal_dialog_yes"
+msgstr "Да"
+
+msgid "weba_va_never"
+msgstr "Никогда"
+
+msgid "weba_va_normal"
+msgstr "Обычный"
+
+msgid "weba_va_not_secure"
+msgstr "Страница небезопасна"
+
+msgid "weba_va_page_details_size_kb"
+msgstr "%.2f КБ"
+
+msgid "weba_va_page_not_verified"
+msgstr "Подлинность веб-сайта не подтверждена"
+
+msgid "weba_va_save_complete"
+msgstr "Полная веб-страница"
+
+msgid "weba_va_save_html_only"
+msgstr "Только HTML"
+
+msgid "weba_va_saved_password"
+msgstr "(сохраненный пароль)"
+
+msgid "weba_va_settings_autofocus"
+msgstr "Автоматич. фокус ввода адресной строки"
+
+msgid "weba_va_settings_fullscreen"
+msgstr "Открывать окна в полноэкранном режиме"
+
+msgid "weba_va_settings_general_maxc_1024"
+msgstr "10 МБ"
+
+msgid "weba_va_settings_general_maxc_2048"
+msgstr "20 МБ"
+
+msgid "weba_va_settings_general_maxc_4096"
+msgstr "40 МБ"
+
+msgid "weba_va_settings_general_maxc_512"
+msgstr "5 МБ"
+
+msgid "weba_va_settings_general_maxc_aut"
+msgstr "Автоматически"
+
+msgid "weba_va_settings_general_maxc_off"
+msgstr "Откл"
+
+msgid "weba_va_settings_geolocation"
+msgstr "Геолокация"
+
+msgid "weba_va_settings_hwkeys"
+msgstr "Использовать клавиши увеличения/уменьшения"
+
+msgid "weba_va_settings_hwkeys_volume"
+msgstr "для регулировки громкости"
+
+msgid "weba_va_settings_hwkeys_zoom"
+msgstr "для изменения масштаба"
+
+msgid "weba_va_settings_javaflash"
+msgstr "Разрешить приостановку JavaScript"
+
+msgid "weba_va_settings_javaflash_immediately"
+msgstr "сейчас"
+
+msgid "weba_va_settings_javaflash_in15"
+msgstr "через 15 с"
+
+msgid "weba_va_settings_javaflash_in30"
+msgstr "через 30 с"
+
+msgid "weba_va_settings_javaflash_in60"
+msgstr "через 60 с"
+
+msgid "weba_va_settings_javaflash_not"
+msgstr "Не приостанавливать"
+
+msgid "weba_va_settings_portrait"
+msgstr "Включить поворот"
+
+msgid "weba_va_settings_privacy_accept_cookies_always"
+msgstr "Всегда"
+
+msgid "weba_va_settings_privacy_accept_cookies_askfirst"
+msgstr "Запрашивать"
+
+msgid "weba_va_settings_privacy_accept_cookies_never"
+msgstr "Никогда"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_always"
+msgstr "Всегда"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_askfirst"
+msgstr "Запрошенные"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_never"
+msgstr "Никогда"
+
+msgid "weba_yi_hisfolder"
+msgstr "%s"
+
+msgid "webb_fi_bookmark_details_add"
+msgstr "Добавлено"
+
+msgid "webb_fi_bookmark_details_use"
+msgstr "Последнее использование"
+
+msgid "webb_fi_folder_details_contents"
+msgstr "Содержание"
+
+msgid "webb_fi_folder_details_contents_01"
+msgstr "1 закладка"
+
+msgid "webb_fi_folder_details_contents_02"
+msgstr "2 закладки"
+
+msgid "webb_fi_folder_details_contents_0n"
+msgstr "%d закладок"
+
+msgid "webb_fi_folder_details_contents_10"
+msgstr "1 папка"
+
+msgid "webb_fi_folder_details_contents_1n"
+msgstr "1 папка, закладок %d"
+
+msgid "webb_fi_folder_details_contents_20"
+msgstr "2 папки"
+
+msgid "webb_fi_folder_details_contents_2n"
+msgstr "2 папки, закладок %d"
+
+msgid "webb_fi_folder_details_contents_bookmark"
+msgid_plural "webb_fi_folder_details_contents_bookmars"
+msgstr[0] "%d закладка"
+msgstr[1] "%d закладки"
+msgstr[2] "%d закладок"
+
+msgid "webb_fi_folder_details_contents_folder"
+msgid_plural "webb_fi_folder_details_contents_folders"
+msgstr[0] "%d папка "
+msgstr[1] "%d папки "
+msgstr[2] "%d папок "
+
+msgid "webb_fi_folder_details_contents_n0"
+msgstr "папок %d"
+
+msgid "webb_fi_folder_details_contents_n1"
+msgstr "папок %d, 1 закладка"
+
+msgid "webb_fi_folder_details_contents_n2"
+msgstr "папок %d, 2 закладки"
+
+msgid "webb_fi_folder_details_contents_nn"
+msgstr "папок %d, закладок %d"
+
+msgid "webb_fi_folder_details_date"
+msgstr "Добавлено"
+
+msgid "webb_fi_folder_details_time"
+msgstr "Изменено"
+
+msgid "webb_folder_imported_bookmarks"
+msgstr "Импортированные закладки"
+
+msgid "webb_folder_operator"
+msgstr "Закладки оператора"
+
+msgid "webb_folder_root_user"
+msgstr "Мои закладки"
+
+msgid "webb_ia_cookie_after_sessions_ends"
+msgstr "По окончании сеанса"
+
+msgid "webb_ia_no_bookmarks_folders_to_show"
+msgstr "(нет закладок/папок)"
+
+msgid "webb_ia_no_description"
+msgstr "(нет описания)"
+
+msgid "webb_ia_no_downloads"
+msgstr "(нет файлов для загрузки)"
+
+msgid "webb_ia_none"
+msgstr "Нет"
+
+msgid "webb_ia_not_available"
+msgstr "Недоступен"
+
+msgid "webb_ia_not_defined_in_html"
+msgstr "(без имени)"
+
+msgid "webb_ia_unknown"
+msgstr "Неизвестно"
+
+msgid "webb_ib_this_folder_cannot_be_renamed"
+msgstr "Не удается переименовать выбранную папку"
+
+msgid "webb_me_delete"
+msgstr "Удалить"
+
+msgid "webb_me_details"
+msgstr "Свойства"
+
+msgid "webb_me_file_edit"
+msgstr "Изменить"
+
+msgid "webb_me_impor"
+msgstr "Импортировать закладки"
+
+msgid "webb_me_move_to"
+msgstr "Переместить"
+
+msgid "webb_nc_delete_item_nr"
+msgid_plural "webb_nc_delete_item_nrs"
+msgstr[0] "Удалить '%s'?"
+msgstr[1] "Удалить выбранные объекты (%d)?"
+msgstr[2] "Удалить выбранные объекты (%d)?"
+
+msgid "webb_nc_replace_item_nr"
+msgid_plural "webb_nc_replace_item_nrs"
+msgstr[0] "Заменить существующий объект с тем же именем?"
+msgstr[1] "Заменить существующие объекты (%d) с тем же именем?"
+msgstr[2] "Заменить существующие объекты (%d) с тем же именем?"
+
+msgid "webb_ni_change_save_target_location"
+msgstr ""
+"Не удается сохранить в выбранное место.\n"
+"Сохранить в память устройства?"
+
+msgid "webb_ni_downloading_paused"
+msgstr ""
+"Недостаточно свободной памяти устройства.\n"
+"Загрузка приостановлена."
+
+msgid "webb_ni_invalid_bookmarks_file"
+msgstr ""
+"Неверный файл закладок.\n"
+"Закладки не импортированы."
+
+msgid "webb_ni_resuming_failed"
+msgstr ""
+"Не удалось возобновить загрузку.\n"
+"Перезапустить загрузку?"
+
+msgid "webb_ni_target_folder_not_available"
+msgstr ""
+"Выбранная папка недоступна.\n"
+"Сохраните в другую папку."
+
+msgid "webb_ni_target_location_not_available"
+msgstr ""
+"Выбранная папка недоступна.\n"
+"Сохраните в локальную память."
+
+msgid "webb_nw_deleting_bookmark"
+msgstr "Удаление"
+
+msgid "webb_nw_importing_bookmark"
+msgstr "Импорт"
+
+msgid "webb_nw_moving_bookmark"
+msgstr "Перемещение"
+
+msgid "webb_ti_bookmark_details_title"
+msgstr "Свойства закладки"
+
+msgid "webb_ti_folder_details"
+msgstr "Свойства папки"
+
+msgid "webb_ti_selectbok"
+msgstr "Выбрать закладки"

@@ -1,0 +1,855 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-browser-ui 20100208121232\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: no_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "bookm_li_imported_bookmarksd"
+msgstr "Importerte bokmerker (%d)"
+
+msgid "bookm_ti_import_bookmarks"
+msgstr "Importer bokmerker"
+
+msgid "weba_ap_web_browser"
+msgstr "Nettleser"
+
+msgid "weba_bd_cancel"
+msgstr "Avbryt"
+
+msgid "weba_bd_certificate"
+msgstr "Sertifikat"
+
+msgid "weba_bd_close"
+msgstr "Lukk"
+
+msgid "weba_bd_cookie_conf_accept"
+msgstr "Godta"
+
+msgid "weba_bd_cookie_conf_reject"
+msgstr "Avvis"
+
+msgid "weba_bd_delete"
+msgstr "Slett"
+
+msgid "weba_bd_details"
+msgstr "Detaljer"
+
+msgid "weba_bd_download_open_with"
+msgstr "Åpne med"
+
+msgid "weba_bd_download_save_to"
+msgstr "Lagre på enhet"
+
+msgid "weba_bd_downloads_pause"
+msgstr "Pause"
+
+msgid "weba_bd_downloads_resume"
+msgstr "Gjenoppta"
+
+msgid "weba_bd_geolocaton_allow"
+msgstr "Tillat"
+
+msgid "weba_bd_geolocaton_always"
+msgstr "Tillat hver gang for dette nettstedet"
+
+msgid "weba_bd_geolocaton_never"
+msgstr "Tillat aldri for dette nettstedet"
+
+msgid "weba_bd_moveto"
+msgstr "Flytt"
+
+msgid "weba_bd_never"
+msgstr "Aldri"
+
+msgid "weba_bd_not_now"
+msgstr "Ikke nå"
+
+msgid "weba_bd_ok"
+msgstr "OK"
+
+msgid "weba_bd_select_clear_alll"
+msgstr "Slett alle"
+
+msgid "weba_bd_stop"
+msgstr "Stopp"
+
+msgid "weba_db_clear"
+msgstr "Slett"
+
+msgid "weba_fi_address"
+msgstr "Adresse"
+
+msgid "weba_fi_address_colon"
+msgstr "Adresse"
+
+msgid "weba_fi_auhentication_password"
+msgstr "Passord"
+
+msgid "weba_fi_auhentication_realm"
+msgstr "Melding"
+
+msgid "weba_fi_auhentication_site"
+msgstr "Server"
+
+msgid "weba_fi_auhentication_username"
+msgstr "Brukernavn"
+
+msgid "weba_fi_authentivated"
+msgstr "Godkjente økter"
+
+msgid "weba_fi_browsing_his"
+msgstr "Søkelogg"
+
+msgid "weba_fi_cache"
+msgstr "Hurtigbuffer"
+
+msgid "weba_fi_cookie_details_domain"
+msgstr "Domene"
+
+msgid "weba_fi_cookie_details_expiration"
+msgstr "Utløper"
+
+msgid "weba_fi_cookie_details_path"
+msgstr "Bane"
+
+msgid "weba_fi_cookie_details_slash"
+msgstr "/"
+
+msgid "weba_fi_cookie_details_value"
+msgstr "Verdi"
+
+msgid "weba_fi_cookies"
+msgstr "Cookier"
+
+msgid "weba_fi_downloads_name"
+msgstr "Navn"
+
+msgid "weba_fi_downloads_percentage"
+msgstr "Mottatt"
+
+msgid "weba_fi_downloads_size"
+msgstr "Størrelse"
+
+msgid "weba_fi_encoding"
+msgstr "Koding"
+
+msgid "weba_fi_geolocation"
+msgstr "Tillatelse til geografisk posisjon"
+
+msgid "weba_fi_image_details_dimensions"
+msgstr "Oppløsning"
+
+msgid "weba_fi_location"
+msgstr "Plassering"
+
+msgid "weba_fi_name"
+msgstr "Navn"
+
+msgid "weba_fi_name_colon"
+msgstr "Navn"
+
+msgid "weba_fi_open_with_colon"
+msgstr "Åpne med:"
+
+msgid "weba_fi_page_details_page_title"
+msgstr "Tittel"
+
+msgid "weba_fi_page_details_security"
+msgstr "Sikkerhet"
+
+msgid "weba_fi_page_details_verification"
+msgstr "Kontroll"
+
+msgid "weba_fi_saved_pass"
+msgstr "Lagrede passord"
+
+msgid "weba_fi_select_username_title"
+msgstr "Velg brukernavn"
+
+msgid "weba_fi_settings_general_maxcache"
+msgstr "Hurtigbufferstørrelse"
+
+msgid "weba_fi_settings_plug_ins_enable_java_script"
+msgstr "Aktiver JavaScript"
+
+msgid "weba_fi_settings_privacy_accept_cookies"
+msgstr "Godta cookier"
+
+msgid "weba_fi_settings_privacy_enable_pop_up_windows"
+msgstr "Åpne popup-vinduer"
+
+msgid "weba_fi_settings_privacy_password"
+msgstr "Aktiver lagring av passord"
+
+msgid "weba_fi_size_colon"
+msgstr "Størrelse"
+
+msgid "weba_fi_type_colon"
+msgstr "Type"
+
+msgid "weba_ib_closing_a_window_background"
+msgstr "Lukker et vindu i bakgrunnen"
+
+msgid "weba_ib_downloading_complete"
+msgstr "Nedlasting av %s er fullført"
+
+msgid "weba_ib_enter_location"
+msgstr "Skriv inn adressen først"
+
+msgid "weba_ib_flash_full"
+msgstr "Trykk rettetasten for å avslutte fullskjermmodus"
+
+msgid "weba_ib_invalid_username_or_password"
+msgstr "Ugyldig brukernavn eller passord"
+
+msgid "weba_ib_opening_new_window"
+msgstr "Åpner nytt vindu"
+
+msgid "weba_ib_pop_up_window_blocked"
+msgstr "Popup-vindu blokkert"
+
+msgid "weba_ib_secure_server"
+msgstr "%s er bekreftet av %s"
+
+msgid "weba_ib_select_update_first"
+msgstr "Velg oppdatering først"
+
+msgid "weba_ib_some_cache_items_cannot_be_deleted"
+msgstr "Enkelte hurtigbufferelementer er i bruk. Kan ikke slette."
+
+msgid "weba_ib_target_not"
+msgstr "Målfilen er ikke tilgjengelig"
+
+msgid "weba_ib_upload_failed"
+msgstr "Opplasting mislyktes"
+
+msgid "weba_li_history_list_item_name"
+msgstr "%s"
+
+msgid "weba_li_history_list_nr"
+msgid_plural "weba_li_history_list_nrs"
+msgstr[0] "%d element"
+msgstr[1] "%d elementer"
+
+msgid "weba_li_history_list_today"
+msgstr "I dag"
+
+msgid "weba_li_history_list_yesterday"
+msgstr "I går"
+
+msgid "weba_me_add"
+msgstr "Legg til adresse"
+
+msgid "weba_me_add_bookmark"
+msgstr "Legg til i bokmerker"
+
+msgid "weba_me_add_home"
+msgstr "Legg til snarvei på skrivebordet"
+
+msgid "weba_me_add_link"
+msgstr "Legg til bokmerke"
+
+msgid "weba_me_adjustview"
+msgstr "Juster visning"
+
+msgid "weba_me_clear_privatedata"
+msgstr "Slett private data"
+
+msgid "weba_me_complete_his"
+msgstr "Komplett nettleserhistorikk"
+
+msgid "weba_me_components"
+msgstr "Utvidelser"
+
+msgid "weba_me_copy"
+msgstr "Kopier"
+
+msgid "weba_me_copy_address"
+msgstr "Kopier koblingsadresse"
+
+msgid "weba_me_copy_img_address"
+msgstr "Kopier bildeadresse"
+
+msgid "weba_me_details"
+msgstr "Detaljer"
+
+msgid "weba_me_downloads"
+msgstr "Nedlastinger"
+
+msgid "weba_me_find_on_page"
+msgstr "Finn på side"
+
+msgid "weba_me_load_img"
+msgstr "Last inn bilde"
+
+msgid "weba_me_new_window"
+msgstr "Nytt vindu"
+
+msgid "weba_me_open_bookmark_new_window"
+msgstr "Åpne i nytt vindu"
+
+msgid "weba_me_open_in_new_window"
+msgstr "Åpne i nytt vindu"
+
+msgid "weba_me_open_link_new_window"
+msgstr "Åpne kobling i nytt vindu"
+
+msgid "weba_me_openfile"
+msgstr "Åpne fil"
+
+msgid "weba_me_options"
+msgstr "Alternativer"
+
+msgid "weba_me_paste"
+msgstr "Lim inn"
+
+msgid "weba_me_reload"
+msgstr "Last inn på nytt"
+
+msgid "weba_me_rss"
+msgstr "Abonner på nyhetsoppdatering: %s"
+
+msgid "weba_me_save_img"
+msgstr "Lagre bilde som"
+
+msgid "weba_me_save_link_as"
+msgstr "Lagre kobling som"
+
+msgid "weba_me_save_page"
+msgstr "Lagre side som"
+
+msgid "weba_me_settings"
+msgstr "Innstillinger"
+
+msgid "weba_nc_change_stored_password"
+msgstr "Endre lagret passord for %s?"
+
+msgid "weba_nc_close"
+msgstr ""
+"Nettsiden svarer ikke. Tvinge lukking av vinduet?\n"
+"Data som ikke er lagret, kan gå tapt."
+
+msgid "weba_nc_close_app_pause_load"
+msgstr ""
+"Lukke programmet og\n"
+"stoppe nedlastingen midlertidig?\n"
+"%s"
+
+msgid "weba_nc_close_app_pause_loads"
+msgstr ""
+"Lukke programmet og\n"
+"stoppe nedlastingene midlertidig?"
+
+msgid "weba_nc_delete_dowload"
+msgstr ""
+"Slette nedlasting?\n"
+"%s"
+
+msgid "weba_nc_geolocaton_dis"
+msgstr "Tillate at nettstedet får oppgitt posisjonen din?"
+
+msgid "weba_nc_remember_credentials"
+msgstr "Huske påloggingsinformasjonen for dette området?"
+
+msgid "weba_save_as"
+msgstr "Lagre side som"
+
+msgid "weba_search_list"
+msgstr "Google-søk: %s"
+
+msgid "weba_ti_add_adress"
+msgstr "Legg til adresse"
+
+msgid "weba_ti_add_bookmark_title"
+msgstr "Legg til bokmerke"
+
+msgid "weba_ti_adjuvi_met_showimg"
+msgstr "Vis bilder"
+
+msgid "weba_ti_adjuvi_title"
+msgstr "Juster visning"
+
+msgid "weba_ti_auhentication_title"
+msgstr "Godkjenning"
+
+msgid "weba_ti_bookmarks"
+msgstr "Bokmerker"
+
+msgid "weba_ti_bookmarks_portrait"
+msgstr "Bokmerker"
+
+msgid "weba_ti_clear_privatedata"
+msgstr "Slett private data"
+
+msgid "weba_ti_compbrhis"
+msgstr "Komplett søkelogg"
+
+msgid "weba_ti_cookie_conf"
+msgstr "Cookie-bekreftelse"
+
+msgid "weba_ti_cookie_conf_accept_nor"
+msgstr ""
+"Godta cookie?\n"
+"%s"
+
+msgid "weba_ti_cookie_conf_server"
+msgstr "Aktiver for alle cookier fra samme server"
+
+msgid "weba_ti_cookie_details_title"
+msgstr "Cookie-detaljer"
+
+msgid "weba_ti_deletebook"
+msgstr "Velg bokmerker"
+
+msgid "weba_ti_download_file_title"
+msgstr "Nedlasting av fil"
+
+msgid "weba_ti_downloads_title"
+msgstr "Nedlastinger"
+
+msgid "weba_ti_edit_bookmark_title"
+msgstr "Rediger bokmerke"
+
+msgid "weba_ti_edit_folder"
+msgstr "Rediger mappe"
+
+msgid "weba_ti_foldername"
+msgstr "%s"
+
+msgid "weba_ti_geolocoation"
+msgstr "Geografisk posisjon"
+
+msgid "weba_ti_image_details_title"
+msgstr "Bildedetaljer"
+
+msgid "weba_ti_java_script_confirmation"
+msgstr "JavaScript-bekreftelse"
+
+msgid "weba_ti_java_script_prompt"
+msgstr "JavaScript-forespørsel"
+
+msgid "weba_ti_javas_alert"
+msgstr "JavaScript-varsling"
+
+msgid "weba_ti_options"
+msgstr "Alternativer"
+
+msgid "weba_ti_page_details_title"
+msgstr "Sidedetaljer"
+
+msgid "weba_ti_recenthis"
+msgstr "Siste logg"
+
+msgid "weba_ti_remeber_credentials"
+msgstr "Husk passord"
+
+msgid "weba_ti_select_file_title"
+msgstr "Velg fil"
+
+msgid "weba_ti_settings_browser"
+msgstr "Nettleser"
+
+msgid "weba_ti_settings_content"
+msgstr "Innhold"
+
+msgid "weba_ti_settings_title"
+msgstr "Innstillinger"
+
+msgid "weba_ti_texlist_single"
+msgstr "Velg alternativ"
+
+msgid "weba_ti_text"
+msgstr "Tekststørrelse"
+
+msgid "weba_ti_textlist_multi"
+msgstr "Velg alternativer"
+
+msgid "weba_ti_webstart"
+msgstr "Nettleser"
+
+msgid "weba_ti_webstart_portrait"
+msgstr "Nettleser"
+
+msgid "weba_va_always"
+msgstr "Alltid"
+
+msgid "weba_va_download_from"
+msgstr "Fra"
+
+msgid "weba_va_downloads_rec_kb"
+msgstr "%d kB"
+
+msgid "weba_va_downloads_rec_percent"
+msgstr "%d %%"
+
+msgid "weba_va_downloads_size_kb"
+msgstr "%.2f kB"
+
+msgid "weba_va_downloads_size_unknown"
+msgstr "–"
+
+msgid "weba_va_encoding_big5"
+msgstr "Kinesisk, tradisjonell (Big5 I/II)"
+
+msgid "weba_va_encoding_euc_tw"
+msgstr "Kinesisk, tradisjonell (EUC-TW)"
+
+msgid "weba_va_encoding_gb_18030"
+msgstr "Kinesisk, forenklet (GB18030)"
+
+msgid "weba_va_encoding_iso_2022_cn"
+msgstr "Kinesisk, forenklet (ISO-2022-CN)"
+
+msgid "weba_va_encoding_iso_8859_1"
+msgstr "Latin (ISO 8859-1)"
+
+msgid "weba_va_encoding_iso_8859_15"
+msgstr "Latin, utvidet (ISO-8859-15)"
+
+msgid "weba_va_encoding_iso_8859_2"
+msgstr "Sentraleuropeisk (ISO 8859-2)"
+
+msgid "weba_va_encoding_iso_8859_7"
+msgstr "Gresk (ISO 8859-7)"
+
+msgid "weba_va_encoding_iso_8859_9"
+msgstr "Tyrkisk (ISO 8859-9)"
+
+msgid "weba_va_encoding_utf_16"
+msgstr "Unicode (UTF-16)"
+
+msgid "weba_va_encoding_utf_8"
+msgstr "Unicode (UTF-8)"
+
+msgid "weba_va_encoding_win_1250"
+msgstr "Sentraleuropeisk (Windows-1250)"
+
+msgid "weba_va_encoding_win_1251"
+msgstr "Kyrillisk (Windows-1251)"
+
+msgid "weba_va_encoding_win_1253"
+msgstr "Gresk (Windows-1253)"
+
+msgid "weba_va_encoding_win_1254"
+msgstr "Tyrkisk (Windows-1254)"
+
+msgid "weba_va_encoding_win_koi_8r"
+msgstr "Kyrillisk (KOI-8R)"
+
+msgid "weba_va_high"
+msgstr "Høy"
+
+msgid "weba_va_image_details_dim_px"
+msgstr "%1$d x %2$d piksler"
+
+msgid "weba_va_larger"
+msgstr "Stor"
+
+msgid "weba_va_largest"
+msgstr "Størst"
+
+msgid "weba_va_loaded"
+msgstr "Allerede i hurtigbuffer"
+
+msgid "weba_va_low"
+msgstr "Lav"
+
+msgid "weba_va_medium"
+msgstr "Middels"
+
+msgid "weba_va_modal_dialog_abort"
+msgstr "Avbryt"
+
+msgid "weba_va_modal_dialog_cancel"
+msgstr "Avbryt"
+
+msgid "weba_va_modal_dialog_ignore"
+msgstr "Ignorer"
+
+msgid "weba_va_modal_dialog_no"
+msgstr "Nei"
+
+msgid "weba_va_modal_dialog_ok"
+msgstr "OK"
+
+msgid "weba_va_modal_dialog_retry"
+msgstr "Prøve igjen?"
+
+msgid "weba_va_modal_dialog_yes"
+msgstr "Ja"
+
+msgid "weba_va_never"
+msgstr "Aldri"
+
+msgid "weba_va_normal"
+msgstr "Normal"
+
+msgid "weba_va_not_secure"
+msgstr "Ikke en sikker side"
+
+msgid "weba_va_page_details_size_kb"
+msgstr "%.2f kB"
+
+msgid "weba_va_page_not_verified"
+msgstr "Nettområdets identitet ikke bekreftet"
+
+msgid "weba_va_save_complete"
+msgstr "Fullstendig nettside"
+
+msgid "weba_va_save_html_only"
+msgstr "Bare HTML"
+
+msgid "weba_va_saved_password"
+msgstr "(lagret passord)"
+
+msgid "weba_va_settings_autofocus"
+msgstr "Automatisk aktivering av adressefelt"
+
+msgid "weba_va_settings_fullscreen"
+msgstr "Åpne i fullskjermmodus"
+
+msgid "weba_va_settings_general_maxc_1024"
+msgstr "10 MB"
+
+msgid "weba_va_settings_general_maxc_2048"
+msgstr "20 MB"
+
+msgid "weba_va_settings_general_maxc_4096"
+msgstr "40 MB"
+
+msgid "weba_va_settings_general_maxc_512"
+msgstr "5 MB"
+
+msgid "weba_va_settings_general_maxc_aut"
+msgstr "Automatisk"
+
+msgid "weba_va_settings_general_maxc_off"
+msgstr "Av"
+
+msgid "weba_va_settings_geolocation"
+msgstr "Geografisk posisjon"
+
+msgid "weba_va_settings_hwkeys"
+msgstr "Bruk tastene for å gjøre større eller mindre for"
+
+msgid "weba_va_settings_hwkeys_volume"
+msgstr "Volum"
+
+msgid "weba_va_settings_hwkeys_zoom"
+msgstr "Zooming"
+
+msgid "weba_va_settings_javaflash"
+msgstr "Deaktiver JavaScript når det ikke er i bruk"
+
+msgid "weba_va_settings_javaflash_immediately"
+msgstr "umiddelbart"
+
+msgid "weba_va_settings_javaflash_in15"
+msgstr "etter 15 sekunder"
+
+msgid "weba_va_settings_javaflash_in30"
+msgstr "etter 30 sekunder"
+
+msgid "weba_va_settings_javaflash_in60"
+msgstr "etter 60 sekunder"
+
+msgid "weba_va_settings_javaflash_not"
+msgstr "Ingen pause"
+
+msgid "weba_va_settings_portrait"
+msgstr "Aktiver rotasjon"
+
+msgid "weba_va_settings_privacy_accept_cookies_always"
+msgstr "Alltid"
+
+msgid "weba_va_settings_privacy_accept_cookies_askfirst"
+msgstr "Spør først"
+
+msgid "weba_va_settings_privacy_accept_cookies_never"
+msgstr "Aldri"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_always"
+msgstr "Alltid"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_askfirst"
+msgstr "Bare anmodet"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_never"
+msgstr "Aldri"
+
+msgid "weba_yi_hisfolder"
+msgstr "%s"
+
+msgid "webb_fi_bookmark_details_add"
+msgstr "Lagt til"
+
+msgid "webb_fi_bookmark_details_use"
+msgstr "Sist brukt"
+
+msgid "webb_fi_folder_details_contents"
+msgstr "Innhold"
+
+msgid "webb_fi_folder_details_contents_01"
+msgstr "1 bokmerke"
+
+msgid "webb_fi_folder_details_contents_02"
+msgstr "2 bokmerker"
+
+msgid "webb_fi_folder_details_contents_0n"
+msgstr "%d bokmerker"
+
+msgid "webb_fi_folder_details_contents_10"
+msgstr "1 mappe"
+
+msgid "webb_fi_folder_details_contents_1n"
+msgstr "1 mappe, %d bokmerker"
+
+msgid "webb_fi_folder_details_contents_20"
+msgstr "2 mapper"
+
+msgid "webb_fi_folder_details_contents_2n"
+msgstr "2 mapper, %d bokmerker"
+
+msgid "webb_fi_folder_details_contents_bookmark"
+msgid_plural "webb_fi_folder_details_contents_bookmars"
+msgstr[0] "%d bokmerke"
+msgstr[1] "%d bokmerker"
+
+msgid "webb_fi_folder_details_contents_folder"
+msgid_plural "webb_fi_folder_details_contents_folders"
+msgstr[0] "%d mappe "
+msgstr[1] "%d mapper "
+
+msgid "webb_fi_folder_details_contents_n0"
+msgstr "%d mapper"
+
+msgid "webb_fi_folder_details_contents_n1"
+msgstr "%d mapper, 1 bokmerke"
+
+msgid "webb_fi_folder_details_contents_n2"
+msgstr "%d mapper, 2 bokmerker"
+
+msgid "webb_fi_folder_details_contents_nn"
+msgstr "%d mapper, %d bokmerker"
+
+msgid "webb_fi_folder_details_date"
+msgstr "Lagt til"
+
+msgid "webb_fi_folder_details_time"
+msgstr "Endret"
+
+msgid "webb_folder_imported_bookmarks"
+msgstr "Importerte bokmerker"
+
+msgid "webb_folder_operator"
+msgstr "Operatørbokmerker"
+
+msgid "webb_folder_root_user"
+msgstr "Mine bokmerker"
+
+msgid "webb_ia_cookie_after_sessions_ends"
+msgstr "Når økten er ferdig"
+
+msgid "webb_ia_no_bookmarks_folders_to_show"
+msgstr "(ingen bokmerker/mapper)"
+
+msgid "webb_ia_no_description"
+msgstr "(ingen beskrivelse)"
+
+msgid "webb_ia_no_downloads"
+msgstr "(ingen filer lastes ned)"
+
+msgid "webb_ia_none"
+msgstr "Ingen"
+
+msgid "webb_ia_not_available"
+msgstr "Ikke tilgjengelig"
+
+msgid "webb_ia_not_defined_in_html"
+msgstr "(uten navn)"
+
+msgid "webb_ia_unknown"
+msgstr "Ukjent"
+
+msgid "webb_ib_this_folder_cannot_be_renamed"
+msgstr "Kan ikke endre navn på den valgte mappen"
+
+msgid "webb_me_delete"
+msgstr "Slett"
+
+msgid "webb_me_details"
+msgstr "Detaljer"
+
+msgid "webb_me_file_edit"
+msgstr "Rediger"
+
+msgid "webb_me_impor"
+msgstr "Importer bokmerker"
+
+msgid "webb_me_move_to"
+msgstr "Flytt"
+
+msgid "webb_nc_delete_item_nr"
+msgid_plural "webb_nc_delete_item_nrs"
+msgstr[0] "Slette '%s'?"
+msgstr[1] "Slette de %d valgte elementene?"
+
+msgid "webb_nc_replace_item_nr"
+msgid_plural "webb_nc_replace_item_nrs"
+msgstr[0] "Erstatte eksisterende element med samme navn?"
+msgstr[1] "Erstatte de %d eksisterende elementene med samme navn?"
+
+msgid "webb_ni_change_save_target_location"
+msgstr ""
+"Kan ikke lagre på valgte plassering.\n"
+"Lagre i enhetsminnet?"
+
+msgid "webb_ni_downloading_paused"
+msgstr ""
+"Ikke nok ledig minne på enheten.\n"
+"Nedlastingen ble stoppet midlertidig."
+
+msgid "webb_ni_invalid_bookmarks_file"
+msgstr ""
+"Ugyldig bokmerkefil.\n"
+"Ingen bokmerker ble importert."
+
+msgid "webb_ni_resuming_failed"
+msgstr ""
+"Gjenopptaking av nedlasting mislyktes.\n"
+"Starte nedlasting på nytt?"
+
+msgid "webb_ni_target_folder_not_available"
+msgstr ""
+"Målmappen er ikke tilgjengelig.\n"
+"Lagre i en annen mappe."
+
+msgid "webb_ni_target_location_not_available"
+msgstr ""
+"Målplasseringen er ikke tilgjengelig.\n"
+"Lagre i lokalminne."
+
+msgid "webb_nw_deleting_bookmark"
+msgstr "Sletter"
+
+msgid "webb_nw_importing_bookmark"
+msgstr "Importerer"
+
+msgid "webb_nw_moving_bookmark"
+msgstr "Flytter"
+
+msgid "webb_ti_bookmark_details_title"
+msgstr "Bokmerkedetaljer"
+
+msgid "webb_ti_folder_details"
+msgstr "Mappedetaljer"
+
+msgid "webb_ti_selectbok"
+msgstr "Velg bokmerker"

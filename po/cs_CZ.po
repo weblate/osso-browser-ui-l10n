@@ -1,0 +1,860 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-browser-ui 20100208121232\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "bookm_li_imported_bookmarksd"
+msgstr "Importované záložky (%d)"
+
+msgid "bookm_ti_import_bookmarks"
+msgstr "Importovat záložky"
+
+msgid "weba_ap_web_browser"
+msgstr "Web"
+
+msgid "weba_bd_cancel"
+msgstr "Zrušit"
+
+msgid "weba_bd_certificate"
+msgstr "Certifikát"
+
+msgid "weba_bd_close"
+msgstr "Zavřít"
+
+msgid "weba_bd_cookie_conf_accept"
+msgstr "Přijmout"
+
+msgid "weba_bd_cookie_conf_reject"
+msgstr "Odmítnout"
+
+msgid "weba_bd_delete"
+msgstr "Odstranit"
+
+msgid "weba_bd_details"
+msgstr "Podrobnosti"
+
+msgid "weba_bd_download_open_with"
+msgstr "Otevřít pomocí:"
+
+msgid "weba_bd_download_save_to"
+msgstr "Uložit do paměti přístroje"
+
+msgid "weba_bd_downloads_pause"
+msgstr "Pozastavit"
+
+msgid "weba_bd_downloads_resume"
+msgstr "Pokračovat"
+
+msgid "weba_bd_geolocaton_allow"
+msgstr "Povolit"
+
+msgid "weba_bd_geolocaton_always"
+msgstr "Vždy povolit pro tuto stránku"
+
+msgid "weba_bd_geolocaton_never"
+msgstr "Nikdy nepovolit pro tuto stránku"
+
+msgid "weba_bd_moveto"
+msgstr "Přesunout"
+
+msgid "weba_bd_never"
+msgstr "Nikdy"
+
+msgid "weba_bd_not_now"
+msgstr "Nyní ne"
+
+msgid "weba_bd_ok"
+msgstr "OK"
+
+msgid "weba_bd_select_clear_alll"
+msgstr "Vymazat vše"
+
+msgid "weba_bd_stop"
+msgstr "Zastavit"
+
+msgid "weba_db_clear"
+msgstr "Vymazat"
+
+msgid "weba_fi_address"
+msgstr "Adresa"
+
+msgid "weba_fi_address_colon"
+msgstr "Adresa"
+
+msgid "weba_fi_auhentication_password"
+msgstr "Heslo"
+
+msgid "weba_fi_auhentication_realm"
+msgstr "Zpráva"
+
+msgid "weba_fi_auhentication_site"
+msgstr "Server"
+
+msgid "weba_fi_auhentication_username"
+msgstr "Uživatelské jméno"
+
+msgid "weba_fi_authentivated"
+msgstr "Ověřené relace"
+
+msgid "weba_fi_browsing_his"
+msgstr "Historie prohlížení"
+
+msgid "weba_fi_cache"
+msgstr "Mezipaměť"
+
+msgid "weba_fi_cookie_details_domain"
+msgstr "Doména"
+
+msgid "weba_fi_cookie_details_expiration"
+msgstr "Platnost do"
+
+msgid "weba_fi_cookie_details_path"
+msgstr "Cesta"
+
+msgid "weba_fi_cookie_details_slash"
+msgstr "/"
+
+msgid "weba_fi_cookie_details_value"
+msgstr "Hodnota"
+
+msgid "weba_fi_cookies"
+msgstr "Cookies"
+
+msgid "weba_fi_downloads_name"
+msgstr "Název"
+
+msgid "weba_fi_downloads_percentage"
+msgstr "Přijato"
+
+msgid "weba_fi_downloads_size"
+msgstr "Velikost"
+
+msgid "weba_fi_encoding"
+msgstr "Kódování"
+
+msgid "weba_fi_geolocation"
+msgstr "Povolení geolokace"
+
+msgid "weba_fi_image_details_dimensions"
+msgstr "Rozměry"
+
+msgid "weba_fi_location"
+msgstr "Umístění"
+
+msgid "weba_fi_name"
+msgstr "Název"
+
+msgid "weba_fi_name_colon"
+msgstr "Název"
+
+msgid "weba_fi_open_with_colon"
+msgstr "Otevřít pomocí:"
+
+msgid "weba_fi_page_details_page_title"
+msgstr "Název"
+
+msgid "weba_fi_page_details_security"
+msgstr "Zabezpečení"
+
+msgid "weba_fi_page_details_verification"
+msgstr "Ověření"
+
+msgid "weba_fi_saved_pass"
+msgstr "Uložená hesla"
+
+msgid "weba_fi_select_username_title"
+msgstr "Zvolte uživatelské jméno"
+
+msgid "weba_fi_settings_general_maxcache"
+msgstr "Velikost mezipaměti"
+
+msgid "weba_fi_settings_plug_ins_enable_java_script"
+msgstr "Povolit JavaScript"
+
+msgid "weba_fi_settings_privacy_accept_cookies"
+msgstr "Přijmout cookies"
+
+msgid "weba_fi_settings_privacy_enable_pop_up_windows"
+msgstr "Otevřít vyskakovací okna"
+
+msgid "weba_fi_settings_privacy_password"
+msgstr "Povolit ukládání hesla"
+
+msgid "weba_fi_size_colon"
+msgstr "Velikost"
+
+msgid "weba_fi_type_colon"
+msgstr "Typ"
+
+msgid "weba_ib_closing_a_window_background"
+msgstr "Zavírání oken na pozadí"
+
+msgid "weba_ib_downloading_complete"
+msgstr "Stahování %s dokončeno"
+
+msgid "weba_ib_enter_location"
+msgstr "Nejprve vložte adresu"
+
+msgid "weba_ib_flash_full"
+msgstr "Stisknutím klávesy Zpět ukončíte režim celé obrazovky"
+
+msgid "weba_ib_invalid_username_or_password"
+msgstr "Neplatné uživatelské jméno nebo heslo"
+
+msgid "weba_ib_opening_new_window"
+msgstr "Otevírání nového okna"
+
+msgid "weba_ib_pop_up_window_blocked"
+msgstr "Automaticky otevírané okno blokováno"
+
+msgid "weba_ib_secure_server"
+msgstr "%s ověřeno %s"
+
+msgid "weba_ib_select_update_first"
+msgstr "Nejprve zvolte aktualizaci"
+
+msgid "weba_ib_some_cache_items_cannot_be_deleted"
+msgstr "Některé položky mezipaměti se používají. Nelze odstranit."
+
+msgid "weba_ib_target_not"
+msgstr "Cílový soubor není k dispozici"
+
+msgid "weba_ib_upload_failed"
+msgstr "Odeslání se nezdařilo"
+
+msgid "weba_li_history_list_item_name"
+msgstr "%s"
+
+msgid "weba_li_history_list_nr"
+msgid_plural "weba_li_history_list_nrs"
+msgstr[0] "%d položka"
+msgstr[1] "%d položky"
+msgstr[2] "%d položek"
+
+msgid "weba_li_history_list_today"
+msgstr "Dnes"
+
+msgid "weba_li_history_list_yesterday"
+msgstr "Včera"
+
+msgid "weba_me_add"
+msgstr "Přidat adresu"
+
+msgid "weba_me_add_bookmark"
+msgstr "Přidat do záložek"
+
+msgid "weba_me_add_home"
+msgstr "Přidat na plochu"
+
+msgid "weba_me_add_link"
+msgstr "Přidat záložku"
+
+msgid "weba_me_adjustview"
+msgstr "Nastavit zobrazení"
+
+msgid "weba_me_clear_privatedata"
+msgstr "Vymazat osobní údaje"
+
+msgid "weba_me_complete_his"
+msgstr "Celková historie prohlížení"
+
+msgid "weba_me_components"
+msgstr "Doplňky"
+
+msgid "weba_me_copy"
+msgstr "Kopírovat"
+
+msgid "weba_me_copy_address"
+msgstr "Kopírovat adresu odkazu"
+
+msgid "weba_me_copy_img_address"
+msgstr "Kopírovat adresu obrázku"
+
+msgid "weba_me_details"
+msgstr "Podrobnosti"
+
+msgid "weba_me_downloads"
+msgstr "Stahované soubory"
+
+msgid "weba_me_find_on_page"
+msgstr "Hledat na stránce"
+
+msgid "weba_me_load_img"
+msgstr "Načíst obrázek"
+
+msgid "weba_me_new_window"
+msgstr "Nové okno"
+
+msgid "weba_me_open_bookmark_new_window"
+msgstr "Otevřít v novém okně"
+
+msgid "weba_me_open_in_new_window"
+msgstr "Otevřít v novém okně"
+
+msgid "weba_me_open_link_new_window"
+msgstr "Otevřít odkaz v novém okně"
+
+msgid "weba_me_openfile"
+msgstr "Otevřít soubor"
+
+msgid "weba_me_options"
+msgstr "Možnosti"
+
+msgid "weba_me_paste"
+msgstr "Vložit"
+
+msgid "weba_me_reload"
+msgstr "Znovu načíst"
+
+msgid "weba_me_rss"
+msgstr "Přihlásit se k informačnímu kanálu: %s"
+
+msgid "weba_me_save_img"
+msgstr "Uložit obrázek jako"
+
+msgid "weba_me_save_link_as"
+msgstr "Uložit odkaz jako"
+
+msgid "weba_me_save_page"
+msgstr "Uložit stránku jako"
+
+msgid "weba_me_settings"
+msgstr "Nastavení"
+
+msgid "weba_nc_change_stored_password"
+msgstr "Změnit uložené heslo pro %s?"
+
+msgid "weba_nc_close"
+msgstr ""
+"Webová stránka neodpovídá. Vynutit zavření okna?\n"
+"Neuložená data mohou být ztracena."
+
+msgid "weba_nc_close_app_pause_load"
+msgstr ""
+"Ukončit aplikaci a\n"
+"pozastavit probíhající stahování?\n"
+"%s"
+
+msgid "weba_nc_close_app_pause_loads"
+msgstr ""
+"Ukončit aplikaci a\n"
+"pozastavit probíhající stahování?"
+
+msgid "weba_nc_delete_dowload"
+msgstr ""
+"Odstranit stahované?\n"
+"%s"
+
+msgid "weba_nc_geolocaton_dis"
+msgstr "Povolit této stránce zjištění vaší polohy?"
+
+msgid "weba_nc_remember_credentials"
+msgstr "Zapamatovat údaje pro tuto stránku?"
+
+msgid "weba_save_as"
+msgstr "Uložit stránku jako"
+
+msgid "weba_search_list"
+msgstr "Google Search: '%s'"
+
+msgid "weba_ti_add_adress"
+msgstr "Přidat adresu"
+
+msgid "weba_ti_add_bookmark_title"
+msgstr "Přidat záložku"
+
+msgid "weba_ti_adjuvi_met_showimg"
+msgstr "Ukázat obrázky"
+
+msgid "weba_ti_adjuvi_title"
+msgstr "Nastavit zobrazení"
+
+msgid "weba_ti_auhentication_title"
+msgstr "Ověření"
+
+msgid "weba_ti_bookmarks"
+msgstr "Záložky"
+
+msgid "weba_ti_bookmarks_portrait"
+msgstr "Záložky"
+
+msgid "weba_ti_clear_privatedata"
+msgstr "Vymazat osobní údaje"
+
+msgid "weba_ti_compbrhis"
+msgstr "Celková historie prohlížení"
+
+msgid "weba_ti_cookie_conf"
+msgstr "Potvrzení souboru cookie"
+
+msgid "weba_ti_cookie_conf_accept_nor"
+msgstr ""
+"Přijmout soubor cookie?\n"
+"%s"
+
+msgid "weba_ti_cookie_conf_server"
+msgstr "Přijímat všechny cookies z tohoto serveru"
+
+msgid "weba_ti_cookie_details_title"
+msgstr "Podrobnosti souboru cookie"
+
+msgid "weba_ti_deletebook"
+msgstr "Zvolte záložky"
+
+msgid "weba_ti_download_file_title"
+msgstr "Stažení souboru"
+
+msgid "weba_ti_downloads_title"
+msgstr "Stahované soubory"
+
+msgid "weba_ti_edit_bookmark_title"
+msgstr "Upravit záložku"
+
+msgid "weba_ti_edit_folder"
+msgstr "Upravit složku"
+
+msgid "weba_ti_foldername"
+msgstr "%s"
+
+msgid "weba_ti_geolocoation"
+msgstr "Geolokace"
+
+msgid "weba_ti_image_details_title"
+msgstr "Podrobnosti obrázku"
+
+msgid "weba_ti_java_script_confirmation"
+msgstr "Potvrzení JavaScript"
+
+msgid "weba_ti_java_script_prompt"
+msgstr "Výzva JavaScript"
+
+msgid "weba_ti_javas_alert"
+msgstr "Upozornění JavaScript"
+
+msgid "weba_ti_options"
+msgstr "Možnosti"
+
+msgid "weba_ti_page_details_title"
+msgstr "Podrobnosti stránky"
+
+msgid "weba_ti_recenthis"
+msgstr "Nedávná historie"
+
+msgid "weba_ti_remeber_credentials"
+msgstr "Zapamatovat heslo"
+
+msgid "weba_ti_select_file_title"
+msgstr "Zvolte soubor"
+
+msgid "weba_ti_settings_browser"
+msgstr "Prohlížeč"
+
+msgid "weba_ti_settings_content"
+msgstr "Obsah"
+
+msgid "weba_ti_settings_title"
+msgstr "Nastavení"
+
+msgid "weba_ti_texlist_single"
+msgstr "Vybrat možnost"
+
+msgid "weba_ti_text"
+msgstr "Velikost textu"
+
+msgid "weba_ti_textlist_multi"
+msgstr "Vybrat možnosti"
+
+msgid "weba_ti_webstart"
+msgstr "Web"
+
+msgid "weba_ti_webstart_portrait"
+msgstr "Web"
+
+msgid "weba_va_always"
+msgstr "Vždy"
+
+msgid "weba_va_download_from"
+msgstr "Odkud"
+
+msgid "weba_va_downloads_rec_kb"
+msgstr "%d kB"
+
+msgid "weba_va_downloads_rec_percent"
+msgstr "%d %%"
+
+msgid "weba_va_downloads_size_kb"
+msgstr "%.2f kB"
+
+msgid "weba_va_downloads_size_unknown"
+msgstr "–"
+
+msgid "weba_va_encoding_big5"
+msgstr "Čínské, tradiční (Big5 I/II)"
+
+msgid "weba_va_encoding_euc_tw"
+msgstr "Čínské, tradiční (EUC-TW)"
+
+msgid "weba_va_encoding_gb_18030"
+msgstr "Čínské, zjednoduš. (GB18030)"
+
+msgid "weba_va_encoding_iso_2022_cn"
+msgstr "Čínské, zjednoduš. (ISO-2022-CN)"
+
+msgid "weba_va_encoding_iso_8859_1"
+msgstr "Latinka (ISO 8859-1)"
+
+msgid "weba_va_encoding_iso_8859_15"
+msgstr "Latinka rozšířená (ISO-8859-15)"
+
+msgid "weba_va_encoding_iso_8859_2"
+msgstr "Středoevropské (ISO 8859-2)"
+
+msgid "weba_va_encoding_iso_8859_7"
+msgstr "Řecké (ISO 8859-7)"
+
+msgid "weba_va_encoding_iso_8859_9"
+msgstr "Turecké (ISO 8859-9)"
+
+msgid "weba_va_encoding_utf_16"
+msgstr "Unicode (UTF-16)"
+
+msgid "weba_va_encoding_utf_8"
+msgstr "Unicode (UTF-8)"
+
+msgid "weba_va_encoding_win_1250"
+msgstr "Středoevropské (Windows-1250)"
+
+msgid "weba_va_encoding_win_1251"
+msgstr "Cyrilice (Windows-1251)"
+
+msgid "weba_va_encoding_win_1253"
+msgstr "Řecké (Windows-1253)"
+
+msgid "weba_va_encoding_win_1254"
+msgstr "Turecké (Windows-1254)"
+
+msgid "weba_va_encoding_win_koi_8r"
+msgstr "Cyrilice (KOI-8R)"
+
+msgid "weba_va_high"
+msgstr "Vysoké"
+
+msgid "weba_va_image_details_dim_px"
+msgstr "%1$d x %2$d pixelů"
+
+msgid "weba_va_larger"
+msgstr "Větší"
+
+msgid "weba_va_largest"
+msgstr "Největší"
+
+msgid "weba_va_loaded"
+msgstr "Načtené v mezipaměti"
+
+msgid "weba_va_low"
+msgstr "Nízké"
+
+msgid "weba_va_medium"
+msgstr "Střední"
+
+msgid "weba_va_modal_dialog_abort"
+msgstr "Přerušit"
+
+msgid "weba_va_modal_dialog_cancel"
+msgstr "Zrušit"
+
+msgid "weba_va_modal_dialog_ignore"
+msgstr "Ignorovat"
+
+msgid "weba_va_modal_dialog_no"
+msgstr "Ne"
+
+msgid "weba_va_modal_dialog_ok"
+msgstr "OK"
+
+msgid "weba_va_modal_dialog_retry"
+msgstr "Zkusit znovu?"
+
+msgid "weba_va_modal_dialog_yes"
+msgstr "Ano"
+
+msgid "weba_va_never"
+msgstr "Nikdy"
+
+msgid "weba_va_normal"
+msgstr "Normální"
+
+msgid "weba_va_not_secure"
+msgstr "Nezabezpečená stránka"
+
+msgid "weba_va_page_details_size_kb"
+msgstr "%.2f kB"
+
+msgid "weba_va_page_not_verified"
+msgstr "Identita webové stránky neověřena"
+
+msgid "weba_va_save_complete"
+msgstr "Celý obsah webové stránky"
+
+msgid "weba_va_save_html_only"
+msgstr "Pouze HTML"
+
+msgid "weba_va_saved_password"
+msgstr "(uložené heslo)"
+
+msgid "weba_va_settings_autofocus"
+msgstr "Automatické zaostření pole adresy"
+
+msgid "weba_va_settings_fullscreen"
+msgstr "Otevřít na celé obrazovce"
+
+msgid "weba_va_settings_general_maxc_1024"
+msgstr "10 MB"
+
+msgid "weba_va_settings_general_maxc_2048"
+msgstr "20 MB"
+
+msgid "weba_va_settings_general_maxc_4096"
+msgstr "40 MB"
+
+msgid "weba_va_settings_general_maxc_512"
+msgstr "5 MB"
+
+msgid "weba_va_settings_general_maxc_aut"
+msgstr "Automaticky"
+
+msgid "weba_va_settings_general_maxc_off"
+msgstr "Vypnuto"
+
+msgid "weba_va_settings_geolocation"
+msgstr "Geolokace"
+
+msgid "weba_va_settings_hwkeys"
+msgstr "Klávesu pro zvýšení/snížení použít pro:"
+
+msgid "weba_va_settings_hwkeys_volume"
+msgstr "Změnu hlasitosti"
+
+msgid "weba_va_settings_hwkeys_zoom"
+msgstr "Změnu velikosti zobrazení"
+
+msgid "weba_va_settings_javaflash"
+msgstr "Povolit pozastavení JavaScript"
+
+msgid "weba_va_settings_javaflash_immediately"
+msgstr "Ihned"
+
+msgid "weba_va_settings_javaflash_in15"
+msgstr "po 15 sekundách"
+
+msgid "weba_va_settings_javaflash_in30"
+msgstr "po 30 sekundách"
+
+msgid "weba_va_settings_javaflash_in60"
+msgstr "po 60 sekundách"
+
+msgid "weba_va_settings_javaflash_not"
+msgstr "Nezastavujte"
+
+msgid "weba_va_settings_portrait"
+msgstr "Zapnout otáčení"
+
+msgid "weba_va_settings_privacy_accept_cookies_always"
+msgstr "Vždy"
+
+msgid "weba_va_settings_privacy_accept_cookies_askfirst"
+msgstr "Zeptat se"
+
+msgid "weba_va_settings_privacy_accept_cookies_never"
+msgstr "Nikdy"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_always"
+msgstr "Vždy"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_askfirst"
+msgstr "Jen vyžádaná"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_never"
+msgstr "Nikdy"
+
+msgid "weba_yi_hisfolder"
+msgstr "%s"
+
+msgid "webb_fi_bookmark_details_add"
+msgstr "Přidáno"
+
+msgid "webb_fi_bookmark_details_use"
+msgstr "Naposledy použito"
+
+msgid "webb_fi_folder_details_contents"
+msgstr "Obsah"
+
+msgid "webb_fi_folder_details_contents_01"
+msgstr "1 záložka"
+
+msgid "webb_fi_folder_details_contents_02"
+msgstr "2 záložky"
+
+msgid "webb_fi_folder_details_contents_0n"
+msgstr "%d záložek"
+
+msgid "webb_fi_folder_details_contents_10"
+msgstr "1 složka"
+
+msgid "webb_fi_folder_details_contents_1n"
+msgstr "1 složka, %d záložky"
+
+msgid "webb_fi_folder_details_contents_20"
+msgstr "2 složky"
+
+msgid "webb_fi_folder_details_contents_2n"
+msgstr "2 složky, %d záložky"
+
+msgid "webb_fi_folder_details_contents_bookmark"
+msgid_plural "webb_fi_folder_details_contents_bookmars"
+msgstr[0] "%d záložka"
+msgstr[1] "%d záložky"
+msgstr[2] "%d záložek"
+
+msgid "webb_fi_folder_details_contents_folder"
+msgid_plural "webb_fi_folder_details_contents_folders"
+msgstr[0] "%d složka "
+msgstr[1] "%d složky "
+msgstr[2] "%d složek "
+
+msgid "webb_fi_folder_details_contents_n0"
+msgstr "%d složek"
+
+msgid "webb_fi_folder_details_contents_n1"
+msgstr "%d složek, 1 záložka"
+
+msgid "webb_fi_folder_details_contents_n2"
+msgstr "%d složek, 2 záložky"
+
+msgid "webb_fi_folder_details_contents_nn"
+msgstr "%d složek, %d záložky"
+
+msgid "webb_fi_folder_details_date"
+msgstr "Přidáno"
+
+msgid "webb_fi_folder_details_time"
+msgstr "Upraveno"
+
+msgid "webb_folder_imported_bookmarks"
+msgstr "Importované záložky"
+
+msgid "webb_folder_operator"
+msgstr "Záložky operátora"
+
+msgid "webb_folder_root_user"
+msgstr "Moje záložky"
+
+msgid "webb_ia_cookie_after_sessions_ends"
+msgstr "Ukončení relace"
+
+msgid "webb_ia_no_bookmarks_folders_to_show"
+msgstr "(žádné záložky/složky)"
+
+msgid "webb_ia_no_description"
+msgstr "(žádný popis)"
+
+msgid "webb_ia_no_downloads"
+msgstr "(žádné stahování souborů)"
+
+msgid "webb_ia_none"
+msgstr "Žádný"
+
+msgid "webb_ia_not_available"
+msgstr "Není dostupné"
+
+msgid "webb_ia_not_defined_in_html"
+msgstr "(bez názvu)"
+
+msgid "webb_ia_unknown"
+msgstr "Neznámý"
+
+msgid "webb_ib_this_folder_cannot_be_renamed"
+msgstr "Nelze přejmenovat vybranou složku"
+
+msgid "webb_me_delete"
+msgstr "Odstranit"
+
+msgid "webb_me_details"
+msgstr "Podrobnosti"
+
+msgid "webb_me_file_edit"
+msgstr "Upravit"
+
+msgid "webb_me_impor"
+msgstr "Importovat záložky"
+
+msgid "webb_me_move_to"
+msgstr "Přesunout"
+
+msgid "webb_nc_delete_item_nr"
+msgid_plural "webb_nc_delete_item_nrs"
+msgstr[0] "Odstranit '%s'?"
+msgstr[1] "Odstranit vybrané %d položky?"
+msgstr[2] "Odstranit vybraných %d položek?"
+
+msgid "webb_nc_replace_item_nr"
+msgid_plural "webb_nc_replace_item_nrs"
+msgstr[0] "Nahradit stávající položku stejného názvu?"
+msgstr[1] "Nahradit stávající %d položky stejného názvu?"
+msgstr[2] "Nahradit stávajících %d položek stejného názvu?"
+
+msgid "webb_ni_change_save_target_location"
+msgstr ""
+"Nelze uložit do zvoleného umístění.\n"
+"Uložit do paměti přístroje?"
+
+msgid "webb_ni_downloading_paused"
+msgstr ""
+"Nedostatek paměti v přístroji.\n"
+"Stahování pozastaveno."
+
+msgid "webb_ni_invalid_bookmarks_file"
+msgstr ""
+"Neplatný soubor záložek.\n"
+"Nebyly importovány žádné záložky."
+
+msgid "webb_ni_resuming_failed"
+msgstr ""
+"Pokračování ve stahování se nezdařilo.\n"
+"Začít stahovat znovu?"
+
+msgid "webb_ni_target_folder_not_available"
+msgstr ""
+"Cílová složka není k dispozici.\n"
+"Uložte do jiné složky."
+
+msgid "webb_ni_target_location_not_available"
+msgstr ""
+"Cílové umístění není dostupné.\n"
+"Uložte do lokální paměti."
+
+msgid "webb_nw_deleting_bookmark"
+msgstr "Odstraňování"
+
+msgid "webb_nw_importing_bookmark"
+msgstr "Import"
+
+msgid "webb_nw_moving_bookmark"
+msgstr "Přesun"
+
+msgid "webb_ti_bookmark_details_title"
+msgstr "Podrobnosti záložky"
+
+msgid "webb_ti_folder_details"
+msgstr "Podrobnosti složky"
+
+msgid "webb_ti_selectbok"
+msgstr "Zvolte záložky"
