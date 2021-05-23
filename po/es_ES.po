@@ -3,19 +3,22 @@ msgstr ""
 "Project-Id-Version: osso-browser-ui 20100208121232\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2010.02.08 12:12+0200\n"
-"PO-Revision-Date: 2010.02.08 12:12+0200\n"
-"Last-Translator:\n"
-"Language-Team: es_ES\n"
+"PO-Revision-Date: 2021-05-24 19:32+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-browser-ui-l10n/es/>\n"
+"Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 msgid "bookm_li_imported_bookmarksd"
-msgstr "Favoritos importados (%d)"
+msgstr "Marcadores importados (%d)"
 
 msgid "bookm_ti_import_bookmarks"
-msgstr "Importar favoritos"
+msgstr "Importar marcadores"
 
 msgid "weba_ap_web_browser"
 msgstr "Web"
@@ -36,7 +39,7 @@ msgid "weba_bd_cookie_conf_reject"
 msgstr "Rechazar"
 
 msgid "weba_bd_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "weba_bd_details"
 msgstr "Detalles"
@@ -105,10 +108,10 @@ msgid "weba_fi_authentivated"
 msgstr "Sesiones autenticadas"
 
 msgid "weba_fi_browsing_his"
-msgstr "Historial de búsqueda"
+msgstr "Historial de navegación"
 
 msgid "weba_fi_cache"
-msgstr "Caché"
+msgstr "Antememoria"
 
 msgid "weba_fi_cookie_details_domain"
 msgstr "Dominio"
@@ -174,7 +177,7 @@ msgid "weba_fi_select_username_title"
 msgstr "Selecc. nombre de usuario"
 
 msgid "weba_fi_settings_general_maxcache"
-msgstr "Tamaño de la memoria caché"
+msgstr "Tamaño de la antememoria"
 
 msgid "weba_fi_settings_plug_ins_enable_java_script"
 msgstr "Activar JavaScript"
@@ -222,7 +225,7 @@ msgid "weba_ib_select_update_first"
 msgstr "Seleccionar actualización primero"
 
 msgid "weba_ib_some_cache_items_cannot_be_deleted"
-msgstr "Hay elementos de la caché en uso. Imposible suprimir."
+msgstr "Hay elementos de la antememoria en uso. Imposible eliminar."
 
 msgid "weba_ib_target_not"
 msgstr "Archivo de destino no disponible"
@@ -314,7 +317,7 @@ msgid "weba_me_reload"
 msgstr "Actualizar"
 
 msgid "weba_me_rss"
-msgstr "Suscribir a servicio: %s"
+msgstr "Suscribir a suministro: %s"
 
 msgid "weba_me_save_img"
 msgstr "Guardar imagen como"
@@ -349,7 +352,7 @@ msgstr ""
 
 msgid "weba_nc_delete_dowload"
 msgstr ""
-"¿Suprimir descarga?\n"
+"¿Eliminar descarga?\n"
 "%s"
 
 msgid "weba_nc_geolocaton_dis"
@@ -362,7 +365,7 @@ msgid "weba_save_as"
 msgstr "Guardar página como"
 
 msgid "weba_search_list"
-msgstr "Búsqueda de Google: '%s'"
+msgstr "Búsqueda de Google: «%s»"
 
 msgid "weba_ti_add_adress"
 msgstr "Agregar dirección"
@@ -484,13 +487,13 @@ msgid "weba_va_download_from"
 msgstr "De"
 
 msgid "weba_va_downloads_rec_kb"
-msgstr "%d KB"
+msgstr "%d kB"
 
 msgid "weba_va_downloads_rec_percent"
 msgstr "%d %%"
 
 msgid "weba_va_downloads_size_kb"
-msgstr "%.2f KB"
+msgstr "%.2f kB"
 
 msgid "weba_va_downloads_size_unknown"
 msgstr "–"
@@ -547,7 +550,7 @@ msgid "weba_va_high"
 msgstr "Alta"
 
 msgid "weba_va_image_details_dim_px"
-msgstr "%1$d x %2$d píxeles"
+msgstr "%1$d × %2$d píxeles"
 
 msgid "weba_va_larger"
 msgstr "Grande"
@@ -556,7 +559,7 @@ msgid "weba_va_largest"
 msgstr "Muy grande"
 
 msgid "weba_va_loaded"
-msgstr "Ya está en la caché"
+msgstr "Ya está en antememoria"
 
 msgid "weba_va_low"
 msgstr "Baja"
@@ -595,7 +598,7 @@ msgid "weba_va_not_secure"
 msgstr "No es una página segura"
 
 msgid "weba_va_page_details_size_kb"
-msgstr "%.2f KB"
+msgstr "%.2f kB"
 
 msgid "weba_va_page_not_verified"
 msgstr "Identidad del sitio web no verificada"
@@ -604,7 +607,7 @@ msgid "weba_va_save_complete"
 msgstr "Página web completa"
 
 msgid "weba_va_save_html_only"
-msgstr "Sólo HTML"
+msgstr "Solo HTML"
 
 msgid "weba_va_saved_password"
 msgstr "(contraseña guardada)"
@@ -643,7 +646,7 @@ msgid "weba_va_settings_hwkeys_volume"
 msgstr "Volumen"
 
 msgid "weba_va_settings_hwkeys_zoom"
-msgstr "Zoom"
+msgstr "Escala"
 
 msgid "weba_va_settings_javaflash"
 msgstr "Permitir pausa en JavaScript"
@@ -779,10 +782,10 @@ msgid "webb_ia_unknown"
 msgstr "Desconocido"
 
 msgid "webb_ib_this_folder_cannot_be_renamed"
-msgstr "Imposible renombrar carpeta seleccionada"
+msgstr "Imposible cambiar nombre de carpeta seleccionada"
 
 msgid "webb_me_delete"
-msgstr "Suprimir"
+msgstr "Eliminar"
 
 msgid "webb_me_details"
 msgstr "Detalles"
@@ -798,8 +801,8 @@ msgstr "Mover"
 
 msgid "webb_nc_delete_item_nr"
 msgid_plural "webb_nc_delete_item_nrs"
-msgstr[0] "¿Suprimir '%s'?"
-msgstr[1] "¿Suprimir %d elemento(s) seleccionado(s)?"
+msgstr[0] "¿Quiere eliminar «%s»?"
+msgstr[1] "¿Quiere eliminar %d elementos seleccionados?"
 
 msgid "webb_nc_replace_item_nr"
 msgid_plural "webb_nc_replace_item_nrs"
@@ -829,15 +832,15 @@ msgstr ""
 msgid "webb_ni_target_folder_not_available"
 msgstr ""
 "Carpeta de destino no disponible.\n"
-"Guardar en otra carpeta."
+"Guarde en otra carpeta."
 
 msgid "webb_ni_target_location_not_available"
 msgstr ""
 "Ubicación de destino no disponible.\n"
-"Guardar en memoria local."
+"Guarde en memoria local."
 
 msgid "webb_nw_deleting_bookmark"
-msgstr "Suprimiendo"
+msgstr "Eliminando"
 
 msgid "webb_nw_importing_bookmark"
 msgstr "Importando"
@@ -852,4 +855,4 @@ msgid "webb_ti_folder_details"
 msgstr "Detalles de carpeta"
 
 msgid "webb_ti_selectbok"
-msgstr "Seleccionar favoritos"
+msgstr "Seleccionar marcadores"
