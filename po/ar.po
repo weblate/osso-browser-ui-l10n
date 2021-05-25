@@ -1,0 +1,811 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-browser-ui 20091102095707\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2010-04-28 02:27+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "bookm_li_imported_bookmarksd"
+msgstr "استيراد علامات (%d)"
+
+msgid "bookm_ti_import_bookmarks"
+msgstr "استيراد علامات"
+
+msgid "weba_ap_web_browser"
+msgstr "المتصفح"
+
+msgid "weba_bd_cancel"
+msgstr "إلغاء"
+
+msgid "weba_bd_certificate"
+msgstr "شهادة وثوقية"
+
+msgid "weba_bd_close"
+msgstr "إغلاق"
+
+msgid "weba_bd_cookie_conf_accept"
+msgstr "قبول"
+
+msgid "weba_bd_cookie_conf_reject"
+msgstr "رفض"
+
+msgid "weba_bd_delete"
+msgstr "حذف"
+
+msgid "weba_bd_details"
+msgstr "تفاصيل"
+
+msgid "weba_bd_download_open_with"
+msgstr "فتح بواسطة"
+
+msgid "weba_bd_download_save_to"
+msgstr "حفظ إلى الجهاز"
+
+msgid "weba_bd_downloads_pause"
+msgstr "إيقاف مؤقت"
+
+msgid "weba_bd_downloads_resume"
+msgstr "متابعة"
+
+msgid "weba_bd_moveto"
+msgstr "تحريك"
+
+msgid "weba_bd_never"
+msgstr "أبدا"
+
+msgid "weba_bd_not_now"
+msgstr "ليس الآن"
+
+msgid "weba_bd_ok"
+msgstr "موافق"
+
+msgid "weba_bd_select_clear_alll"
+msgstr "حذف الكل"
+
+msgid "weba_bd_stop"
+msgstr "إيقاف"
+
+msgid "weba_db_clear"
+msgstr "حذف"
+
+msgid "weba_fi_address"
+msgstr "العنوان"
+
+msgid "weba_fi_address_colon"
+msgstr "العنوان"
+
+msgid "weba_fi_auhentication_password"
+msgstr "كلمة المرور"
+
+msgid "weba_fi_auhentication_realm"
+msgstr "رسالة"
+
+msgid "weba_fi_auhentication_site"
+msgstr "الخادم"
+
+msgid "weba_fi_auhentication_username"
+msgstr "اسم المستخدم"
+
+msgid "weba_fi_authentivated"
+msgstr "بيانات المصادقة"
+
+msgid "weba_fi_browsing_his"
+msgstr "المحفوظات"
+
+msgid "weba_fi_cache"
+msgstr "الملفات المؤقتة"
+
+msgid "weba_fi_cookie_details_domain"
+msgstr "النطاق"
+
+msgid "weba_fi_cookie_details_expiration"
+msgstr "تنتهي"
+
+msgid "weba_fi_cookie_details_path"
+msgstr "المسار"
+
+msgid "weba_fi_cookie_details_slash"
+msgstr "/"
+
+msgid "weba_fi_cookie_details_value"
+msgstr "قيمة"
+
+msgid "weba_fi_cookies"
+msgstr "كوكيز"
+
+msgid "weba_fi_downloads_name"
+msgstr "جديد"
+
+msgid "weba_fi_downloads_percentage"
+msgstr "المستلم"
+
+msgid "weba_fi_downloads_size"
+msgstr "الحجم"
+
+msgid "weba_fi_encoding"
+msgstr "الترميز"
+
+msgid "weba_fi_image_details_dimensions"
+msgstr "الأبعاد"
+
+msgid "weba_fi_location"
+msgstr "المنطقة"
+
+msgid "weba_fi_name"
+msgstr "الأسم"
+
+msgid "weba_fi_name_colon"
+msgstr "الأسم"
+
+msgid "weba_fi_open_with_colon"
+msgstr "فتح بواسطة:"
+
+msgid "weba_fi_page_details_page_title"
+msgstr "العنوان"
+
+msgid "weba_fi_page_details_security"
+msgstr "الأمن"
+
+msgid "weba_fi_page_details_verification"
+msgstr "التحقيق"
+
+msgid "weba_fi_saved_pass"
+msgstr "كلمات السر المحفوظة"
+
+msgid "weba_fi_select_username_title"
+msgstr "أختر أسم المستخدم"
+
+msgid "weba_fi_settings_general_maxcache"
+msgstr "حجم الملفات المؤقتة"
+
+msgid "weba_fi_settings_plug_ins_enable_java_script"
+msgstr "السماح بجافا سكريبت"
+
+msgid "weba_fi_settings_privacy_accept_cookies"
+msgstr "السماح بالكوكيز"
+
+msgid "weba_fi_settings_privacy_enable_pop_up_windows"
+msgstr "فتح النوافذ المنبثقة"
+
+msgid "weba_fi_settings_privacy_password"
+msgstr "الموافقة على حفظ كلمة السر"
+
+msgid "weba_fi_size_colon"
+msgstr "الحجم"
+
+msgid "weba_fi_type_colon"
+msgstr "النوع"
+
+msgid "weba_ib_closing_a_window_background"
+msgstr "إغلاق النافذة في الخلفية"
+
+msgid "weba_ib_downloading_complete"
+msgstr "جاري التحميل %s أكتمل"
+
+msgid "weba_ib_enter_location"
+msgstr "أدخل العنوان أولاً"
+
+msgid "weba_ib_flash_full"
+msgstr " للخروج من وضع الشاشة الكاملة backspace إضغط"
+
+msgid "weba_ib_invalid_username_or_password"
+msgstr "أسم المستخدم وكلمة المرور غير صالحة"
+
+msgid "weba_ib_opening_new_window"
+msgstr "فتح نافذه جديدة"
+
+msgid "weba_ib_pop_up_window_blocked"
+msgstr "منع النوافذ المنبسقة"
+
+msgid "weba_ib_secure_server"
+msgstr "%s التحقق من %s"
+
+msgid "weba_ib_select_update_first"
+msgstr "حدد التحديث أولا"
+
+msgid "weba_ib_some_cache_items_cannot_be_deleted"
+msgstr "بعض الملفات المؤقتة قيد الأستخدام. غير قادر على الحذف."
+
+msgid "weba_ib_target_not"
+msgstr "الملف الهدف غير موجود"
+
+msgid "weba_ib_upload_failed"
+msgstr "فشل في الرفع"
+
+msgid "weba_li_history_list_item_name"
+msgstr "%s"
+
+msgid "weba_li_history_list_nr"
+msgid_plural "weba_li_history_list_nrs"
+msgstr[0] "%d عنصر"
+msgstr[1] "%d عناصر"
+
+msgid "weba_li_history_list_today"
+msgstr "اليوم"
+
+msgid "weba_li_history_list_yesterday"
+msgstr "الأمس"
+
+msgid "weba_me_add"
+msgstr "إضافة عنوان"
+
+msgid "weba_me_add_bookmark"
+msgstr "إضافة إلى العلامات"
+
+msgid "weba_me_add_home"
+msgstr "إضافة أختصار إلى سطح المكتب"
+
+msgid "weba_me_add_link"
+msgstr "أضافة رابط"
+
+msgid "weba_me_adjustview"
+msgstr "ضبط العرض"
+
+msgid "weba_me_clear_privatedata"
+msgstr "مسح البيانات الخاصة"
+
+msgid "weba_me_complete_his"
+msgstr "تصفح التاريخ كاملاً"
+
+msgid "weba_me_components"
+msgstr "إضافات"
+
+msgid "weba_me_copy"
+msgstr "نسخ"
+
+msgid "weba_me_copy_address"
+msgstr "نسخ رابط العنوان"
+
+msgid "weba_me_copy_img_address"
+msgstr "نسخ عنوان الصورة"
+
+msgid "weba_me_details"
+msgstr "تفاصيل"
+
+msgid "weba_me_downloads"
+msgstr "التحميل"
+
+msgid "weba_me_find_on_page"
+msgstr "البحث في الصفحة"
+
+msgid "weba_me_load_img"
+msgstr "تحميل صورة"
+
+msgid "weba_me_new_window"
+msgstr "نافذة جديدة"
+
+msgid "weba_me_open_bookmark_new_window"
+msgstr "فتح بنافذة جديدة"
+
+msgid "weba_me_open_in_new_window"
+msgstr "فتح بنافذة جديدة"
+
+msgid "weba_me_open_link_new_window"
+msgstr "فتح الرابط بنافذة جديدة"
+
+msgid "weba_me_openfile"
+msgstr "فتح الملف"
+
+msgid "weba_me_options"
+msgstr "خيارات"
+
+msgid "weba_me_paste"
+msgstr "لصق"
+
+msgid "weba_me_reload"
+msgstr "تحديث"
+
+msgid "weba_me_rss"
+msgstr "المساهمة في التغذية: %s"
+
+msgid "weba_me_save_img"
+msgstr "حفظ الصورة باسم"
+
+msgid "weba_me_save_link_as"
+msgstr "حفظ الرابط باسم"
+
+msgid "weba_me_save_page"
+msgstr "حفظ الصفحة باسم"
+
+msgid "weba_me_settings"
+msgstr "الإعدادات"
+
+msgid "weba_nc_change_stored_password"
+msgstr "تغير كلمة السر المخزنه في %s?"
+
+msgid "weba_nc_close"
+msgstr ""
+"صفحة الويب لاتستجيب. التوجة لصفحة لأغلاقها?\n"
+"قد تفقد البينات الغير محفوظة."
+
+msgid "weba_nc_close_app_pause_load"
+msgstr ""
+"أغلاق البرنامج و\n"
+"إيقاف التحميل الجارية?\n"
+"%s"
+
+msgid "weba_nc_close_app_pause_loads"
+msgstr ""
+"أغلاق البرنامج و \n"
+"وأيقاف التحميلات الجارية?"
+
+msgid "weba_nc_delete_dowload"
+msgstr ""
+"حذف التحميلات?\n"
+"%s"
+
+msgid "weba_nc_remember_credentials"
+msgstr "التذكير بالشهادة لهذا الموقع?"
+
+msgid "weba_save_as"
+msgstr "حفظ الصفحة باسم"
+
+msgid "weba_search_list"
+msgstr "البحث بواسطة جوجل: '%s'"
+
+msgid "weba_ti_add_adress"
+msgstr "أضافة عنوان"
+
+msgid "weba_ti_add_bookmark_title"
+msgstr "أضافة علامة"
+
+msgid "weba_ti_adjuvi_met_showimg"
+msgstr "عرض الصورة"
+
+msgid "weba_ti_adjuvi_title"
+msgstr "ضبط العرض"
+
+msgid "weba_ti_auhentication_title"
+msgstr "أثبات الموثيقية"
+
+msgid "weba_ti_bookmarks"
+msgstr "علامة"
+
+msgid "weba_ti_clear_privatedata"
+msgstr "حذف البينات الخاصة"
+
+msgid "weba_ti_compbrhis"
+msgstr "تصفح التاريخ بالكامل"
+
+msgid "weba_ti_cookie_conf"
+msgstr "تأكيد الكوكيز"
+
+msgid "weba_ti_cookie_conf_accept_nor"
+msgstr ""
+"الموافقة على الكوكيز?\n"
+"%s"
+
+msgid "weba_ti_cookie_conf_server"
+msgstr "تطبيق على جميع الملفات من نفس الخادم"
+
+msgid "weba_ti_cookie_details_title"
+msgstr "تفاصيل الكوكيز"
+
+msgid "weba_ti_deletebook"
+msgstr "أختيار علامة"
+
+msgid "weba_ti_download_file_title"
+msgstr "تحميل الملف"
+
+msgid "weba_ti_downloads_title"
+msgstr "تحميل"
+
+msgid "weba_ti_edit_bookmark_title"
+msgstr "تحرير العلامة"
+
+msgid "weba_ti_edit_folder"
+msgstr "تحرير الملف"
+
+msgid "weba_ti_foldername"
+msgstr "%s"
+
+msgid "weba_ti_image_details_title"
+msgstr "تفاصيل الصور"
+
+msgid "weba_ti_java_script_confirmation"
+msgstr "التأكيد على الجافا سكريبت"
+
+msgid "weba_ti_java_script_prompt"
+msgstr "توجيه جافا سكريب"
+
+msgid "weba_ti_javas_alert"
+msgstr "تحذير جافا سكريبت"
+
+msgid "weba_ti_options"
+msgstr "خيارات"
+
+msgid "weba_ti_page_details_title"
+msgstr "خصائص الصفحة"
+
+msgid "weba_ti_recenthis"
+msgstr "التصفح الأخير"
+
+msgid "weba_ti_remeber_credentials"
+msgstr "التذكير بكلمة المرور"
+
+msgid "weba_ti_select_file_title"
+msgstr "أختيار الملف"
+
+msgid "weba_ti_settings_title"
+msgstr "إعدادات"
+
+msgid "weba_ti_texlist_single"
+msgstr "أختيار ملف"
+
+msgid "weba_ti_text"
+msgstr "حجم الخط"
+
+msgid "weba_ti_textlist_multi"
+msgstr "أختار  بند"
+
+msgid "weba_ti_webstart"
+msgstr "ويب"
+
+msgid "weba_va_always"
+msgstr "دائما"
+
+msgid "weba_va_download_from"
+msgstr "من"
+
+msgid "weba_va_downloads_rec_kb"
+msgstr "%d kB"
+
+msgid "weba_va_downloads_rec_percent"
+msgstr "%d %%"
+
+msgid "weba_va_downloads_size_kb"
+msgstr "%.2f kB"
+
+msgid "weba_va_downloads_size_unknown"
+msgstr "–"
+
+msgid "weba_va_encoding_big5"
+msgstr "Chinese, Traditional (Big5 I/II)"
+
+msgid "weba_va_encoding_euc_tw"
+msgstr "Chinese, Traditional (EUC-TW)"
+
+msgid "weba_va_encoding_gb_18030"
+msgstr "Chinese, Simplified (GB18030)"
+
+msgid "weba_va_encoding_iso_2022_cn"
+msgstr "Chinese, Simplified (ISO-2022-CN)"
+
+msgid "weba_va_encoding_iso_8859_1"
+msgstr "Latin (ISO 8859-1)"
+
+msgid "weba_va_encoding_iso_8859_15"
+msgstr "Latin extended (ISO-8859-15)"
+
+msgid "weba_va_encoding_iso_8859_2"
+msgstr "Central European (ISO 8859-2)"
+
+msgid "weba_va_encoding_iso_8859_7"
+msgstr "Greek (ISO 8859-7)"
+
+msgid "weba_va_encoding_iso_8859_9"
+msgstr "Turkish (ISO 8859-9)"
+
+msgid "weba_va_encoding_utf_16"
+msgstr "Unicode (UTF-16)"
+
+msgid "weba_va_encoding_utf_8"
+msgstr "Unicode (UTF-8)"
+
+msgid "weba_va_encoding_win_1250"
+msgstr "Central European (Windows-1250)"
+
+msgid "weba_va_encoding_win_1251"
+msgstr "Cyrillic (Windows-1251)"
+
+msgid "weba_va_encoding_win_1253"
+msgstr "Greek (Windows-1253)"
+
+msgid "weba_va_encoding_win_1254"
+msgstr "Turkish (Windows-1254)"
+
+msgid "weba_va_encoding_win_koi_8r"
+msgstr "Cyrillic (KOI-8R)"
+
+msgid "weba_va_high"
+msgstr "مرتفع"
+
+msgid "weba_va_image_details_dim_px"
+msgstr "%1$d x %2$d pixels"
+
+msgid "weba_va_larger"
+msgstr "كبير"
+
+msgid "weba_va_largest"
+msgstr "كبير جدا"
+
+msgid "weba_va_loaded"
+msgstr "موجود سابقا في الملفات المؤقتة"
+
+msgid "weba_va_low"
+msgstr "منخفض"
+
+msgid "weba_va_medium"
+msgstr "متوسط"
+
+msgid "weba_va_modal_dialog_abort"
+msgstr "تجاهل"
+
+msgid "weba_va_modal_dialog_cancel"
+msgstr "إلغاء"
+
+msgid "weba_va_modal_dialog_ignore"
+msgstr "تجاهل"
+
+msgid "weba_va_modal_dialog_no"
+msgstr "لا"
+
+msgid "weba_va_modal_dialog_ok"
+msgstr "موافق"
+
+msgid "weba_va_modal_dialog_retry"
+msgstr "أعد المحاولة?"
+
+msgid "weba_va_modal_dialog_yes"
+msgstr "نعم"
+
+msgid "weba_va_never"
+msgstr "أبدا"
+
+msgid "weba_va_normal"
+msgstr "عادي"
+
+msgid "weba_va_not_secure"
+msgstr "لاتوجد نسخة آمنة"
+
+msgid "weba_va_page_details_size_kb"
+msgstr "%.2f kB"
+
+msgid "weba_va_page_not_verified"
+msgstr "لم يتم التحقيق من موقع الأنترنت"
+
+msgid "weba_va_save_complete"
+msgstr "صفحة الويب كاملة"
+
+msgid "weba_va_save_html_only"
+msgstr "HTML فقط"
+
+msgid "weba_va_saved_password"
+msgstr "(كلمات سر محفوظة)"
+
+msgid "weba_va_settings_autofocus"
+msgstr "التركيز التلقائي على العنوان"
+
+msgid "weba_va_settings_fullscreen"
+msgstr "الفتح بكامل الشاشة عند البداية"
+
+msgid "weba_va_settings_general_maxc_1024"
+msgstr "10 MB"
+
+msgid "weba_va_settings_general_maxc_2048"
+msgstr "20 MB"
+
+msgid "weba_va_settings_general_maxc_4096"
+msgstr "40 MB"
+
+msgid "weba_va_settings_general_maxc_512"
+msgstr "5 MB"
+
+msgid "weba_va_settings_general_maxc_aut"
+msgstr "تلقائي"
+
+msgid "weba_va_settings_general_maxc_off"
+msgstr "عاطل"
+
+msgid "weba_va_settings_javaflash"
+msgstr "أيقاف السماح بالجافا السكريبت"
+
+msgid "weba_va_settings_javaflash_immediately"
+msgstr "فورا"
+
+msgid "weba_va_settings_javaflash_in15"
+msgstr "خلال 15 ثانية"
+
+msgid "weba_va_settings_javaflash_in30"
+msgstr "خلال 30 ثانية"
+
+msgid "weba_va_settings_javaflash_in60"
+msgstr "خلال 60 ثانية"
+
+msgid "weba_va_settings_portrait"
+msgstr "السماح بدوران"
+
+msgid "weba_va_settings_privacy_accept_cookies_always"
+msgstr "دائما"
+
+msgid "weba_va_settings_privacy_accept_cookies_askfirst"
+msgstr "السؤال أولا"
+
+msgid "weba_va_settings_privacy_accept_cookies_never"
+msgstr "أبدا"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_always"
+msgstr "دائما"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_askfirst"
+msgstr "فقط لطلب"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_never"
+msgstr "أبدا"
+
+msgid "weba_yi_hisfolder"
+msgstr "%s"
+
+msgid "webb_fi_bookmark_details_add"
+msgstr "أضيفت"
+
+msgid "webb_fi_bookmark_details_use"
+msgstr "آخر أستخدام"
+
+msgid "webb_fi_folder_details_contents"
+msgstr "محتويات"
+
+msgid "webb_fi_folder_details_contents_01"
+msgstr "العلامة الأولى"
+
+msgid "webb_fi_folder_details_contents_02"
+msgstr "العلامة الثانية"
+
+msgid "webb_fi_folder_details_contents_0n"
+msgstr "%d علامات"
+
+msgid "webb_fi_folder_details_contents_10"
+msgstr "الملف الأول"
+
+msgid "webb_fi_folder_details_contents_1n"
+msgstr "الملف الأول, %d علامات"
+
+msgid "webb_fi_folder_details_contents_20"
+msgstr "ملفين"
+
+msgid "webb_fi_folder_details_contents_2n"
+msgstr "ملفين, %d علامات"
+
+msgid "webb_fi_folder_details_contents_bookmark"
+msgid_plural "webb_fi_folder_details_contents_bookmars"
+msgstr[0] "%d علامة"
+msgstr[1] "%d علامات"
+
+msgid "webb_fi_folder_details_contents_folder"
+msgid_plural "webb_fi_folder_details_contents_folders"
+msgstr[0] "%d ملف "
+msgstr[1] "%d folders "
+
+msgid "webb_fi_folder_details_contents_n0"
+msgstr "%d ملفات"
+
+msgid "webb_fi_folder_details_contents_n1"
+msgstr "%d ملفات, علامة"
+
+msgid "webb_fi_folder_details_contents_n2"
+msgstr "%d ملفات, علامتان"
+
+msgid "webb_fi_folder_details_contents_nn"
+msgstr "%d ملفات, %d علامات"
+
+msgid "webb_fi_folder_details_date"
+msgstr "أضافة"
+
+msgid "webb_fi_folder_details_time"
+msgstr "تعديل"
+
+msgid "webb_folder_imported_bookmarks"
+msgstr "العلامات المستوردة"
+
+msgid "webb_folder_operator"
+msgstr "العلامات مفعلة"
+
+msgid "webb_folder_root_user"
+msgstr "علاماتي"
+
+msgid "webb_ia_cookie_after_sessions_ends"
+msgstr "بعد أنتهاء الدورة"
+
+msgid "webb_ia_no_bookmarks_folders_to_show"
+msgstr "(لاتوجد علامات/ملفات)"
+
+msgid "webb_ia_no_description"
+msgstr "(لايوجد وصف)"
+
+msgid "webb_ia_no_downloads"
+msgstr "(لاتوجد ملفات محملة)"
+
+msgid "webb_ia_none"
+msgstr "لا شيئ"
+
+msgid "webb_ia_not_available"
+msgstr "غير متوفرة"
+
+msgid "webb_ia_not_defined_in_html"
+msgstr "(بدون عنوان)"
+
+msgid "webb_ia_unknown"
+msgstr "غير معروف"
+
+msgid "webb_ib_this_folder_cannot_be_renamed"
+msgstr "غير قادر على إعادة تسمية المجلد المحدد"
+
+msgid "webb_me_delete"
+msgstr "حذف"
+
+msgid "webb_me_details"
+msgstr "التفاصيل"
+
+msgid "webb_me_file_edit"
+msgstr "تحرير"
+
+msgid "webb_me_impor"
+msgstr "إستيراد العلامات"
+
+msgid "webb_me_move_to"
+msgstr "تحريك"
+
+msgid "webb_nc_delete_item_nr"
+msgid_plural "webb_nc_delete_item_nrs"
+msgstr[0] "حذف '%s'?"
+msgstr[1] "حذف المحدد %d العناصر?"
+
+msgid "webb_nc_replace_item_nr"
+msgid_plural "webb_nc_replace_item_nrs"
+msgstr[0] "أستبدال العنصر الموجود بنفس الأسم?"
+msgstr[1] "أستبدال  %d العنصر بنفس الأسم?"
+
+msgid "webb_ni_change_save_target_location"
+msgstr ""
+"غير قادر على حفظ المواقع المحدد.\n"
+"الحفظ على ذاكرة الجهاز?"
+
+msgid "webb_ni_downloading_paused"
+msgstr ""
+"لايوجد ذاكره كافية في الجهاز.\n"
+"تم أيقاف التحميل."
+
+msgid "webb_ni_invalid_bookmarks_file"
+msgstr ""
+"ملف العلامات غير صالح.\n"
+"لاتوجد ."
+
+msgid "webb_ni_resuming_failed"
+msgstr ""
+"إعادة التحميل.\n"
+"إعادة التحميل من البداية?"
+
+msgid "webb_ni_target_folder_not_available"
+msgstr ""
+"الملف الهدف غير موجود.\n"
+"الحفظ بملف آخر."
+
+msgid "webb_ni_target_location_not_available"
+msgstr ""
+"الموقع الهدف غير متوفر.\n"
+"الحفظ على الذاكره المحلية."
+
+msgid "webb_nw_deleting_bookmark"
+msgstr "حذف"
+
+msgid "webb_nw_importing_bookmark"
+msgstr "استيراد"
+
+msgid "webb_nw_moving_bookmark"
+msgstr "تحريك"
+
+msgid "webb_ti_bookmark_details_title"
+msgstr "خصائص العلامة"
+
+msgid "webb_ti_folder_details"
+msgstr "خصائص الملف"
+
+msgid "webb_ti_selectbok"
+msgstr "أختيار العلامة"
+
