@@ -1,0 +1,855 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-browser-ui 20091102095707\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.08.17 10:20+0300\n"
+"PO-Revision-Date: 2010-05-29 20:48+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "bookm_li_imported_bookmarksd"
+msgstr "Alınmış yer imleri (%d)"
+
+msgid "bookm_ti_import_bookmarks"
+msgstr "Yer imlerini al"
+
+msgid "weba_ap_web_browser"
+msgstr "Web"
+
+msgid "weba_bd_cancel"
+msgstr "İptal et"
+
+msgid "weba_bd_certificate"
+msgstr "Sertifika"
+
+msgid "weba_bd_close"
+msgstr "Kapat"
+
+msgid "weba_bd_cookie_conf_accept"
+msgstr "Kabul et"
+
+msgid "weba_bd_cookie_conf_reject"
+msgstr "Reddet"
+
+msgid "weba_bd_delete"
+msgstr "Sil"
+
+msgid "weba_bd_details"
+msgstr "Detaylar"
+
+msgid "weba_bd_download_open_with"
+msgstr "Bununla aç"
+
+msgid "weba_bd_download_save_to"
+msgstr "Cihaza kaydet"
+
+msgid "weba_bd_downloads_pause"
+msgstr "Duraklat"
+
+msgid "weba_bd_downloads_resume"
+msgstr "Devam et"
+
+msgid "weba_bd_geolocaton_allow"
+msgstr "İzin ver"
+
+msgid "weba_bd_geolocaton_always"
+msgstr "Bu siteye her zaman izin ver"
+
+msgid "weba_bd_geolocaton_never"
+msgstr "Bu siteye asla izin verme"
+
+msgid "weba_bd_moveto"
+msgstr "Taşı"
+
+msgid "weba_bd_never"
+msgstr "Asla"
+
+msgid "weba_bd_not_now"
+msgstr "Şimdi değil"
+
+msgid "weba_bd_ok"
+msgstr "OK"
+
+msgid "weba_bd_select_clear_alll"
+msgstr "Tümünü sil"
+
+msgid "weba_bd_stop"
+msgstr "Durdur"
+
+msgid "weba_db_clear"
+msgstr "Temizle"
+
+msgid "weba_fi_address"
+msgstr "Adres"
+
+msgid "weba_fi_address_colon"
+msgstr "Adres"
+
+msgid "weba_fi_auhentication_password"
+msgstr "Parola"
+
+msgid "weba_fi_auhentication_realm"
+msgstr "Mesaj"
+
+msgid "weba_fi_auhentication_site"
+msgstr "Sunucu"
+
+msgid "weba_fi_auhentication_username"
+msgstr "Kullanıcı adı"
+
+msgid "weba_fi_authentivated"
+msgstr "Doğrulanmış oturumlar"
+
+msgid "weba_fi_browsing_his"
+msgstr "Tarama geçmişi"
+
+msgid "weba_fi_cache"
+msgstr "Önbellek"
+
+msgid "weba_fi_cookie_details_domain"
+msgstr "Alan adı"
+
+msgid "weba_fi_cookie_details_expiration"
+msgstr "Bitiş tarihi"
+
+msgid "weba_fi_cookie_details_path"
+msgstr "Yol"
+
+msgid "weba_fi_cookie_details_slash"
+msgstr "/"
+
+msgid "weba_fi_cookie_details_value"
+msgstr "Değer"
+
+msgid "weba_fi_cookies"
+msgstr "Çerezler"
+
+msgid "weba_fi_downloads_name"
+msgstr "İsim"
+
+msgid "weba_fi_downloads_percentage"
+msgstr "Alındı"
+
+msgid "weba_fi_downloads_size"
+msgstr "Boyut"
+
+msgid "weba_fi_encoding"
+msgstr "Kodlama"
+
+msgid "weba_fi_geolocation"
+msgstr "Geokonum izinleri"
+
+msgid "weba_fi_image_details_dimensions"
+msgstr "Boyutlar"
+
+msgid "weba_fi_location"
+msgstr "Konum"
+
+msgid "weba_fi_name"
+msgstr "İsim"
+
+msgid "weba_fi_name_colon"
+msgstr "İsim"
+
+msgid "weba_fi_open_with_colon"
+msgstr "Bununla aç:"
+
+msgid "weba_fi_page_details_page_title"
+msgstr "Başlık"
+
+msgid "weba_fi_page_details_security"
+msgstr "Güvenlik"
+
+msgid "weba_fi_page_details_verification"
+msgstr "Doğrulama"
+
+msgid "weba_fi_saved_pass"
+msgstr "Kayıtlı parolalar"
+
+msgid "weba_fi_select_username_title"
+msgstr "Kullanıcı adı seçin"
+
+msgid "weba_fi_settings_general_maxcache"
+msgstr "Hafıza önbellek boyutu (MB)"
+
+msgid "weba_fi_settings_plug_ins_enable_java_script"
+msgstr "JavaScript'i etkinleştir"
+
+msgid "weba_fi_settings_privacy_accept_cookies"
+msgstr "Çerezleri kabul et"
+
+msgid "weba_fi_settings_privacy_enable_pop_up_windows"
+msgstr "Açılır pencereleri aç"
+
+msgid "weba_fi_settings_privacy_password"
+msgstr "Parola kaydetmeyi etkinleştir"
+
+msgid "weba_fi_size_colon"
+msgstr "Boyut"
+
+msgid "weba_fi_type_colon"
+msgstr "Tür"
+
+msgid "weba_ib_closing_a_window_background"
+msgstr "Arka planda pencere kapanıyor"
+
+msgid "weba_ib_downloading_complete"
+msgstr "%s indirmesi tamamlandı"
+
+msgid "weba_ib_enter_location"
+msgstr "Önce adresi girin"
+
+msgid "weba_ib_flash_full"
+msgstr "Tam ekran modundan çıkmak için silme tuşuna basın"
+
+msgid "weba_ib_invalid_username_or_password"
+msgstr "Geçersiz kullanıcı adı veya parola"
+
+msgid "weba_ib_opening_new_window"
+msgstr "Yeni pencere açılıyor"
+
+msgid "weba_ib_pop_up_window_blocked"
+msgstr "Açılır pencere engellendi"
+
+msgid "weba_ib_secure_server"
+msgstr "%s, %s tarafından doğrulandı"
+
+msgid "weba_ib_select_update_first"
+msgstr "Önce güncellemeyi seçin"
+
+msgid "weba_ib_some_cache_items_cannot_be_deleted"
+msgstr "Bazı önbellek öğeleri kullanımda. Silinemiyor."
+
+msgid "weba_ib_target_not"
+msgstr "Hedef dosya uygun değil"
+
+msgid "weba_ib_upload_failed"
+msgstr "Karşıya yükleme başarısız"
+
+msgid "weba_li_history_list_item_name"
+msgstr "%s"
+
+msgid "weba_li_history_list_nr"
+msgid_plural "weba_li_history_list_nrs"
+msgstr[0] "%d öğe"
+msgstr[1] "%d öğe"
+
+msgid "weba_li_history_list_today"
+msgstr "Bugün"
+
+msgid "weba_li_history_list_yesterday"
+msgstr "Dün"
+
+msgid "weba_me_add"
+msgstr "Adres ekle"
+
+msgid "weba_me_add_bookmark"
+msgstr "Yer imlerine ekle"
+
+msgid "weba_me_add_home"
+msgstr "Masaüstüne kısayol ekle"
+
+msgid "weba_me_add_link"
+msgstr "Yer imi ekle"
+
+msgid "weba_me_adjustview"
+msgstr "Görünümü düzenle"
+
+msgid "weba_me_clear_privatedata"
+msgstr "Özel verileri temizle"
+
+msgid "weba_me_complete_his"
+msgstr "Tüm tarama geçmişi"
+
+msgid "weba_me_components"
+msgstr "Eklentiler"
+
+msgid "weba_me_copy"
+msgstr "Kopyala"
+
+msgid "weba_me_copy_address"
+msgstr "Bağlantı adresini kopyala"
+
+msgid "weba_me_copy_img_address"
+msgstr "Resim bağlantısını kopyala"
+
+msgid "weba_me_details"
+msgstr "Ayrıntılar"
+
+msgid "weba_me_downloads"
+msgstr "İndirmeler"
+
+msgid "weba_me_find_on_page"
+msgstr "Sayfada bul"
+
+msgid "weba_me_load_img"
+msgstr "Resimi aç"
+
+msgid "weba_me_new_window"
+msgstr "Yeni pencere"
+
+msgid "weba_me_open_bookmark_new_window"
+msgstr "Yeni pencerede aç"
+
+msgid "weba_me_open_in_new_window"
+msgstr "Yeni pencerede aç"
+
+msgid "weba_me_open_link_new_window"
+msgstr "Bağlantıyı yeni pencerede aç"
+
+msgid "weba_me_openfile"
+msgstr "Dosya aç"
+
+msgid "weba_me_options"
+msgstr "Seçenekler"
+
+msgid "weba_me_paste"
+msgstr "Yapıştır"
+
+msgid "weba_me_reload"
+msgstr "Yenile"
+
+msgid "weba_me_rss"
+msgstr "Beslemeye abone ol: %s"
+
+msgid "weba_me_save_img"
+msgstr "Resmi farklı kaydet"
+
+msgid "weba_me_save_link_as"
+msgstr "Bağlantıyı farklı kaydet"
+
+msgid "weba_me_save_page"
+msgstr "Sayfayı farklı kaydet"
+
+msgid "weba_me_settings"
+msgstr "Ayarlar"
+
+msgid "weba_nc_change_stored_password"
+msgstr "%s için kayıtlı parolayı değiştir?"
+
+msgid "weba_nc_close"
+msgstr ""
+"Web sayfası cevap vermiyor. Pencere kapanmaya zorlansın mı?\n"
+"Kaydedilmemiş veri kaybolabilir."
+
+msgid "weba_nc_close_app_pause_load"
+msgstr ""
+"Uygulamayı kapat ve\n"
+"devam eden indirmeyi duraklat?\n"
+"%s"
+
+msgid "weba_nc_close_app_pause_loads"
+msgstr ""
+"Uygulamayı kapat ve\n"
+"devam eden indirmeleri duraklat?"
+
+msgid "weba_nc_delete_dowload"
+msgstr ""
+"İndirme silinsin mi?\n"
+"%s"
+
+msgid "weba_nc_geolocaton_dis"
+msgstr "Bu site konumunuzu öğrenmek istiyor"
+
+msgid "weba_nc_remember_credentials"
+msgstr "Site için bilgileri hatırla?"
+
+msgid "weba_save_as"
+msgstr "Sayfayı farklı kaydet"
+
+msgid "weba_search_list"
+msgstr "Google Arama: '%s'"
+
+msgid "weba_ti_add_adress"
+msgstr "Adresi ekle"
+
+msgid "weba_ti_add_bookmark_title"
+msgstr "Yer imi ekle"
+
+msgid "weba_ti_adjuvi_met_showimg"
+msgstr "Resimleri göster"
+
+msgid "weba_ti_adjuvi_title"
+msgstr "Görünümü düzenle"
+
+msgid "weba_ti_auhentication_title"
+msgstr "Kimlik denetimi"
+
+msgid "weba_ti_bookmarks"
+msgstr "Yer imleri"
+
+msgid "weba_ti_bookmarks_portrait"
+msgstr "Yer imleri"
+
+msgid "weba_ti_clear_privatedata"
+msgstr "Özel verileri temizle"
+
+msgid "weba_ti_compbrhis"
+msgstr "Tüm tarama geçmişi"
+
+msgid "weba_ti_cookie_conf"
+msgstr "Çerez onaylama"
+
+msgid "weba_ti_cookie_conf_accept_nor"
+msgstr ""
+"Çerezi kabul et?\n"
+"%s"
+
+msgid "weba_ti_cookie_conf_server"
+msgstr "Aynı sunucudan tüm çerezlere uygula"
+
+msgid "weba_ti_cookie_details_title"
+msgstr "Çerez ayrıntıları"
+
+msgid "weba_ti_deletebook"
+msgstr "Yer imlerini seç"
+
+msgid "weba_ti_download_file_title"
+msgstr "Dosya indirmesi"
+
+msgid "weba_ti_downloads_title"
+msgstr "İndirmeler"
+
+msgid "weba_ti_edit_bookmark_title"
+msgstr "Yer imini düzenle"
+
+msgid "weba_ti_edit_folder"
+msgstr "Klasörü düzenle"
+
+msgid "weba_ti_foldername"
+msgstr "%s"
+
+msgid "weba_ti_geolocoation"
+msgstr "Geokonum"
+
+msgid "weba_ti_image_details_title"
+msgstr "Resim ayrıntıları"
+
+msgid "weba_ti_java_script_confirmation"
+msgstr "JavaScript onayı"
+
+msgid "weba_ti_java_script_prompt"
+msgstr "JavaScript sorgusu"
+
+msgid "weba_ti_javas_alert"
+msgstr "JavaScript uyarısı"
+
+msgid "weba_ti_options"
+msgstr "Seçenekler"
+
+msgid "weba_ti_page_details_title"
+msgstr "Sayfa detayları"
+
+msgid "weba_ti_recenthis"
+msgstr "Yakın geçmiş"
+
+msgid "weba_ti_remeber_credentials"
+msgstr "Parolayı hatırla"
+
+msgid "weba_ti_select_file_title"
+msgstr "Dosya seçin"
+
+msgid "weba_ti_settings_browser"
+msgstr "Tarayıcı"
+
+msgid "weba_ti_settings_content"
+msgstr "İçerik"
+
+msgid "weba_ti_settings_title"
+msgstr "Ayarlar"
+
+msgid "weba_ti_texlist_single"
+msgstr "Öğe seçin"
+
+msgid "weba_ti_text"
+msgstr "Yazı boyutu"
+
+msgid "weba_ti_textlist_multi"
+msgstr "Öğelerii seçin"
+
+msgid "weba_ti_webstart"
+msgstr "Web"
+
+msgid "weba_ti_webstart_portrait"
+msgstr "Web"
+
+msgid "weba_va_always"
+msgstr "Her zaman"
+
+msgid "weba_va_download_from"
+msgstr "Kimden"
+
+msgid "weba_va_downloads_rec_kb"
+msgstr "%d kB"
+
+msgid "weba_va_downloads_rec_percent"
+msgstr "%d %%"
+
+msgid "weba_va_downloads_size_kb"
+msgstr "%.2f kB"
+
+msgid "weba_va_downloads_size_unknown"
+msgstr "–"
+
+msgid "weba_va_encoding_big5"
+msgstr "Çince, Geleneksel (Big5 I/II)"
+
+msgid "weba_va_encoding_euc_tw"
+msgstr "Çince, Geleneksel (EUC-TW)"
+
+msgid "weba_va_encoding_gb_18030"
+msgstr "Çince, Basitleştirilmiş (GB18030)"
+
+msgid "weba_va_encoding_iso_2022_cn"
+msgstr "Çince, Basitleştirilmiş (ISO-2022-CN)"
+
+msgid "weba_va_encoding_iso_8859_1"
+msgstr "Latin (ISO 8859-1)"
+
+msgid "weba_va_encoding_iso_8859_15"
+msgstr "Latin genişletilmiş (ISO-8859-15)"
+
+msgid "weba_va_encoding_iso_8859_2"
+msgstr "Orta Avrupa (ISO 8859-2)"
+
+msgid "weba_va_encoding_iso_8859_7"
+msgstr "Yunanca (ISO 8859-7)"
+
+msgid "weba_va_encoding_iso_8859_9"
+msgstr "Türkçe (ISO 8859-9)"
+
+msgid "weba_va_encoding_utf_16"
+msgstr "Unicode (UTF-16)"
+
+msgid "weba_va_encoding_utf_8"
+msgstr "Unicode (UTF-8)"
+
+msgid "weba_va_encoding_win_1250"
+msgstr "Orta Avrupa (Windows-1250)"
+
+msgid "weba_va_encoding_win_1251"
+msgstr "Kiril (Windows-1251)"
+
+msgid "weba_va_encoding_win_1253"
+msgstr "Yunanca (Windows-1253)"
+
+msgid "weba_va_encoding_win_1254"
+msgstr "Türkçe (Windows-1254)"
+
+msgid "weba_va_encoding_win_koi_8r"
+msgstr "Kiril (KOI-8R)"
+
+msgid "weba_va_high"
+msgstr "Yüksek"
+
+msgid "weba_va_image_details_dim_px"
+msgstr "%1$d x %2$d piksel"
+
+msgid "weba_va_larger"
+msgstr "Büyük"
+
+msgid "weba_va_largest"
+msgstr "Çok büyük"
+
+msgid "weba_va_loaded"
+msgstr "Zaten önbellekte"
+
+msgid "weba_va_low"
+msgstr "Düşük"
+
+msgid "weba_va_medium"
+msgstr "Orta"
+
+msgid "weba_va_modal_dialog_abort"
+msgstr "Vazgeç"
+
+msgid "weba_va_modal_dialog_cancel"
+msgstr "İptal"
+
+msgid "weba_va_modal_dialog_ignore"
+msgstr "Yoksay"
+
+msgid "weba_va_modal_dialog_no"
+msgstr "Hayır"
+
+msgid "weba_va_modal_dialog_ok"
+msgstr "OK"
+
+msgid "weba_va_modal_dialog_retry"
+msgstr "Yeniden dene?"
+
+msgid "weba_va_modal_dialog_yes"
+msgstr "Evet"
+
+msgid "weba_va_never"
+msgstr "Asla"
+
+msgid "weba_va_normal"
+msgstr "Normal"
+
+msgid "weba_va_not_secure"
+msgstr "Güvenli bir sayfa değil"
+
+msgid "weba_va_page_details_size_kb"
+msgstr "%.2f kB"
+
+msgid "weba_va_page_not_verified"
+msgstr "Web site kimliği doğrulanmadı"
+
+msgid "weba_va_save_complete"
+msgstr "Tüm web sayfası"
+
+msgid "weba_va_save_html_only"
+msgstr "Sadece HTML"
+
+msgid "weba_va_saved_password"
+msgstr "(kaydedilmiş parola)"
+
+msgid "weba_va_settings_autofocus"
+msgstr "Adres alanına oto fokus"
+
+msgid "weba_va_settings_fullscreen"
+msgstr "Başlangıçta Tam ekran olarak aç"
+
+msgid "weba_va_settings_general_maxc_1024"
+msgstr "10"
+
+msgid "weba_va_settings_general_maxc_2048"
+msgstr "20"
+
+msgid "weba_va_settings_general_maxc_4096"
+msgstr "40"
+
+msgid "weba_va_settings_general_maxc_512"
+msgstr "5"
+
+msgid "weba_va_settings_general_maxc_aut"
+msgstr "Otomatik"
+
+msgid "weba_va_settings_general_maxc_off"
+msgstr "Kapalı"
+
+msgid "weba_va_settings_geolocation"
+msgstr "Geokonum"
+
+msgid "weba_va_settings_hwkeys"
+msgstr "Arttırma ve azaltma tuşlarını kullan"
+
+msgid "weba_va_settings_hwkeys_volume"
+msgstr "Ses düzeyi"
+
+msgid "weba_va_settings_hwkeys_zoom"
+msgstr "Yakınlaştırma"
+
+msgid "weba_va_settings_javaflash"
+msgstr "JavaScript duraklaması"
+
+msgid "weba_va_settings_javaflash_immediately"
+msgstr "Hemen"
+
+msgid "weba_va_settings_javaflash_in15"
+msgstr "15 saniye içinde"
+
+msgid "weba_va_settings_javaflash_in30"
+msgstr "30 saniye içinde"
+
+msgid "weba_va_settings_javaflash_in60"
+msgstr "60 saniye içinde"
+
+msgid "weba_va_settings_javaflash_not"
+msgstr "Duraklatma"
+
+msgid "weba_va_settings_portrait"
+msgstr "Döndürmeyi etkinleştir"
+
+msgid "weba_va_settings_privacy_accept_cookies_always"
+msgstr "Her zaman"
+
+msgid "weba_va_settings_privacy_accept_cookies_askfirst"
+msgstr "Önce sor"
+
+msgid "weba_va_settings_privacy_accept_cookies_never"
+msgstr "Asla"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_always"
+msgstr "Her zaman"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_askfirst"
+msgstr "Sadece istenilen"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_never"
+msgstr "Asla"
+
+msgid "weba_yi_hisfolder"
+msgstr "%s"
+
+msgid "webb_fi_bookmark_details_add"
+msgstr "Eklendi"
+
+msgid "webb_fi_bookmark_details_use"
+msgstr "Son kullanma"
+
+msgid "webb_fi_folder_details_contents"
+msgstr "İçerik"
+
+msgid "webb_fi_folder_details_contents_01"
+msgstr "1 yer imi"
+
+msgid "webb_fi_folder_details_contents_02"
+msgstr "2 yer imi"
+
+msgid "webb_fi_folder_details_contents_0n"
+msgstr "%d yer imi"
+
+msgid "webb_fi_folder_details_contents_10"
+msgstr "1 klasör"
+
+msgid "webb_fi_folder_details_contents_1n"
+msgstr "1 klasör, %d yer imi"
+
+msgid "webb_fi_folder_details_contents_20"
+msgstr "2 klasör"
+
+msgid "webb_fi_folder_details_contents_2n"
+msgstr "2 klasör, %d yer imi"
+
+msgid "webb_fi_folder_details_contents_bookmark"
+msgid_plural "webb_fi_folder_details_contents_bookmars"
+msgstr[0] "%d yer imi"
+msgstr[1] "%d yer imi"
+
+msgid "webb_fi_folder_details_contents_folder"
+msgid_plural "webb_fi_folder_details_contents_folders"
+msgstr[0] "%d klasör"
+msgstr[1] "%d klasör"
+
+msgid "webb_fi_folder_details_contents_n0"
+msgstr "%d klasör"
+
+msgid "webb_fi_folder_details_contents_n1"
+msgstr "%d klasör, 1 yer imi"
+
+msgid "webb_fi_folder_details_contents_n2"
+msgstr "%d klasör, 2 yer imi"
+
+msgid "webb_fi_folder_details_contents_nn"
+msgstr "%d klasör, %d yer imi"
+
+msgid "webb_fi_folder_details_date"
+msgstr "Eklendi"
+
+msgid "webb_fi_folder_details_time"
+msgstr "Değiştirildi"
+
+msgid "webb_folder_imported_bookmarks"
+msgstr "Alınan yer imleri"
+
+msgid "webb_folder_operator"
+msgstr "Operatör yer imleri"
+
+msgid "webb_folder_root_user"
+msgstr "Yer imlerim"
+
+msgid "webb_ia_cookie_after_sessions_ends"
+msgstr "Oturum bittikten sonra"
+
+msgid "webb_ia_no_bookmarks_folders_to_show"
+msgstr "(yer imi/klasör yok)"
+
+msgid "webb_ia_no_description"
+msgstr "(açıklama yok)"
+
+msgid "webb_ia_no_downloads"
+msgstr "(dosya indirilmiyor)"
+
+msgid "webb_ia_none"
+msgstr "Hiçbiri"
+
+msgid "webb_ia_not_available"
+msgstr "Mevcut değil"
+
+msgid "webb_ia_not_defined_in_html"
+msgstr "(isimsiz)"
+
+msgid "webb_ia_unknown"
+msgstr "Bilinmeyen"
+
+msgid "webb_ib_this_folder_cannot_be_renamed"
+msgstr "Seçilen klasör adlandırılamıyor"
+
+msgid "webb_me_delete"
+msgstr "Sil"
+
+msgid "webb_me_details"
+msgstr "Detaylar"
+
+msgid "webb_me_file_edit"
+msgstr "Düzenle"
+
+msgid "webb_me_impor"
+msgstr "Yer imlerini içe aktar"
+
+msgid "webb_me_move_to"
+msgstr "Taşı"
+
+msgid "webb_nc_delete_item_nr"
+msgid_plural "webb_nc_delete_item_nrs"
+msgstr[0] "'%s' silinsin mi?"
+msgstr[1] "%d seçilen öğe silinsin mi?"
+
+msgid "webb_nc_replace_item_nr"
+msgid_plural "webb_nc_replace_item_nrs"
+msgstr[0] "Aynı adlı dosyayla değiştirilsin mi?"
+msgstr[1] "Aynı adlı %d dosya değiştirilsin mi?"
+
+msgid "webb_ni_change_save_target_location"
+msgstr ""
+"Seçilen konuma kaydedilemedi.\n"
+"Cihaz hafızasına kaydedilsin mi?"
+
+msgid "webb_ni_downloading_paused"
+msgstr ""
+"Cihazda yeterli hafıza yok.\n"
+"İndirme durakladı."
+
+msgid "webb_ni_invalid_bookmarks_file"
+msgstr ""
+"Geçersiz yer imi dosyası.\n"
+"Yer imleri içe aktarılmadı."
+
+msgid "webb_ni_resuming_failed"
+msgstr ""
+"İndirme devam edilemedi.\n"
+"Yeniden indirilsin mi?"
+
+msgid "webb_ni_target_folder_not_available"
+msgstr ""
+"Hedef klasör mevcut değil.\n"
+"Başka klasöre kaydedin."
+
+msgid "webb_ni_target_location_not_available"
+msgstr ""
+"Hedef konum mevcut değil.\n"
+"Yerel hafızaya kaydedin."
+
+msgid "webb_nw_deleting_bookmark"
+msgstr "Siliniyor"
+
+msgid "webb_nw_importing_bookmark"
+msgstr "İçe aktarılıyor"
+
+msgid "webb_nw_moving_bookmark"
+msgstr "Taşınıyor"
+
+msgid "webb_ti_bookmark_details_title"
+msgstr "Yer im detayları"
+
+msgid "webb_ti_folder_details"
+msgstr "Klasör ayrıntıları"
+
+msgid "webb_ti_selectbok"
+msgstr "Yer imleri seçin"
