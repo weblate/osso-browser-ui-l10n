@@ -1,0 +1,835 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2010-11-30 11:37+0000\n"
+"Last-Translator: \n"
+"Language-Team: Panjabi (Punjabi) (http://www.transifex.net/projects/p/n900-extra-translations/language/pa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pa\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "bookm_li_imported_bookmarksd"
+msgstr "ਇੰਪੋਰਟ ਕੀਤੇ ਬੁੱਕਮਾਰਕ (%d)"
+
+msgid "bookm_ti_import_bookmarks"
+msgstr "ਬੁੱਕਮਾਰਕ ਇੰਪੋਰਟ ਕਰੋ"
+
+msgid "weba_ap_web_browser"
+msgstr "ਵੈੱਬ"
+
+msgid "weba_bd_cancel"
+msgstr "ਰੱਦ ਕਰੋ"
+
+msgid "weba_bd_certificate"
+msgstr "ਸਰਟੀਫਿਕੇਟ"
+
+msgid "weba_bd_close"
+msgstr "ਬੰਦ ਕਰੋ"
+
+msgid "weba_bd_cookie_conf_accept"
+msgstr "ਮਨਜ਼ੂਰ"
+
+msgid "weba_bd_cookie_conf_reject"
+msgstr "ਰੱਦ ਕਰੋ"
+
+msgid "weba_bd_delete"
+msgstr "ਹਟਾਓ"
+
+msgid "weba_bd_details"
+msgstr "ਵੇਰਵਾ"
+
+msgid "weba_bd_download_open_with"
+msgstr "ਇਸ ਨਾਲ ਖੋਲ੍ਹੋ"
+
+msgid "weba_bd_download_save_to"
+msgstr "ਜੰਤਰ ਉੱਤੇ ਸੰਭਾਲੋ"
+
+msgid "weba_bd_downloads_pause"
+msgstr "ਵਿਰਾਮ"
+
+msgid "weba_bd_downloads_resume"
+msgstr "ਰੀਜਿਊਮ"
+
+msgid "weba_bd_geolocaton_allow"
+msgstr "Allow"
+
+msgid "weba_bd_geolocaton_always"
+msgstr "Always allow for this site"
+
+msgid "weba_bd_geolocaton_never"
+msgstr "Never allow for this site"
+
+msgid "weba_bd_moveto"
+msgstr "ਭੇਜੋ"
+
+msgid "weba_bd_never"
+msgstr "ਕਦੇ ਨਹੀਂ"
+
+msgid "weba_bd_not_now"
+msgstr "ਹੁਣ ਨਹੀਂ"
+
+msgid "weba_bd_ok"
+msgstr "ਠੀਕ ਹੈ"
+
+msgid "weba_bd_select_clear_alll"
+msgstr "ਸਭ ਸਾਫ਼ ਕਰੋ"
+
+msgid "weba_bd_stop"
+msgstr "ਰੋਕੋ"
+
+msgid "weba_db_clear"
+msgstr "ਸਾਫ਼ ਕਰੋ"
+
+msgid "weba_fi_address"
+msgstr "ਐਡਰੈੱਸ"
+
+msgid "weba_fi_address_colon"
+msgstr "ਐਡਰੈੱਸ"
+
+msgid "weba_fi_auhentication_password"
+msgstr "ਪਾਸਵਰਡ"
+
+msgid "weba_fi_auhentication_realm"
+msgstr "ਸੁਨੇਹਾ"
+
+msgid "weba_fi_auhentication_site"
+msgstr "ਸਰਵਰ"
+
+msgid "weba_fi_auhentication_username"
+msgstr "ਯੂਜ਼ਰ ਨਾਂ"
+
+msgid "weba_fi_authentivated"
+msgstr "ਪਰਮਾਣਿਤ ਸ਼ੈਸ਼ਨ"
+
+msgid "weba_fi_browsing_his"
+msgstr "ਬਰਾਊਜ਼ਿੰਗ ਅਤੀਤ"
+
+msgid "weba_fi_cache"
+msgstr "ਕੈਸ਼"
+
+msgid "weba_fi_cookie_details_domain"
+msgstr "ਡੋਮੇਨ"
+
+msgid "weba_fi_cookie_details_expiration"
+msgstr "ਮਿਆਦ"
+
+msgid "weba_fi_cookie_details_path"
+msgstr "ਪਾਥ"
+
+msgid "weba_fi_cookie_details_slash"
+msgstr "/"
+
+msgid "weba_fi_cookie_details_value"
+msgstr "ਮੁੱਲ"
+
+msgid "weba_fi_cookies"
+msgstr "ਕੂਕੀਜ਼"
+
+msgid "weba_fi_downloads_name"
+msgstr "ਨਾਂ"
+
+msgid "weba_fi_downloads_percentage"
+msgstr "ਮਿਲੇ"
+
+msgid "weba_fi_downloads_size"
+msgstr "ਸਾਈਜ਼"
+
+msgid "weba_fi_encoding"
+msgstr "ਇੰਕੋਡਿੰਗ"
+
+msgid "weba_fi_geolocation"
+msgstr "Geolocation permissions"
+
+msgid "weba_fi_image_details_dimensions"
+msgstr "ਮਾਪ"
+
+msgid "weba_fi_location"
+msgstr "ਟਿਕਾਣਾ"
+
+msgid "weba_fi_name"
+msgstr "ਨਾਂ"
+
+msgid "weba_fi_name_colon"
+msgstr "ਨਾਂ"
+
+msgid "weba_fi_open_with_colon"
+msgstr "ਇਸ ਨਾਲ ਖੋਲ੍ਹੋ:"
+
+msgid "weba_fi_page_details_page_title"
+msgstr "ਟਾਈਟਲ"
+
+msgid "weba_fi_page_details_security"
+msgstr "ਸੁਰੱਖਿਆ"
+
+msgid "weba_fi_page_details_verification"
+msgstr "ਜਾਂਚ"
+
+msgid "weba_fi_saved_pass"
+msgstr "ਸੰਭਾਲੇ ਪਾਸਵਰਡ"
+
+msgid "weba_fi_select_username_title"
+msgstr "ਯੂਜ਼ਰ ਨਾਂ ਚੁਣੋ"
+
+msgid "weba_fi_settings_general_maxcache"
+msgstr "ਮੈਮੋਰੀ ਕੈਸ਼ ਆਕਾਰ"
+
+msgid "weba_fi_settings_plug_ins_enable_java_script"
+msgstr "ਜਾਵਾਸਕ੍ਰਿਪਟ ਚਾਲੂ"
+
+msgid "weba_fi_settings_privacy_accept_cookies"
+msgstr "ਕੂਕੀਜ਼ ਮਨਜ਼ੂਰ"
+
+msgid "weba_fi_settings_privacy_enable_pop_up_windows"
+msgstr "ਪੋਪਅੱਪ ਖੋਲ੍ਹੋ"
+
+msgid "weba_fi_settings_privacy_password"
+msgstr "ਪਾਸਵਰਡ ਸੰਭਾਲਣਾ ਚਾਲੂ"
+
+msgid "weba_fi_size_colon"
+msgstr "ਆਕਾਰ"
+
+msgid "weba_fi_type_colon"
+msgstr "ਕਿਸਮ"
+
+msgid "weba_ib_closing_a_window_background"
+msgstr "ਬੈਕਗਰਾਊਂਡ 'ਚ ਵਿੰਡੋ ਬੰਦ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ"
+
+msgid "weba_ib_downloading_complete"
+msgstr "ਡਾਊਨਲੋਡ %s ਮੁਕੰਮਲ ਹੋਇਆ"
+
+msgid "weba_ib_enter_location"
+msgstr "ਪਹਿਲਾਂ ਐਡਰੈੱਸ ਦਿਓ"
+
+msgid "weba_ib_flash_full"
+msgstr "ਪੂਰੀ ਸਕਰੀਨ ਮੋਡ ਬੰਦ ਕਰਨ ਲਈ ਬੈਕਸਪੇਸ ਨੱਪੋ"
+
+msgid "weba_ib_invalid_username_or_password"
+msgstr "ਗਲਤ ਯੂਜ਼ਰ ਨਾਂ ਜਾਂ ਪਾਸਵਰਡ"
+
+msgid "weba_ib_opening_new_window"
+msgstr "ਨਵੀਂ ਵਿੰਡੋ ਖੋਲ੍ਹੀ ਜਾ ਰਹੀ ਹੈ"
+
+msgid "weba_ib_pop_up_window_blocked"
+msgstr "ਪੋਪ-ਅੱਪ ਵਿੰਡੋ ਬਲਾਕ ਕੀਤੀ"
+
+msgid "weba_ib_secure_server"
+msgstr "%s %s ਵਲੋਂ ਜਾਂਚਿਆ"
+
+msgid "weba_ib_select_update_first"
+msgstr "ਪਹਿਲਾਂ ਅੱਪਡੇਟ ਚੁਣੋ"
+
+msgid "weba_ib_some_cache_items_cannot_be_deleted"
+msgstr "ਕੁਝ ਕੈਸ਼ ਆਈਟਮਾਂ ਵਰਤੋਂ ਵਿੱਚ ਹਨ। ਹਟਾਉਣ ਲਈ ਅਸਮਰੱਥ।"
+
+msgid "weba_ib_target_not"
+msgstr "ਟਾਰਗੇਟ ਫਾਇਲ ਉਪਲਬੱਧ ਨਹੀਂ"
+
+msgid "weba_ib_upload_failed"
+msgstr "ਅੱਪਲੋਡ ਫੇਲ੍ਹ"
+
+msgid "weba_li_history_list_item_name"
+msgstr "%s"
+
+msgid "weba_li_history_list_nr"
+msgid_plural "weba_li_history_list_nrs"
+msgstr[0] "%d ਆਈਟਮ"
+msgstr[1] "%d ਆਈਟਮਾਂ"
+
+msgid "weba_li_history_list_today"
+msgstr "ਅੱਜ"
+
+msgid "weba_li_history_list_yesterday"
+msgstr "ਕੱਲ੍ਹ"
+
+msgid "weba_me_add"
+msgstr "ਐਡਰੈੱਸ ਸ਼ਾਮਲ"
+
+msgid "weba_me_add_bookmark"
+msgstr "ਬੁੱਕਮਾਰਕ 'ਚ ਸ਼ਾਮਲ"
+
+msgid "weba_me_add_home"
+msgstr "ਸ਼ਾਰਟਕੱਟ ਡੈਸਕਟਾਪ ਉੱਤੇ ਸ਼ਾਮਲ"
+
+msgid "weba_me_add_link"
+msgstr "ਬੁੱਕਮਾਰਕ ਸ਼ਾਮਲ"
+
+msgid "weba_me_adjustview"
+msgstr "ਝਲਕ ਅਡਜੱਸਟ ਕਰੋ"
+
+msgid "weba_me_clear_privatedata"
+msgstr "ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ"
+
+msgid "weba_me_complete_his"
+msgstr "Complete browsing history"
+
+msgid "weba_me_components"
+msgstr "ਐਡ-ਆਨ"
+
+msgid "weba_me_copy"
+msgstr "ਕਾਪੀ ਕਰੋ"
+
+msgid "weba_me_copy_address"
+msgstr "ਲਿੰਕ ਐਡਰੈੱਸ ਕਾਪੀ ਕਰੋ"
+
+msgid "weba_me_copy_img_address"
+msgstr "ਚਿੱਤਰ ਐਡਰੈੱਸ ਕਾਪੀ ਕਰੋ"
+
+msgid "weba_me_details"
+msgstr "ਵੇਰਵਾ"
+
+msgid "weba_me_downloads"
+msgstr "ਡਾਊਨਲੋਡ"
+
+msgid "weba_me_find_on_page"
+msgstr "ਪੇਜ਼ ਉੱਤੇ ਲੱਭੋ"
+
+msgid "weba_me_load_img"
+msgstr "ਚਿੱਤਰ ਲੋਡ ਕਰੋ"
+
+msgid "weba_me_new_window"
+msgstr "ਨਵੀਂ ਵਿੰਡੋ"
+
+msgid "weba_me_open_bookmark_new_window"
+msgstr "ਨਵੀਂ ਵਿੰਡੋ 'ਚ ਖੋਲ੍ਹੋ"
+
+msgid "weba_me_open_in_new_window"
+msgstr "ਨਵੀਂ ਵਿੰਡੋ 'ਚ ਖੋਲ੍ਹੋ"
+
+msgid "weba_me_open_link_new_window"
+msgstr "ਲਿੰਕ ਨਵੀਂ ਵਿੰਡੋ 'ਚ ਖੋਲ੍ਹੋ"
+
+msgid "weba_me_openfile"
+msgstr "ਫਾਇਲ ਖੋਲ੍ਹੋ"
+
+msgid "weba_me_options"
+msgstr "ਚੋਣਾਂ"
+
+msgid "weba_me_paste"
+msgstr "ਚੇਪੋ"
+
+msgid "weba_me_reload"
+msgstr "ਮੁੜ-ਲੋਡ"
+
+msgid "weba_me_rss"
+msgstr "ਫੀਡ ਲਈ ਮੈਂਬਰ ਬਣੋ: %s"
+
+msgid "weba_me_save_img"
+msgstr "ਚਿੱਤਰ ਇੰਝ ਸੰਭਾਲੋ"
+
+msgid "weba_me_save_link_as"
+msgstr "ਲਿੰਕ ਇੰਝ ਸੰਭਾਲੋ"
+
+msgid "weba_me_save_page"
+msgstr "ਪੇਜ਼ ਇੰਝ ਸੰਭਾਲੋ"
+
+msgid "weba_me_settings"
+msgstr "ਸੈਟਿੰਗ"
+
+msgid "weba_nc_change_stored_password"
+msgstr "ਕੀ %s ਲਈ ਸਟੋਰ ਕੀਤਾ ਪਾਸਵਰਡ ਬਦਲਣਾ ਹੈ?"
+
+msgid "weba_nc_close"
+msgstr "Web page not responding. Force window to close?\nUnsaved data may be lost."
+
+msgid "weba_nc_close_app_pause_load"
+msgstr "Close application and\npause ongoing download?\n%s"
+
+msgid "weba_nc_close_app_pause_loads"
+msgstr "Close application and\npause ongoing downloads?"
+
+msgid "weba_nc_delete_dowload"
+msgstr "ਡਾਊਨਲੋਡ ਹਟਾਉਣਾ ਹੈ?\n%s"
+
+msgid "weba_nc_geolocaton_dis"
+msgstr "This site wants to know your location"
+
+msgid "weba_nc_remember_credentials"
+msgstr "Remember credentials for this site?"
+
+msgid "weba_save_as"
+msgstr "ਪੇਜ਼ ਇੰਝ ਸੰਭਾਲੋ"
+
+msgid "weba_search_list"
+msgstr "ਗੂਗਲ ਖੋਜ: '%s'"
+
+msgid "weba_ti_add_adress"
+msgstr "ਐਡਰੈਸ ਸ਼ਾਮਲ"
+
+msgid "weba_ti_add_bookmark_title"
+msgstr "ਬੁੱਕਮਾਰਕ ਸ਼ਾਮਲ"
+
+msgid "weba_ti_adjuvi_met_showimg"
+msgstr "ਚਿੱਤਰ ਵੇਖੋ"
+
+msgid "weba_ti_adjuvi_title"
+msgstr "ਝਲਕ ਅਡਜੱਸਟ ਕਰੋ"
+
+msgid "weba_ti_auhentication_title"
+msgstr "Authentication"
+
+msgid "weba_ti_bookmarks"
+msgstr "ਬੁੱਕਮਾਰਕ"
+
+msgid "weba_ti_bookmarks_portrait"
+msgstr "Bookmarks"
+
+msgid "weba_ti_clear_privatedata"
+msgstr "ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ"
+
+msgid "weba_ti_compbrhis"
+msgstr "Complete browsing history"
+
+msgid "weba_ti_cookie_conf"
+msgstr "ਕੂਕੀਜ਼ ਪੁਸ਼ਟੀ"
+
+msgid "weba_ti_cookie_conf_accept_nor"
+msgstr "Accept cookie?\n%s"
+
+msgid "weba_ti_cookie_conf_server"
+msgstr "Apply to all cookies from same server"
+
+msgid "weba_ti_cookie_details_title"
+msgstr "ਕੂਕੀਜ਼ ਵੇਰਵਾ"
+
+msgid "weba_ti_deletebook"
+msgstr "ਬੁੱਕਮਾਰਕ ਚੁਣੋ"
+
+msgid "weba_ti_download_file_title"
+msgstr "ਫਾਇਲ ਡਾਊਨਲੋਡ"
+
+msgid "weba_ti_downloads_title"
+msgstr "ਡਾਊਨਲੋਡ"
+
+msgid "weba_ti_edit_bookmark_title"
+msgstr "ਬੁੱਕਮਾਰਕ ਸੋਧ"
+
+msgid "weba_ti_edit_folder"
+msgstr "ਫੋਲਡਰ ਸੋਧ"
+
+msgid "weba_ti_foldername"
+msgstr "%s"
+
+msgid "weba_ti_geolocoation"
+msgstr "Geolocation"
+
+msgid "weba_ti_image_details_title"
+msgstr "ਚਿੱਤਰ ਵੇਰਵਾ"
+
+msgid "weba_ti_java_script_confirmation"
+msgstr "JavaScript confirmation"
+
+msgid "weba_ti_java_script_prompt"
+msgstr "JavaScript prompt"
+
+msgid "weba_ti_javas_alert"
+msgstr "JavaScript alert"
+
+msgid "weba_ti_options"
+msgstr "ਚੋਣਾਂ"
+
+msgid "weba_ti_page_details_title"
+msgstr "ਪੇਜ਼ ਵੇਰਵਾ"
+
+msgid "weba_ti_recenthis"
+msgstr "ਤਾਜ਼ਾ ਅਤੀਤ"
+
+msgid "weba_ti_remeber_credentials"
+msgstr "ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ"
+
+msgid "weba_ti_select_file_title"
+msgstr "ਫਾਇਲ ਚੁਣੋ"
+
+msgid "weba_ti_settings_browser"
+msgstr "Browser"
+
+msgid "weba_ti_settings_content"
+msgstr "Content"
+
+msgid "weba_ti_settings_title"
+msgstr "ਸੈਟਿੰਗ"
+
+msgid "weba_ti_texlist_single"
+msgstr "ਆਈਟਮ ਚੁਣੋ"
+
+msgid "weba_ti_text"
+msgstr "ਟੈਕਸਟ ਆਕਾਰ"
+
+msgid "weba_ti_textlist_multi"
+msgstr "ਆਈਟਮਾਂ ਚੁਣੋ"
+
+msgid "weba_ti_webstart"
+msgstr "ਵੈੱਬ"
+
+msgid "weba_ti_webstart_portrait"
+msgstr "Web"
+
+msgid "weba_va_always"
+msgstr "ਹਮੇਸ਼ਾ"
+
+msgid "weba_va_download_from"
+msgstr "ਵਲੋਂ"
+
+msgid "weba_va_downloads_rec_kb"
+msgstr "%d kB"
+
+msgid "weba_va_downloads_rec_percent"
+msgstr "%d %%"
+
+msgid "weba_va_downloads_size_kb"
+msgstr "%.2f kB"
+
+msgid "weba_va_downloads_size_unknown"
+msgstr "–"
+
+msgid "weba_va_encoding_big5"
+msgstr "Chinese, Traditional (Big5 I/II)"
+
+msgid "weba_va_encoding_euc_tw"
+msgstr "Chinese, Traditional (EUC-TW)"
+
+msgid "weba_va_encoding_gb_18030"
+msgstr "Chinese, Simplified (GB18030)"
+
+msgid "weba_va_encoding_iso_2022_cn"
+msgstr "Chinese, Simplified (ISO-2022-CN)"
+
+msgid "weba_va_encoding_iso_8859_1"
+msgstr "Latin (ISO 8859-1)"
+
+msgid "weba_va_encoding_iso_8859_15"
+msgstr "Latin extended (ISO-8859-15)"
+
+msgid "weba_va_encoding_iso_8859_2"
+msgstr "Central European (ISO 8859-2)"
+
+msgid "weba_va_encoding_iso_8859_7"
+msgstr "Greek (ISO 8859-7)"
+
+msgid "weba_va_encoding_iso_8859_9"
+msgstr "Turkish (ISO 8859-9)"
+
+msgid "weba_va_encoding_utf_16"
+msgstr "Unicode (UTF-16)"
+
+msgid "weba_va_encoding_utf_8"
+msgstr "ਯੂਨੀਕੋਡ (UTF-8)"
+
+msgid "weba_va_encoding_win_1250"
+msgstr "Central European (Windows-1250)"
+
+msgid "weba_va_encoding_win_1251"
+msgstr "Cyrillic (Windows-1251)"
+
+msgid "weba_va_encoding_win_1253"
+msgstr "Greek (Windows-1253)"
+
+msgid "weba_va_encoding_win_1254"
+msgstr "Turkish (Windows-1254)"
+
+msgid "weba_va_encoding_win_koi_8r"
+msgstr "Cyrillic (KOI-8R)"
+
+msgid "weba_va_high"
+msgstr "High"
+
+msgid "weba_va_image_details_dim_px"
+msgstr "%1$d x %2$d ਪਿਕਸਲ"
+
+msgid "weba_va_larger"
+msgstr "ਵੱਡਾ"
+
+msgid "weba_va_largest"
+msgstr "ਬਹੁਤ ਵੱਡਾ"
+
+msgid "weba_va_loaded"
+msgstr "ਪਹਿਲਾਂ ਹੀ ਕੈਸ਼ ਹੈ"
+
+msgid "weba_va_low"
+msgstr "ਘੱਟ"
+
+msgid "weba_va_medium"
+msgstr "ਮੱਧਮ"
+
+msgid "weba_va_modal_dialog_abort"
+msgstr "ਅਧੂਰਾ ਛੱਡੋ"
+
+msgid "weba_va_modal_dialog_cancel"
+msgstr "ਰੱਦ ਕਰੋ"
+
+msgid "weba_va_modal_dialog_ignore"
+msgstr "ਅਣਡਿੱਠਾ"
+
+msgid "weba_va_modal_dialog_no"
+msgstr "ਨਹੀਂ"
+
+msgid "weba_va_modal_dialog_ok"
+msgstr "ਠੀਕ ਹੈ"
+
+msgid "weba_va_modal_dialog_retry"
+msgstr "ਮੁੜ-ਕੋਸ਼ਿਸ਼?"
+
+msgid "weba_va_modal_dialog_yes"
+msgstr "ਹਾਂ"
+
+msgid "weba_va_never"
+msgstr "ਕਦੇ ਨਹੀਂ"
+
+msgid "weba_va_normal"
+msgstr "ਸਧਾਰਨ"
+
+msgid "weba_va_not_secure"
+msgstr "ਸੁਰੱਖਿਅਤ ਪੇਜ਼ ਨਹੀਂ"
+
+msgid "weba_va_page_details_size_kb"
+msgstr "%.2f kB"
+
+msgid "weba_va_page_not_verified"
+msgstr "Web site identity not verified"
+
+msgid "weba_va_save_complete"
+msgstr "ਪੂਰਾ ਵੈੱਬ ਪੇਜ਼"
+
+msgid "weba_va_save_html_only"
+msgstr "HTML ਕੇਵਲ"
+
+msgid "weba_va_saved_password"
+msgstr "(ਸੰਭਾਲਿਆ ਪਾਸਵਰਡ)"
+
+msgid "weba_va_settings_autofocus"
+msgstr "Auto focus address field"
+
+msgid "weba_va_settings_fullscreen"
+msgstr "Open initially in Full screen"
+
+msgid "weba_va_settings_general_maxc_1024"
+msgstr "10 MB"
+
+msgid "weba_va_settings_general_maxc_2048"
+msgstr "20 MB"
+
+msgid "weba_va_settings_general_maxc_4096"
+msgstr "40 MB"
+
+msgid "weba_va_settings_general_maxc_512"
+msgstr "5 MB"
+
+msgid "weba_va_settings_general_maxc_aut"
+msgstr "ਆਟੋਮੈਟਿਕ"
+
+msgid "weba_va_settings_general_maxc_off"
+msgstr "ਬੰਦ"
+
+msgid "weba_va_settings_geolocation"
+msgstr "Geolocation"
+
+msgid "weba_va_settings_hwkeys"
+msgstr "Use increase and decrease keys for"
+
+msgid "weba_va_settings_hwkeys_volume"
+msgstr "Volume"
+
+msgid "weba_va_settings_hwkeys_zoom"
+msgstr "Zooming"
+
+msgid "weba_va_settings_javaflash"
+msgstr "Allow JavaScript pausing"
+
+msgid "weba_va_settings_javaflash_immediately"
+msgstr "ਤੁਰੰਤ"
+
+msgid "weba_va_settings_javaflash_in15"
+msgstr "੧੫ ਸਕਿੰਟਾਂ 'ਚ"
+
+msgid "weba_va_settings_javaflash_in30"
+msgstr "੩੦ ਸਕਿੰਟਾਂ ਵਿੱਚ"
+
+msgid "weba_va_settings_javaflash_in60"
+msgstr "੬੦ ਸਕਿੰਟਾਂ ਵਿੱਚ"
+
+msgid "weba_va_settings_javaflash_not"
+msgstr "Do not pause"
+
+msgid "weba_va_settings_portrait"
+msgstr "ਘੁੰਮਾਉਣਾ ਚਾਲੂ"
+
+msgid "weba_va_settings_privacy_accept_cookies_always"
+msgstr "ਹਮੇਸ਼ਾ"
+
+msgid "weba_va_settings_privacy_accept_cookies_askfirst"
+msgstr "ਪਹਿਲਾਂ ਪੁੱਛੋ"
+
+msgid "weba_va_settings_privacy_accept_cookies_never"
+msgstr "ਕਦੇ ਨਹੀਂ"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_always"
+msgstr "ਹਮੇਸ਼ਾ"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_askfirst"
+msgstr "ਕੇਵਲ ਮੰਗ ਕਰਨ 'ਤੇ"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_never"
+msgstr "ਕਦੇ ਨਹੀਂ"
+
+msgid "weba_yi_hisfolder"
+msgstr "%s"
+
+msgid "webb_fi_bookmark_details_add"
+msgstr "ਸ਼ਾਮਲ ਕੀਤਾ"
+
+msgid "webb_fi_bookmark_details_use"
+msgstr "ਆਖਰੀ ਵਰਤੋਂ"
+
+msgid "webb_fi_folder_details_contents"
+msgstr "ਸਮੱਗਰੀ"
+
+msgid "webb_fi_folder_details_contents_01"
+msgstr "੧ ਬੁੱਕਮਾਰਕ"
+
+msgid "webb_fi_folder_details_contents_02"
+msgstr "੨ ਬੁੱਕਮਾਰਕ"
+
+msgid "webb_fi_folder_details_contents_0n"
+msgstr "%d ਬੁੱਕਮਾਰਕ"
+
+msgid "webb_fi_folder_details_contents_10"
+msgstr "੧ ਫੋਲਡਰ"
+
+msgid "webb_fi_folder_details_contents_1n"
+msgstr "੧ ਫੋਲਡਰ, %d ਬੁੱਕਮਾਰਕ"
+
+msgid "webb_fi_folder_details_contents_20"
+msgstr "੨ ਫੋਲਡਰ"
+
+msgid "webb_fi_folder_details_contents_2n"
+msgstr "੨ ਫੋਲਡਰ, %d ਬੁੱਕਮਾਰਕ"
+
+msgid "webb_fi_folder_details_contents_bookmark"
+msgid_plural "webb_fi_folder_details_contents_bookmars"
+msgstr[0] "%d ਬੁੱਕਮਾਰਕ"
+msgstr[1] "%d ਬੁੱਕਮਾਰਕ"
+
+msgid "webb_fi_folder_details_contents_folder"
+msgid_plural "webb_fi_folder_details_contents_folders"
+msgstr[0] "%d ਫੋਲਡਰ "
+msgstr[1] "%d ਫੋਲਡਰ "
+
+msgid "webb_fi_folder_details_contents_n0"
+msgstr "%d ਫੋਲਡਰ"
+
+msgid "webb_fi_folder_details_contents_n1"
+msgstr "%d ਫੋਲਡਰ, ੧ ਬੁੱਕਮਾਰਕ"
+
+msgid "webb_fi_folder_details_contents_n2"
+msgstr "%d ਫੋਲਡਰ, ੨ ਬੁੱਕਮਾਰਕ"
+
+msgid "webb_fi_folder_details_contents_nn"
+msgstr "%d ਫੋਲਡਰ, %d ਬੁੱਕਮਾਰਕ"
+
+msgid "webb_fi_folder_details_date"
+msgstr "ਸ਼ਾਮਲ ਕੀਤਾ"
+
+msgid "webb_fi_folder_details_time"
+msgstr "ਸੋਧ"
+
+msgid "webb_folder_imported_bookmarks"
+msgstr "ਇੰਪੋਰਟ ਕੀਤੇ ਬੁੱਕਮਾਰਕ"
+
+msgid "webb_folder_operator"
+msgstr "ਓਪਰੇਟਰ ਬੁੱਕਮਾਰਕ"
+
+msgid "webb_folder_root_user"
+msgstr "ਮੇਰੇ ਬੁੱਕਮਾਰਕ"
+
+msgid "webb_ia_cookie_after_sessions_ends"
+msgstr "ਸ਼ੈਸ਼ਨ ਖਤਮ ਹੋਣ ਦੇ ਬਾਅਦ"
+
+msgid "webb_ia_no_bookmarks_folders_to_show"
+msgstr "(ਕੋਈ ਬੁੱਕਮਾਰਕ/ਫੋਲਡਰ ਨਹੀਂ)"
+
+msgid "webb_ia_no_description"
+msgstr "(ਜਾਣਕਾਰੀ ਨਹੀਂ)"
+
+msgid "webb_ia_no_downloads"
+msgstr "(ਕੋਈ ਡਾਊਨਲੋਡ ਹੁੰਦੀ ਫਾਇਲ ਨਹੀਂ)"
+
+msgid "webb_ia_none"
+msgstr "ਨਹੀਂ"
+
+msgid "webb_ia_not_available"
+msgstr "ਉਪਲੱਬਧ ਹੈ"
+
+msgid "webb_ia_not_defined_in_html"
+msgstr "(ਬਿਨ-ਨਾਂ)"
+
+msgid "webb_ia_unknown"
+msgstr "ਅਣਜਾਣ"
+
+msgid "webb_ib_this_folder_cannot_be_renamed"
+msgstr "ਚੁਣੇ ਫੋਲਡਰ ਦਾ ਨਾਂ ਬਦਲਣ ਲਈ ਅਸਮਰੱਥ"
+
+msgid "webb_me_delete"
+msgstr "ਹਟਾਓ"
+
+msgid "webb_me_details"
+msgstr "ਵੇਰਵਾ"
+
+msgid "webb_me_file_edit"
+msgstr "ਸੋਧ"
+
+msgid "webb_me_impor"
+msgstr "ਬੁੱਕਮਾਰਕ ਇੰਪੋਰਟ ਕਰੋ"
+
+msgid "webb_me_move_to"
+msgstr "ਭੇਜੋ"
+
+msgid "webb_nc_delete_item_nr"
+msgid_plural "webb_nc_delete_item_nrs"
+msgstr[0] "'%s' ਹਟਾਉਣਾ?"
+msgstr[1] "ਚੁਣੀਆਂ %d ਆਈਟਮਾਂ ਹਟਾਓ?"
+
+msgid "webb_nc_replace_item_nr"
+msgid_plural "webb_nc_replace_item_nrs"
+msgstr[0] "Replace existing item of same name?"
+msgstr[1] "Replace existing %d items of same name?"
+
+msgid "webb_ni_change_save_target_location"
+msgstr "Unable to save to selected location.\nSave to device memory?"
+
+msgid "webb_ni_downloading_paused"
+msgstr "Not enough free memory on device.\nDownloading paused."
+
+msgid "webb_ni_invalid_bookmarks_file"
+msgstr "ਗਲਤ ਬੁੱਕਮਾਰਕ ਫਾਇਲ।\nਕੋਈ ਬੁੱਕਮਾਰਕ ਇੰਪੋਰਟ ਨਹੀਂ ਕੀਤਾ।"
+
+msgid "webb_ni_resuming_failed"
+msgstr "Resuming download failed.\nRestart downloading?"
+
+msgid "webb_ni_target_folder_not_available"
+msgstr "ਟਾਰਗੇਟ ਫੋਲਡਰ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।\nਹੋਰ ਫੋਲਡਰ 'ਚ ਸੰਭਾਲੋ।"
+
+msgid "webb_ni_target_location_not_available"
+msgstr "Target location not available.\nSave to local memory."
+
+msgid "webb_nw_deleting_bookmark"
+msgstr "ਹਟਾਇਆ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "webb_nw_importing_bookmark"
+msgstr "ਇੰਪੋਰਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "webb_nw_moving_bookmark"
+msgstr "ਭੇਜਿਆ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "webb_ti_bookmark_details_title"
+msgstr "ਬੁੱਕਮਾਰਕ ਵੇਰਵਾ"
+
+msgid "webb_ti_folder_details"
+msgstr "ਫੋਲਡਰ ਵੇਰਵਾ"
+
+msgid "webb_ti_selectbok"
+msgstr "ਬੁੱਕਮਾਰਕ ਚੁਣੋ"
