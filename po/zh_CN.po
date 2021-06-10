@@ -1,0 +1,830 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2012-05-30 14:39+0000\n"
+"Last-Translator: firstfan <firstfan@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "bookm_li_imported_bookmarksd"
+msgstr "导入%d个书签"
+
+msgid "bookm_ti_import_bookmarks"
+msgstr "导入书签"
+
+msgid "weba_ap_web_browser"
+msgstr "浏览器"
+
+msgid "weba_bd_cancel"
+msgstr "取消"
+
+msgid "weba_bd_certificate"
+msgstr "证书"
+
+msgid "weba_bd_close"
+msgstr "关闭"
+
+msgid "weba_bd_cookie_conf_accept"
+msgstr "确定"
+
+msgid "weba_bd_cookie_conf_reject"
+msgstr "拒绝"
+
+msgid "weba_bd_delete"
+msgstr "删除"
+
+msgid "weba_bd_details"
+msgstr "详情"
+
+msgid "weba_bd_download_open_with"
+msgstr "打开方式"
+
+msgid "weba_bd_download_save_to"
+msgstr "保存到设备"
+
+msgid "weba_bd_downloads_pause"
+msgstr "暂停"
+
+msgid "weba_bd_downloads_resume"
+msgstr "继续"
+
+msgid "weba_bd_geolocaton_allow"
+msgstr "允许"
+
+msgid "weba_bd_geolocaton_always"
+msgstr "这个网站总是允许"
+
+msgid "weba_bd_geolocaton_never"
+msgstr "不允许这个网站"
+
+msgid "weba_bd_moveto"
+msgstr "移动"
+
+msgid "weba_bd_never"
+msgstr "从不"
+
+msgid "weba_bd_not_now"
+msgstr "稍后"
+
+msgid "weba_bd_ok"
+msgstr "确定"
+
+msgid "weba_bd_select_clear_alll"
+msgstr "全部清除"
+
+msgid "weba_bd_stop"
+msgstr "停止"
+
+msgid "weba_db_clear"
+msgstr "清除"
+
+msgid "weba_fi_address"
+msgstr "地址"
+
+msgid "weba_fi_address_colon"
+msgstr "地址:"
+
+msgid "weba_fi_auhentication_password"
+msgstr "密码"
+
+msgid "weba_fi_auhentication_realm"
+msgstr "消息"
+
+msgid "weba_fi_auhentication_site"
+msgstr "服务器"
+
+msgid "weba_fi_auhentication_username"
+msgstr "用户名"
+
+msgid "weba_fi_authentivated"
+msgstr "已验证的会话"
+
+msgid "weba_fi_browsing_his"
+msgstr "历史记录"
+
+msgid "weba_fi_cache"
+msgstr "缓存"
+
+msgid "weba_fi_cookie_details_domain"
+msgstr "域名:"
+
+msgid "weba_fi_cookie_details_expiration"
+msgstr "过期:"
+
+msgid "weba_fi_cookie_details_path"
+msgstr "路径:"
+
+msgid "weba_fi_cookie_details_slash"
+msgstr "/"
+
+msgid "weba_fi_cookie_details_value"
+msgstr "值:"
+
+msgid "weba_fi_cookies"
+msgstr "Cookies"
+
+msgid "weba_fi_downloads_name"
+msgstr "名称"
+
+msgid "weba_fi_downloads_percentage"
+msgstr "已接收"
+
+msgid "weba_fi_downloads_size"
+msgstr "大小"
+
+msgid "weba_fi_encoding"
+msgstr "字符编码"
+
+msgid "weba_fi_geolocation"
+msgstr "地理标记权限"
+
+msgid "weba_fi_image_details_dimensions"
+msgstr "尺寸:"
+
+msgid "weba_fi_location"
+msgstr "位置"
+
+msgid "weba_fi_name"
+msgstr "名称"
+
+msgid "weba_fi_name_colon"
+msgstr "名称:"
+
+msgid "weba_fi_open_with_colon"
+msgstr "打开方式:"
+
+msgid "weba_fi_page_details_page_title"
+msgstr "标题:"
+
+msgid "weba_fi_page_details_security"
+msgstr "安全:"
+
+msgid "weba_fi_page_details_verification"
+msgstr "验证:"
+
+msgid "weba_fi_saved_pass"
+msgstr "已保存的密码"
+
+msgid "weba_fi_select_username_title"
+msgstr "选择用户名"
+
+msgid "weba_fi_settings_general_maxcache"
+msgstr "缓存大小"
+
+msgid "weba_fi_settings_plug_ins_enable_java_script"
+msgstr "启用 JavaScript"
+
+msgid "weba_fi_settings_privacy_accept_cookies"
+msgstr "接受 cookies"
+
+msgid "weba_fi_settings_privacy_enable_pop_up_windows"
+msgstr "启用弹出窗口"
+
+msgid "weba_fi_settings_privacy_password"
+msgstr "自动保存密码"
+
+msgid "weba_fi_size_colon"
+msgstr "大小:"
+
+msgid "weba_fi_type_colon"
+msgstr "类型:"
+
+msgid "weba_ib_closing_a_window_background"
+msgstr "关闭后台窗口"
+
+msgid "weba_ib_downloading_complete"
+msgstr "下载完成 %s"
+
+msgid "weba_ib_enter_location"
+msgstr "请先输入地址"
+
+msgid "weba_ib_flash_full"
+msgstr "按退格键退出全屏模式"
+
+msgid "weba_ib_invalid_username_or_password"
+msgstr "用户名或密码错误"
+
+msgid "weba_ib_opening_new_window"
+msgstr "正在打开新窗口"
+
+msgid "weba_ib_pop_up_window_blocked"
+msgstr "弹出窗口被屏蔽"
+
+msgid "weba_ib_secure_server"
+msgstr "%s 已由%s验证"
+
+msgid "weba_ib_select_update_first"
+msgstr "请先选择一个更新"
+
+msgid "weba_ib_some_cache_items_cannot_be_deleted"
+msgstr "部分缓存项目正在被使用,无法删除"
+
+msgid "weba_ib_target_not"
+msgstr "目标文件不可用"
+
+msgid "weba_ib_upload_failed"
+msgstr "上传失败"
+
+msgid "weba_li_history_list_item_name"
+msgstr "%s"
+
+msgid "weba_li_history_list_nr"
+msgid_plural "weba_li_history_list_nrs"
+msgstr[0] "%d 项目"
+
+msgid "weba_li_history_list_today"
+msgstr "今天"
+
+msgid "weba_li_history_list_yesterday"
+msgstr "昨天"
+
+msgid "weba_me_add"
+msgstr "添加网址"
+
+msgid "weba_me_add_bookmark"
+msgstr "添加到书签"
+
+msgid "weba_me_add_home"
+msgstr "添加到桌面快捷方式"
+
+msgid "weba_me_add_link"
+msgstr "添加到书签"
+
+msgid "weba_me_adjustview"
+msgstr "查看"
+
+msgid "weba_me_clear_privatedata"
+msgstr "清除隐私数据"
+
+msgid "weba_me_complete_his"
+msgstr "查看历史记录"
+
+msgid "weba_me_components"
+msgstr "附加组件"
+
+msgid "weba_me_copy"
+msgstr "复制"
+
+msgid "weba_me_copy_address"
+msgstr "复制链接地址"
+
+msgid "weba_me_copy_img_address"
+msgstr "复制图片地址"
+
+msgid "weba_me_details"
+msgstr "详情"
+
+msgid "weba_me_downloads"
+msgstr "下载"
+
+msgid "weba_me_find_on_page"
+msgstr "查找"
+
+msgid "weba_me_load_img"
+msgstr "载入图片"
+
+msgid "weba_me_new_window"
+msgstr "新建窗口"
+
+msgid "weba_me_open_bookmark_new_window"
+msgstr "在新窗口中打开"
+
+msgid "weba_me_open_in_new_window"
+msgstr "在新窗口中打开"
+
+msgid "weba_me_open_link_new_window"
+msgstr "在新窗口中打开"
+
+msgid "weba_me_openfile"
+msgstr "打开文件"
+
+msgid "weba_me_options"
+msgstr "选项"
+
+msgid "weba_me_paste"
+msgstr "粘贴"
+
+msgid "weba_me_reload"
+msgstr "重新载入"
+
+msgid "weba_me_rss"
+msgstr "订阅RSS源: %s"
+
+msgid "weba_me_save_img"
+msgstr "图片另存为"
+
+msgid "weba_me_save_link_as"
+msgstr "链接另存为"
+
+msgid "weba_me_save_page"
+msgstr "页面另存为"
+
+msgid "weba_me_settings"
+msgstr "设置"
+
+msgid "weba_nc_change_stored_password"
+msgstr "修改已存储的%s密码?"
+
+msgid "weba_nc_close"
+msgstr "页面没有响应.未保存的数据可能丢失."
+
+msgid "weba_nc_close_app_pause_load"
+msgstr "关闭程序并且\n暂停正在下载的项目?%s"
+
+msgid "weba_nc_close_app_pause_loads"
+msgstr "关闭程序并且\n暂停正在下载的项目?"
+
+msgid "weba_nc_delete_dowload"
+msgstr "删除下载?\n%s"
+
+msgid "weba_nc_geolocaton_dis"
+msgstr "这个网站"
+
+msgid "weba_nc_remember_credentials"
+msgstr "记住此网站的证书?"
+
+msgid "weba_save_as"
+msgstr "页面另存为"
+
+msgid "weba_search_list"
+msgstr "Google搜索: '%s'"
+
+msgid "weba_ti_add_adress"
+msgstr "添加网址"
+
+msgid "weba_ti_add_bookmark_title"
+msgstr "添加书签"
+
+msgid "weba_ti_adjuvi_met_showimg"
+msgstr "显示图片"
+
+msgid "weba_ti_adjuvi_title"
+msgstr "查看"
+
+msgid "weba_ti_auhentication_title"
+msgstr "认证"
+
+msgid "weba_ti_bookmarks"
+msgstr "书签"
+
+msgid "weba_ti_bookmarks_portrait"
+msgstr "书签"
+
+msgid "weba_ti_clear_privatedata"
+msgstr "清除隐私数据"
+
+msgid "weba_ti_compbrhis"
+msgstr "查看历史记录"
+
+msgid "weba_ti_cookie_conf"
+msgstr "Cookie 确认"
+
+msgid "weba_ti_cookie_conf_accept_nor"
+msgstr "接受/拒绝%s"
+
+msgid "weba_ti_cookie_conf_server"
+msgstr "接受来自相同服务器的全部 cookies"
+
+msgid "weba_ti_cookie_details_title"
+msgstr "Cookie 详情"
+
+msgid "weba_ti_deletebook"
+msgstr "选择书签"
+
+msgid "weba_ti_download_file_title"
+msgstr "文件下载"
+
+msgid "weba_ti_downloads_title"
+msgstr "下载"
+
+msgid "weba_ti_edit_bookmark_title"
+msgstr "编辑书签"
+
+msgid "weba_ti_edit_folder"
+msgstr "编辑文件夹"
+
+msgid "weba_ti_foldername"
+msgstr "%s"
+
+msgid "weba_ti_geolocoation"
+msgstr "地理标记"
+
+msgid "weba_ti_image_details_title"
+msgstr "图片详情"
+
+msgid "weba_ti_java_script_confirmation"
+msgstr "JavaScript 确认"
+
+msgid "weba_ti_java_script_prompt"
+msgstr "JavaScript 提示"
+
+msgid "weba_ti_javas_alert"
+msgstr "JavaScript 警告"
+
+msgid "weba_ti_options"
+msgstr "选项"
+
+msgid "weba_ti_page_details_title"
+msgstr "页面详情"
+
+msgid "weba_ti_recenthis"
+msgstr "最近访问历史"
+
+msgid "weba_ti_remeber_credentials"
+msgstr "保存密码"
+
+msgid "weba_ti_select_file_title"
+msgstr "选择文件"
+
+msgid "weba_ti_settings_browser"
+msgstr "浏览器"
+
+msgid "weba_ti_settings_content"
+msgstr "联系人"
+
+msgid "weba_ti_settings_title"
+msgstr "设置"
+
+msgid "weba_ti_texlist_single"
+msgstr "选择项目"
+
+msgid "weba_ti_text"
+msgstr "字体大小"
+
+msgid "weba_ti_textlist_multi"
+msgstr "选择项目"
+
+msgid "weba_ti_webstart"
+msgstr "浏览器"
+
+msgid "weba_ti_webstart_portrait"
+msgstr "网站"
+
+msgid "weba_va_always"
+msgstr "总是"
+
+msgid "weba_va_download_from"
+msgstr "从"
+
+msgid "weba_va_downloads_rec_kb"
+msgstr "%d kB"
+
+msgid "weba_va_downloads_rec_percent"
+msgstr "%d %%"
+
+msgid "weba_va_downloads_size_kb"
+msgstr "%.2f kB"
+
+msgid "weba_va_downloads_size_unknown"
+msgstr "–"
+
+msgid "weba_va_encoding_big5"
+msgstr "繁体中文 (Big5 I/II)"
+
+msgid "weba_va_encoding_euc_tw"
+msgstr "繁体中文 (EUC-TW)"
+
+msgid "weba_va_encoding_gb_18030"
+msgstr "简体中文 (GB18030)"
+
+msgid "weba_va_encoding_iso_2022_cn"
+msgstr "简体中文 (ISO-2022-CN)"
+
+msgid "weba_va_encoding_iso_8859_1"
+msgstr "西方 (ISO 8859-1)"
+
+msgid "weba_va_encoding_iso_8859_15"
+msgstr "西方 (ISO-8859-15)"
+
+msgid "weba_va_encoding_iso_8859_2"
+msgstr "东欧 (ISO 8859-2)"
+
+msgid "weba_va_encoding_iso_8859_7"
+msgstr "希腊语 (ISO 8859-7)"
+
+msgid "weba_va_encoding_iso_8859_9"
+msgstr "土耳其语 (ISO 8859-9)"
+
+msgid "weba_va_encoding_utf_16"
+msgstr "Unicode (UTF-16)"
+
+msgid "weba_va_encoding_utf_8"
+msgstr "Unicode (UTF-8)"
+
+msgid "weba_va_encoding_win_1250"
+msgstr "中欧 (Windows-1250)"
+
+msgid "weba_va_encoding_win_1251"
+msgstr "西里尔语 (Windows-1251)"
+
+msgid "weba_va_encoding_win_1253"
+msgstr "希腊语 (Windows-1253)"
+
+msgid "weba_va_encoding_win_1254"
+msgstr "土耳其语 (Windows-1254)"
+
+msgid "weba_va_encoding_win_koi_8r"
+msgstr "西里尔语 (KOI-8R)"
+
+msgid "weba_va_high"
+msgstr "高"
+
+msgid "weba_va_image_details_dim_px"
+msgstr "%1$d x %2$d 象素"
+
+msgid "weba_va_larger"
+msgstr "较大"
+
+msgid "weba_va_largest"
+msgstr "最大"
+
+msgid "weba_va_loaded"
+msgstr "已缓存的图片"
+
+msgid "weba_va_low"
+msgstr "低"
+
+msgid "weba_va_medium"
+msgstr "中等"
+
+msgid "weba_va_modal_dialog_abort"
+msgstr "终止"
+
+msgid "weba_va_modal_dialog_cancel"
+msgstr "取消"
+
+msgid "weba_va_modal_dialog_ignore"
+msgstr "忽略"
+
+msgid "weba_va_modal_dialog_no"
+msgstr "否"
+
+msgid "weba_va_modal_dialog_ok"
+msgstr "确定"
+
+msgid "weba_va_modal_dialog_retry"
+msgstr "重试?"
+
+msgid "weba_va_modal_dialog_yes"
+msgstr "是"
+
+msgid "weba_va_never"
+msgstr "从不"
+
+msgid "weba_va_normal"
+msgstr "正常"
+
+msgid "weba_va_not_secure"
+msgstr "连接未加密"
+
+msgid "weba_va_page_details_size_kb"
+msgstr "%.2f kB"
+
+msgid "weba_va_page_not_verified"
+msgstr "该页面未经验证"
+
+msgid "weba_va_save_complete"
+msgstr "完整的网页"
+
+msgid "weba_va_save_html_only"
+msgstr "仅限 HTML"
+
+msgid "weba_va_saved_password"
+msgstr "(已保存的密码)"
+
+msgid "weba_va_settings_autofocus"
+msgstr "自动激活地址栏"
+
+msgid "weba_va_settings_fullscreen"
+msgstr "默认以全屏方式打开页面"
+
+msgid "weba_va_settings_general_maxc_1024"
+msgstr "10 MB"
+
+msgid "weba_va_settings_general_maxc_2048"
+msgstr "20 MB"
+
+msgid "weba_va_settings_general_maxc_4096"
+msgstr "40 MB"
+
+msgid "weba_va_settings_general_maxc_512"
+msgstr "5 MB"
+
+msgid "weba_va_settings_general_maxc_aut"
+msgstr "自动"
+
+msgid "weba_va_settings_general_maxc_off"
+msgstr "关闭"
+
+msgid "weba_va_settings_geolocation"
+msgstr "地理定位"
+
+msgid "weba_va_settings_hwkeys"
+msgstr "音量调整键功能设定"
+
+msgid "weba_va_settings_hwkeys_volume"
+msgstr "调整音量"
+
+msgid "weba_va_settings_hwkeys_zoom"
+msgstr "缩放"
+
+msgid "weba_va_settings_javaflash"
+msgstr "允许暂停执行JavaScript"
+
+msgid "weba_va_settings_javaflash_immediately"
+msgstr "立即"
+
+msgid "weba_va_settings_javaflash_in15"
+msgstr "15 秒后"
+
+msgid "weba_va_settings_javaflash_in30"
+msgstr "30 秒后"
+
+msgid "weba_va_settings_javaflash_in60"
+msgstr "60 秒后"
+
+msgid "weba_va_settings_javaflash_not"
+msgstr "不要暂停"
+
+msgid "weba_va_settings_portrait"
+msgstr "启用竖屏支持"
+
+msgid "weba_va_settings_privacy_accept_cookies_always"
+msgstr "总是"
+
+msgid "weba_va_settings_privacy_accept_cookies_askfirst"
+msgstr "先询问"
+
+msgid "weba_va_settings_privacy_accept_cookies_never"
+msgstr "从不"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_always"
+msgstr "总是"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_askfirst"
+msgstr "仅要求"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_never"
+msgstr "从不"
+
+msgid "weba_yi_hisfolder"
+msgstr "%s"
+
+msgid "webb_fi_bookmark_details_add"
+msgstr "创建时间:"
+
+msgid "webb_fi_bookmark_details_use"
+msgstr "上次访问时间:"
+
+msgid "webb_fi_folder_details_contents"
+msgstr "内容:"
+
+msgid "webb_fi_folder_details_contents_01"
+msgstr "1 个书签"
+
+msgid "webb_fi_folder_details_contents_02"
+msgstr "2 个书签"
+
+msgid "webb_fi_folder_details_contents_0n"
+msgstr "%d 个书签"
+
+msgid "webb_fi_folder_details_contents_10"
+msgstr "1 个文件夹"
+
+msgid "webb_fi_folder_details_contents_1n"
+msgstr "1 个文件夹, %d 个书签"
+
+msgid "webb_fi_folder_details_contents_20"
+msgstr "2 个文件夹"
+
+msgid "webb_fi_folder_details_contents_2n"
+msgstr "2 个文件夹, %d 个书签"
+
+msgid "webb_fi_folder_details_contents_bookmark"
+msgid_plural "webb_fi_folder_details_contents_bookmars"
+msgstr[0] "%d 个书签"
+
+msgid "webb_fi_folder_details_contents_folder"
+msgid_plural "webb_fi_folder_details_contents_folders"
+msgstr[0] "%d 个文件夹"
+
+msgid "webb_fi_folder_details_contents_n0"
+msgstr "%d 个文件夹"
+
+msgid "webb_fi_folder_details_contents_n1"
+msgstr "%d 个文件夹, 1 个书签"
+
+msgid "webb_fi_folder_details_contents_n2"
+msgstr "%d 个文件夹, 2 个书签"
+
+msgid "webb_fi_folder_details_contents_nn"
+msgstr "%d 个文件夹, %d 个书签"
+
+msgid "webb_fi_folder_details_date"
+msgstr "创建时间:"
+
+msgid "webb_fi_folder_details_time"
+msgstr "修改时间:"
+
+msgid "webb_folder_imported_bookmarks"
+msgstr "导入的书签"
+
+msgid "webb_folder_operator"
+msgstr "预存书签"
+
+msgid "webb_folder_root_user"
+msgstr "我的书签"
+
+msgid "webb_ia_cookie_after_sessions_ends"
+msgstr "会话结束后"
+
+msgid "webb_ia_no_bookmarks_folders_to_show"
+msgstr "(没有书签/文件夹)"
+
+msgid "webb_ia_no_description"
+msgstr "(没有说明)"
+
+msgid "webb_ia_no_downloads"
+msgstr "(没有下载的文件)"
+
+msgid "webb_ia_none"
+msgstr "无"
+
+msgid "webb_ia_not_available"
+msgstr "不可用"
+
+msgid "webb_ia_not_defined_in_html"
+msgstr "(未定义标题)"
+
+msgid "webb_ia_unknown"
+msgstr "未知"
+
+msgid "webb_ib_this_folder_cannot_be_renamed"
+msgstr "无法为文件夹重定命"
+
+msgid "webb_me_delete"
+msgstr "删除书签"
+
+msgid "webb_me_details"
+msgstr "详情"
+
+msgid "webb_me_file_edit"
+msgstr "编辑"
+
+msgid "webb_me_impor"
+msgstr "导入"
+
+msgid "webb_me_move_to"
+msgstr "整理书签"
+
+msgid "webb_nc_delete_item_nr"
+msgid_plural "webb_nc_delete_item_nrs"
+msgstr[0] "删除 '%s'?"
+
+msgid "webb_nc_replace_item_nr"
+msgid_plural "webb_nc_replace_item_nrs"
+msgstr[0] "覆盖同名的项目?"
+
+msgid "webb_ni_change_save_target_location"
+msgstr "无法保存到选择的位置.\n保存到系统内存?"
+
+msgid "webb_ni_downloading_paused"
+msgstr "没有足够的可用空间.\n下载被暂停."
+
+msgid "webb_ni_invalid_bookmarks_file"
+msgstr "无法识别的书签.\n没有导入书签."
+
+msgid "webb_ni_resuming_failed"
+msgstr "续传失败.\n重新下载?"
+
+msgid "webb_ni_target_folder_not_available"
+msgstr "目标文件夹不可用.\n保存到其他文件夹."
+
+msgid "webb_ni_target_location_not_available"
+msgstr "目标位置不可用.\n保存到本地内存."
+
+msgid "webb_nw_deleting_bookmark"
+msgstr "正在删除"
+
+msgid "webb_nw_importing_bookmark"
+msgstr "正在导入"
+
+msgid "webb_nw_moving_bookmark"
+msgstr "正在移动"
+
+msgid "webb_ti_bookmark_details_title"
+msgstr "书签详情"
+
+msgid "webb_ti_folder_details"
+msgstr "文件夹详情"
+
+msgid "webb_ti_selectbok"
+msgstr "选择书签"
