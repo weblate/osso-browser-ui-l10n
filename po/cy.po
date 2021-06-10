@@ -1,0 +1,846 @@
+# 
+# Translators:
+# Geraint Rowlands <ansbaradigeidfran@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2012-02-07 10:32+0000\n"
+"Last-Translator: Geraint Rowlands <ansbaradigeidfran@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cy\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3\n"
+
+msgid "bookm_li_imported_bookmarksd"
+msgstr "Mewnforiwyd tudnodau (%d)"
+
+msgid "bookm_ti_import_bookmarks"
+msgstr "Mewnforio tudnodau"
+
+msgid "weba_ap_web_browser"
+msgstr "Gwe"
+
+msgid "weba_bd_cancel"
+msgstr "Canslo"
+
+msgid "weba_bd_certificate"
+msgstr "Tystysgrif"
+
+msgid "weba_bd_close"
+msgstr "Cau"
+
+msgid "weba_bd_cookie_conf_accept"
+msgstr "Derbyn"
+
+msgid "weba_bd_cookie_conf_reject"
+msgstr "Gwrthod"
+
+msgid "weba_bd_delete"
+msgstr "Dileu"
+
+msgid "weba_bd_details"
+msgstr "Manylon"
+
+msgid "weba_bd_download_open_with"
+msgstr "Agor gyda"
+
+msgid "weba_bd_download_save_to"
+msgstr "Cadw i'r dyfais"
+
+msgid "weba_bd_downloads_pause"
+msgstr "Oedi"
+
+msgid "weba_bd_downloads_resume"
+msgstr "Parhau"
+
+msgid "weba_bd_geolocaton_allow"
+msgstr "Caniatáu"
+
+msgid "weba_bd_geolocaton_always"
+msgstr "Caniatáu bob tro ar gyfer y wefan ma"
+
+msgid "weba_bd_geolocaton_never"
+msgstr "Gwrthod bob tro ar gyfer y wefan yma"
+
+msgid "weba_bd_moveto"
+msgstr "Symud"
+
+msgid "weba_bd_never"
+msgstr "Byth"
+
+msgid "weba_bd_not_now"
+msgstr "Ddim yn awr"
+
+msgid "weba_bd_ok"
+msgstr "Iawn"
+
+msgid "weba_bd_select_clear_alll"
+msgstr "Clirio oll"
+
+msgid "weba_bd_stop"
+msgstr "Atal"
+
+msgid "weba_db_clear"
+msgstr "Clirio"
+
+msgid "weba_fi_address"
+msgstr "Cyfeiriad"
+
+msgid "weba_fi_address_colon"
+msgstr "Cyfeiriad"
+
+msgid "weba_fi_auhentication_password"
+msgstr "Cyfrinair"
+
+msgid "weba_fi_auhentication_realm"
+msgstr "Neges"
+
+msgid "weba_fi_auhentication_site"
+msgstr "Gweinydd"
+
+msgid "weba_fi_auhentication_username"
+msgstr "Enw defnyddiwr"
+
+msgid "weba_fi_authentivated"
+msgstr "Sesiynau awdurdodedig"
+
+msgid "weba_fi_browsing_his"
+msgstr "Pori hanes"
+
+msgid "weba_fi_cache"
+msgstr "Storfa"
+
+msgid "weba_fi_cookie_details_domain"
+msgstr "Parth"
+
+msgid "weba_fi_cookie_details_expiration"
+msgstr "Yn dirwyn"
+
+msgid "weba_fi_cookie_details_path"
+msgstr "Llwybr"
+
+msgid "weba_fi_cookie_details_slash"
+msgstr "/"
+
+msgid "weba_fi_cookie_details_value"
+msgstr "Gwerth"
+
+msgid "weba_fi_cookies"
+msgstr "Cwcis"
+
+msgid "weba_fi_downloads_name"
+msgstr "Enw"
+
+msgid "weba_fi_downloads_percentage"
+msgstr "Derbyniwyd"
+
+msgid "weba_fi_downloads_size"
+msgstr "Maint"
+
+msgid "weba_fi_encoding"
+msgstr "Amgodiad"
+
+msgid "weba_fi_geolocation"
+msgstr "Caniatád lleoli"
+
+msgid "weba_fi_image_details_dimensions"
+msgstr "Dimensiynau"
+
+msgid "weba_fi_location"
+msgstr "Lleoliad"
+
+msgid "weba_fi_name"
+msgstr "Enw"
+
+msgid "weba_fi_name_colon"
+msgstr "Enw"
+
+msgid "weba_fi_open_with_colon"
+msgstr "Agor gyda:"
+
+msgid "weba_fi_page_details_page_title"
+msgstr "Teitl"
+
+msgid "weba_fi_page_details_security"
+msgstr "Diogelwch"
+
+msgid "weba_fi_page_details_verification"
+msgstr "Gwireddu"
+
+msgid "weba_fi_saved_pass"
+msgstr "Cyfrineiriau a gadwyd"
+
+msgid "weba_fi_select_username_title"
+msgstr "Dewis enw defnyddiwr"
+
+msgid "weba_fi_settings_general_maxcache"
+msgstr "Maint storfa cof"
+
+msgid "weba_fi_settings_plug_ins_enable_java_script"
+msgstr "Galluogi JavaScript"
+
+msgid "weba_fi_settings_privacy_accept_cookies"
+msgstr "Derbyn cwcis"
+
+msgid "weba_fi_settings_privacy_enable_pop_up_windows"
+msgstr "Agor llamlenni"
+
+msgid "weba_fi_settings_privacy_password"
+msgstr "Galluogi cadw cyfrineiriau"
+
+msgid "weba_fi_size_colon"
+msgstr "Maint"
+
+msgid "weba_fi_type_colon"
+msgstr "Math"
+
+msgid "weba_ib_closing_a_window_background"
+msgstr "Yn cau ffenest yn y cefndir"
+
+msgid "weba_ib_downloading_complete"
+msgstr "Gorffennwyd lawrlwytho %s"
+
+msgid "weba_ib_enter_location"
+msgstr "Rhowch gyfeiriad yn gyntaf"
+
+msgid "weba_ib_flash_full"
+msgstr "Pwyswch ôl-fwlch i adael modd sgrîn llawn"
+
+msgid "weba_ib_invalid_username_or_password"
+msgstr "Enw defnyddiwr neu gyfrinair annilys"
+
+msgid "weba_ib_opening_new_window"
+msgstr "Yn agor ffenest newydd"
+
+msgid "weba_ib_pop_up_window_blocked"
+msgstr "Rhwystrwyd llamlen"
+
+msgid "weba_ib_secure_server"
+msgstr "Gwiriwyd %s gan %s"
+
+msgid "weba_ib_select_update_first"
+msgstr "Dewiswch diweddariad yn gyntaf"
+
+msgid "weba_ib_some_cache_items_cannot_be_deleted"
+msgstr "Mae rhai eitemau storfa mewn defnydd. Methu eu dileu."
+
+msgid "weba_ib_target_not"
+msgstr "Nid yw'r ffeil targed ar gael"
+
+msgid "weba_ib_upload_failed"
+msgstr "Methodd y lanlwythiad"
+
+msgid "weba_li_history_list_item_name"
+msgstr "%s"
+
+msgid "weba_li_history_list_nr"
+msgid_plural "weba_li_history_list_nrs"
+msgstr[0] "%d eitem"
+msgstr[1] "%d eitem"
+msgstr[2] "%d eitem"
+msgstr[3] "%d eitem"
+
+msgid "weba_li_history_list_today"
+msgstr "Heddiw"
+
+msgid "weba_li_history_list_yesterday"
+msgstr "Ddoe"
+
+msgid "weba_me_add"
+msgstr "Ychwanegu cyfeiriad"
+
+msgid "weba_me_add_bookmark"
+msgstr "Ychwanegu at tudnodau"
+
+msgid "weba_me_add_home"
+msgstr "Creu byrlwybr ar y penfwrdd"
+
+msgid "weba_me_add_link"
+msgstr "Ychwanegu tudnod"
+
+msgid "weba_me_adjustview"
+msgstr "Addasu golwg"
+
+msgid "weba_me_clear_privatedata"
+msgstr "Clirio data preifat"
+
+msgid "weba_me_complete_his"
+msgstr "Hanes pori llawn"
+
+msgid "weba_me_components"
+msgstr "Ategolion"
+
+msgid "weba_me_copy"
+msgstr "Copïo"
+
+msgid "weba_me_copy_address"
+msgstr "Copïo cyfeiriad cyswllt"
+
+msgid "weba_me_copy_img_address"
+msgstr "Copïo cyfeiriad llun"
+
+msgid "weba_me_details"
+msgstr "Manylion"
+
+msgid "weba_me_downloads"
+msgstr "Llawrlwythi"
+
+msgid "weba_me_find_on_page"
+msgstr "Canfod ar y dudalen"
+
+msgid "weba_me_load_img"
+msgstr "Llwytho llun"
+
+msgid "weba_me_new_window"
+msgstr "Ffenest newydd"
+
+msgid "weba_me_open_bookmark_new_window"
+msgstr "Agor mewn ffenest newydd"
+
+msgid "weba_me_open_in_new_window"
+msgstr "Agor mewn ffenest newydd"
+
+msgid "weba_me_open_link_new_window"
+msgstr "Agor cyswllt mewn ffenest newydd"
+
+msgid "weba_me_openfile"
+msgstr "Agor ffeil"
+
+msgid "weba_me_options"
+msgstr "Dewisiadau"
+
+msgid "weba_me_paste"
+msgstr "Gludo"
+
+msgid "weba_me_reload"
+msgstr "Ail-lwytho"
+
+msgid "weba_me_rss"
+msgstr "Tanysgrifio at ffrwd: %s"
+
+msgid "weba_me_save_img"
+msgstr "Cadw llun fel"
+
+msgid "weba_me_save_link_as"
+msgstr "Cadw cyswllt fel"
+
+msgid "weba_me_save_page"
+msgstr "Cadw tudalen fel"
+
+msgid "weba_me_settings"
+msgstr "Gosodiadau"
+
+msgid "weba_nc_change_stored_password"
+msgstr "Newid y gyfrinair a storiwyd ar gyfer %s?"
+
+msgid "weba_nc_close"
+msgstr "Tudalen gwe ddim yn ymateb. Gorfodi'r ffenest i gau? Mae modd y collir data heb ei gadw."
+
+msgid "weba_nc_close_app_pause_load"
+msgstr "Cau'r rhaglen ac oedi'r lawrlwythiad sydd ar waith? %s"
+
+msgid "weba_nc_close_app_pause_loads"
+msgstr "Cau'r rhaglen ac oedi'r lawrlwythiadau sydd ar waith?"
+
+msgid "weba_nc_delete_dowload"
+msgstr "Dileu lawrlwythiad? %s"
+
+msgid "weba_nc_geolocaton_dis"
+msgstr "Mae'r wefan yma eisiau gwybod eich lleoliad"
+
+msgid "weba_nc_remember_credentials"
+msgstr "Cofio cymwysterau ar gyfer y wefan yma?"
+
+msgid "weba_save_as"
+msgstr "Cadw tudalen fel"
+
+msgid "weba_search_list"
+msgstr "Chwiliad Google: '%s'"
+
+msgid "weba_ti_add_adress"
+msgstr "Ychwanegu cyfeiriad"
+
+msgid "weba_ti_add_bookmark_title"
+msgstr "Ychwanegu tudnod"
+
+msgid "weba_ti_adjuvi_met_showimg"
+msgstr "Dangos lluniau"
+
+msgid "weba_ti_adjuvi_title"
+msgstr "Addasu golwg"
+
+msgid "weba_ti_auhentication_title"
+msgstr "Dilysu"
+
+msgid "weba_ti_bookmarks"
+msgstr "Tudnodau"
+
+msgid "weba_ti_bookmarks_portrait"
+msgstr "Tudnodau"
+
+msgid "weba_ti_clear_privatedata"
+msgstr "Clirio data preifat"
+
+msgid "weba_ti_compbrhis"
+msgstr "Hanes pori llawn"
+
+msgid "weba_ti_cookie_conf"
+msgstr "Cadarnhau cwci"
+
+msgid "weba_ti_cookie_conf_accept_nor"
+msgstr "Derbyn cwci? %s"
+
+msgid "weba_ti_cookie_conf_server"
+msgstr "Gwneud ar gyfer pob cwci o'r un gweinydd"
+
+msgid "weba_ti_cookie_details_title"
+msgstr "Manylion cwci"
+
+msgid "weba_ti_deletebook"
+msgstr "Dewis tudnodau"
+
+msgid "weba_ti_download_file_title"
+msgstr "Llawrlwytho ffeil"
+
+msgid "weba_ti_downloads_title"
+msgstr "Llawrlwythiadau"
+
+msgid "weba_ti_edit_bookmark_title"
+msgstr "Golygu tudnod"
+
+msgid "weba_ti_edit_folder"
+msgstr "Golygu ffolder"
+
+msgid "weba_ti_foldername"
+msgstr "%s"
+
+msgid "weba_ti_geolocoation"
+msgstr "Lleoli"
+
+msgid "weba_ti_image_details_title"
+msgstr "Manylion llun"
+
+msgid "weba_ti_java_script_confirmation"
+msgstr "Cadarnhad JavaScript"
+
+msgid "weba_ti_java_script_prompt"
+msgstr "Anogwr JavaScript"
+
+msgid "weba_ti_javas_alert"
+msgstr "Rhybudd JavaScript"
+
+msgid "weba_ti_options"
+msgstr "Opsiynau"
+
+msgid "weba_ti_page_details_title"
+msgstr "Manylion tudalen"
+
+msgid "weba_ti_recenthis"
+msgstr "Hanes diweddar"
+
+msgid "weba_ti_remeber_credentials"
+msgstr "Cofio cyfrinair"
+
+msgid "weba_ti_select_file_title"
+msgstr "Dewis ffeil"
+
+msgid "weba_ti_settings_browser"
+msgstr "Porwr"
+
+msgid "weba_ti_settings_content"
+msgstr "Cynnwys"
+
+msgid "weba_ti_settings_title"
+msgstr "Gosodiadau"
+
+msgid "weba_ti_texlist_single"
+msgstr "Dewis eitem"
+
+msgid "weba_ti_text"
+msgstr "Main testun"
+
+msgid "weba_ti_textlist_multi"
+msgstr "Dewis eitemau"
+
+msgid "weba_ti_webstart"
+msgstr "Gwe"
+
+msgid "weba_ti_webstart_portrait"
+msgstr "Gwe"
+
+msgid "weba_va_always"
+msgstr "Wastad"
+
+msgid "weba_va_download_from"
+msgstr "O"
+
+msgid "weba_va_downloads_rec_kb"
+msgstr "%d kB"
+
+msgid "weba_va_downloads_rec_percent"
+msgstr "%d %%"
+
+msgid "weba_va_downloads_size_kb"
+msgstr "%.2f kB"
+
+msgid "weba_va_downloads_size_unknown"
+msgstr "-"
+
+msgid "weba_va_encoding_big5"
+msgstr "Tsieineaidd, Traddodiadol (Big5 I/II)"
+
+msgid "weba_va_encoding_euc_tw"
+msgstr "Tsieineaidd, Traddodiadol (EUC-TW)"
+
+msgid "weba_va_encoding_gb_18030"
+msgstr "Tsieineaidd, Syml (GB18030)"
+
+msgid "weba_va_encoding_iso_2022_cn"
+msgstr "Tsieineaidd, Syml (ISO 2022-CN)"
+
+msgid "weba_va_encoding_iso_8859_1"
+msgstr "Lladin (ISO 8859-1)"
+
+msgid "weba_va_encoding_iso_8859_15"
+msgstr "Lladin estynedig (ISO 8859-15)"
+
+msgid "weba_va_encoding_iso_8859_2"
+msgstr "Canol Ewrop (ISO 8859-2)"
+
+msgid "weba_va_encoding_iso_8859_7"
+msgstr "Groegaidd (ISO 8859-7)"
+
+msgid "weba_va_encoding_iso_8859_9"
+msgstr "Twrcaidd (ISO 8859-9)"
+
+msgid "weba_va_encoding_utf_16"
+msgstr "Unicode (UTF-16)"
+
+msgid "weba_va_encoding_utf_8"
+msgstr "Unicode (UTF-8)"
+
+msgid "weba_va_encoding_win_1250"
+msgstr "Canol Ewrop (Windows-1250)"
+
+msgid "weba_va_encoding_win_1251"
+msgstr "Syrilig (Windows-1251)"
+
+msgid "weba_va_encoding_win_1253"
+msgstr "Groegaidd (Windows-1253)"
+
+msgid "weba_va_encoding_win_1254"
+msgstr "Twrcaidd (Windows-1254)"
+
+msgid "weba_va_encoding_win_koi_8r"
+msgstr "Syrilig (KOI-8R)"
+
+msgid "weba_va_high"
+msgstr "Uchel"
+
+msgid "weba_va_image_details_dim_px"
+msgstr "%1$d x %2$d picsel"
+
+msgid "weba_va_larger"
+msgstr "Mawr"
+
+msgid "weba_va_largest"
+msgstr "Mawr iawn"
+
+msgid "weba_va_loaded"
+msgstr "Eisoes yn y storfa"
+
+msgid "weba_va_low"
+msgstr "Isel"
+
+msgid "weba_va_medium"
+msgstr "Canolig"
+
+msgid "weba_va_modal_dialog_abort"
+msgstr "Erthylu"
+
+msgid "weba_va_modal_dialog_cancel"
+msgstr "Atal"
+
+msgid "weba_va_modal_dialog_ignore"
+msgstr "Anwybyddu"
+
+msgid "weba_va_modal_dialog_no"
+msgstr "Na"
+
+msgid "weba_va_modal_dialog_ok"
+msgstr "Iawn"
+
+msgid "weba_va_modal_dialog_retry"
+msgstr "Ceisio eto?"
+
+msgid "weba_va_modal_dialog_yes"
+msgstr "Ia"
+
+msgid "weba_va_never"
+msgstr "Byth"
+
+msgid "weba_va_normal"
+msgstr "Arferol"
+
+msgid "weba_va_not_secure"
+msgstr "Tudalen heb ei ddiogelu"
+
+msgid "weba_va_page_details_size_kb"
+msgstr "%.2f kB"
+
+msgid "weba_va_page_not_verified"
+msgstr "Dynodiad y wefan heb ei wireddu"
+
+msgid "weba_va_save_complete"
+msgstr "Gwefan cyflawn"
+
+msgid "weba_va_save_html_only"
+msgstr "HTML yn unig"
+
+msgid "weba_va_saved_password"
+msgstr "(cyfrinair wedi ei gadw)"
+
+msgid "weba_va_settings_autofocus"
+msgstr "Ffocysu'r maes cyfeiriad yn ddiofyn"
+
+msgid "weba_va_settings_fullscreen"
+msgstr "Agor yn gyntaf fel sgrin lawn"
+
+msgid "weba_va_settings_general_maxc_1024"
+msgstr "10 MB"
+
+msgid "weba_va_settings_general_maxc_2048"
+msgstr "20 MB"
+
+msgid "weba_va_settings_general_maxc_4096"
+msgstr "40 MB"
+
+msgid "weba_va_settings_general_maxc_512"
+msgstr "5 MB"
+
+msgid "weba_va_settings_general_maxc_aut"
+msgstr "Terfyn addasadwy"
+
+msgid "weba_va_settings_general_maxc_off"
+msgstr "I ffwrdd"
+
+msgid "weba_va_settings_geolocation"
+msgstr "Lleoli"
+
+msgid "weba_va_settings_hwkeys"
+msgstr "Defnyddio allweddi mwyhau a lleihau ar gyfer"
+
+msgid "weba_va_settings_hwkeys_volume"
+msgstr "Lefel Sain"
+
+msgid "weba_va_settings_hwkeys_zoom"
+msgstr "Mwyhau'r dudalen"
+
+msgid "weba_va_settings_javaflash"
+msgstr "Caniatáu oedi JavaScript"
+
+msgid "weba_va_settings_javaflash_immediately"
+msgstr "ar unwaith"
+
+msgid "weba_va_settings_javaflash_in15"
+msgstr "wedi 15 eiliad"
+
+msgid "weba_va_settings_javaflash_in30"
+msgstr "wedi 30 eiliad"
+
+msgid "weba_va_settings_javaflash_in60"
+msgstr "wedi 60 eiliad"
+
+msgid "weba_va_settings_javaflash_not"
+msgstr "Peidio oedi"
+
+msgid "weba_va_settings_portrait"
+msgstr "Galluogi troi"
+
+msgid "weba_va_settings_privacy_accept_cookies_always"
+msgstr "Wastad"
+
+msgid "weba_va_settings_privacy_accept_cookies_askfirst"
+msgstr "Gofyn yn gyntaf"
+
+msgid "weba_va_settings_privacy_accept_cookies_never"
+msgstr "Byth"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_always"
+msgstr "Wastad"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_askfirst"
+msgstr "Ond rhai a geisiwyd"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_never"
+msgstr "Byth"
+
+msgid "weba_yi_hisfolder"
+msgstr "%s"
+
+msgid "webb_fi_bookmark_details_add"
+msgstr "Ychwanegwyd"
+
+msgid "webb_fi_bookmark_details_use"
+msgstr "Defnyddiwyd olaf"
+
+msgid "webb_fi_folder_details_contents"
+msgstr "Cynnwys"
+
+msgid "webb_fi_folder_details_contents_01"
+msgstr "1 tudnod"
+
+msgid "webb_fi_folder_details_contents_02"
+msgstr "2 tudnod"
+
+msgid "webb_fi_folder_details_contents_0n"
+msgstr "%d tudnod"
+
+msgid "webb_fi_folder_details_contents_10"
+msgstr "1 ffolder"
+
+msgid "webb_fi_folder_details_contents_1n"
+msgstr "1 ffolder, %d tudnod"
+
+msgid "webb_fi_folder_details_contents_20"
+msgstr "2 ffolder"
+
+msgid "webb_fi_folder_details_contents_2n"
+msgstr "2 ffolder, %d tudnod"
+
+msgid "webb_fi_folder_details_contents_bookmark"
+msgid_plural "webb_fi_folder_details_contents_bookmars"
+msgstr[0] "%d tudnod"
+msgstr[1] "%d tudnod"
+msgstr[2] "%d tudnod"
+msgstr[3] "%d tudnod"
+
+msgid "webb_fi_folder_details_contents_folder"
+msgid_plural "webb_fi_folder_details_contents_folders"
+msgstr[0] "%d ffolder"
+msgstr[1] "%d ffolder"
+msgstr[2] "%d ffolder"
+msgstr[3] "%d ffolder"
+
+msgid "webb_fi_folder_details_contents_n0"
+msgstr "%d ffolder"
+
+msgid "webb_fi_folder_details_contents_n1"
+msgstr "%d ffolder, 1 tudnod"
+
+msgid "webb_fi_folder_details_contents_n2"
+msgstr "%d ffolder, 2 tudnod"
+
+msgid "webb_fi_folder_details_contents_nn"
+msgstr "%d ffolder, %d tudnod"
+
+msgid "webb_fi_folder_details_date"
+msgstr "Ychwanegwyd"
+
+msgid "webb_fi_folder_details_time"
+msgstr "Addaswyd"
+
+msgid "webb_folder_imported_bookmarks"
+msgstr "Tudnodau a fewnforiwyd"
+
+msgid "webb_folder_operator"
+msgstr "Tudnodau rhwydwaith"
+
+msgid "webb_folder_root_user"
+msgstr "Fy nhudnodau"
+
+msgid "webb_ia_cookie_after_sessions_ends"
+msgstr "Wedi diwedd y sesiwn"
+
+msgid "webb_ia_no_bookmarks_folders_to_show"
+msgstr "(dim tudnodau/ffolderi)"
+
+msgid "webb_ia_no_description"
+msgstr "(dim disgrifiad)"
+
+msgid "webb_ia_no_downloads"
+msgstr "(dim ffeiliau'n llawrlwytho)"
+
+msgid "webb_ia_none"
+msgstr "Dim"
+
+msgid "webb_ia_not_available"
+msgstr "Ddim ar gael"
+
+msgid "webb_ia_not_defined_in_html"
+msgstr "(di-deitl)"
+
+msgid "webb_ia_unknown"
+msgstr "Anhysbys"
+
+msgid "webb_ib_this_folder_cannot_be_renamed"
+msgstr "Methu ailenwi'r ffolder a ddewiswyd"
+
+msgid "webb_me_delete"
+msgstr "Dileu"
+
+msgid "webb_me_details"
+msgstr "Manylion"
+
+msgid "webb_me_file_edit"
+msgstr "Golygu"
+
+msgid "webb_me_impor"
+msgstr "Mewnforio tudnodau"
+
+msgid "webb_me_move_to"
+msgstr "Symud"
+
+msgid "webb_nc_delete_item_nr"
+msgid_plural "webb_nc_delete_item_nrs"
+msgstr[0] "Dileu '%s'?"
+msgstr[1] "Dileu %d eitem a ddewiswyd?"
+msgstr[2] "Dileu %d eitem a ddewiswyd?"
+msgstr[3] "Dileu %d eitem a ddewiswyd?"
+
+msgid "webb_nc_replace_item_nr"
+msgid_plural "webb_nc_replace_item_nrs"
+msgstr[0] "Amnewid eitem o'r un enw?"
+msgstr[1] "Amnewid %d eitem o'r un enw?"
+msgstr[2] "Amnewid %d eitem o'r un enw?"
+msgstr[3] "Amnewid %d eitem o'r un enw?"
+
+msgid "webb_ni_change_save_target_location"
+msgstr "Methu cadw yn y lleoliad a ddynodwyd. Cadw at gof y dyfais?"
+
+msgid "webb_ni_downloading_paused"
+msgstr "Diffyg cof rhydd ar y dyfais. Oedwyd y llawrlwythiad."
+
+msgid "webb_ni_invalid_bookmarks_file"
+msgstr "Ffeil tudnod annilys. Ni fewnforiwyd tudnodau."
+
+msgid "webb_ni_resuming_failed"
+msgstr "Methwyd parhau a'r llawrlwythiad. Ailddechrau lawrlwytho?"
+
+msgid "webb_ni_target_folder_not_available"
+msgstr "Ffolder targed ddim ar gael. Cadwch at ffolder arall."
+
+msgid "webb_ni_target_location_not_available"
+msgstr "Lleoliad targed ddim ar gael. Cadwch at gof lleol."
+
+msgid "webb_nw_deleting_bookmark"
+msgstr "Yn dileu"
+
+msgid "webb_nw_importing_bookmark"
+msgstr "Yn mewnforio"
+
+msgid "webb_nw_moving_bookmark"
+msgstr "Yn symud"
+
+msgid "webb_ti_bookmark_details_title"
+msgstr "Manylion tudnod"
+
+msgid "webb_ti_folder_details"
+msgstr "Manylion ffolder"
+
+msgid "webb_ti_selectbok"
+msgstr "Dewis tudnodau"
