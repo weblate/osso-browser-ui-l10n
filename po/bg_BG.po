@@ -1,0 +1,835 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2010-11-30 11:37+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bulgarian (http://www.transifex.net/projects/p/n900-extra-translations/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "bookm_li_imported_bookmarksd"
+msgstr "Добавени отметки (%d)"
+
+msgid "bookm_ti_import_bookmarks"
+msgstr "Добавяне на отметки"
+
+msgid "weba_ap_web_browser"
+msgstr "Интернет"
+
+msgid "weba_bd_cancel"
+msgstr "Отказване"
+
+msgid "weba_bd_certificate"
+msgstr "Сертификат"
+
+msgid "weba_bd_close"
+msgstr "Затваряне"
+
+msgid "weba_bd_cookie_conf_accept"
+msgstr "Потвърждаване"
+
+msgid "weba_bd_cookie_conf_reject"
+msgstr "Отказване"
+
+msgid "weba_bd_delete"
+msgstr "Изтриване"
+
+msgid "weba_bd_details"
+msgstr "Детайли"
+
+msgid "weba_bd_download_open_with"
+msgstr "Отваряне с"
+
+msgid "weba_bd_download_save_to"
+msgstr "Запис върху устройство"
+
+msgid "weba_bd_downloads_pause"
+msgstr "Пауза"
+
+msgid "weba_bd_downloads_resume"
+msgstr "Продължение"
+
+msgid "weba_bd_geolocaton_allow"
+msgstr "Разрешаване"
+
+msgid "weba_bd_geolocaton_always"
+msgstr "Винаги разрешаване за този сайт"
+
+msgid "weba_bd_geolocaton_never"
+msgstr "Винаги забраняване за този сайт"
+
+msgid "weba_bd_moveto"
+msgstr "Преместване"
+
+msgid "weba_bd_never"
+msgstr "Никога"
+
+msgid "weba_bd_not_now"
+msgstr "Не сега"
+
+msgid "weba_bd_ok"
+msgstr "Добре"
+
+msgid "weba_bd_select_clear_alll"
+msgstr "Изчистване на всичко"
+
+msgid "weba_bd_stop"
+msgstr "Стоп"
+
+msgid "weba_db_clear"
+msgstr "Изчистване"
+
+msgid "weba_fi_address"
+msgstr "Адрес"
+
+msgid "weba_fi_address_colon"
+msgstr "Адрес"
+
+msgid "weba_fi_auhentication_password"
+msgstr "Парола"
+
+msgid "weba_fi_auhentication_realm"
+msgstr "Зона"
+
+msgid "weba_fi_auhentication_site"
+msgstr "Страница"
+
+msgid "weba_fi_auhentication_username"
+msgstr "Потребителско име"
+
+msgid "weba_fi_authentivated"
+msgstr "Удостоверени сесии"
+
+msgid "weba_fi_browsing_his"
+msgstr "История на браузъра"
+
+msgid "weba_fi_cache"
+msgstr "Кеш"
+
+msgid "weba_fi_cookie_details_domain"
+msgstr "Домейн"
+
+msgid "weba_fi_cookie_details_expiration"
+msgstr "Валидност"
+
+msgid "weba_fi_cookie_details_path"
+msgstr "Път"
+
+msgid "weba_fi_cookie_details_slash"
+msgstr "/"
+
+msgid "weba_fi_cookie_details_value"
+msgstr "Стойност"
+
+msgid "weba_fi_cookies"
+msgstr "Бисквитки"
+
+msgid "weba_fi_downloads_name"
+msgstr "Име"
+
+msgid "weba_fi_downloads_percentage"
+msgstr "До сега"
+
+msgid "weba_fi_downloads_size"
+msgstr "Размер"
+
+msgid "weba_fi_encoding"
+msgstr "Кодова таблица"
+
+msgid "weba_fi_geolocation"
+msgstr "Права на геолокализирането"
+
+msgid "weba_fi_image_details_dimensions"
+msgstr "Размери"
+
+msgid "weba_fi_location"
+msgstr "Интернет адрес"
+
+msgid "weba_fi_name"
+msgstr "Име"
+
+msgid "weba_fi_name_colon"
+msgstr "Име"
+
+msgid "weba_fi_open_with_colon"
+msgstr "Отваряне с:"
+
+msgid "weba_fi_page_details_page_title"
+msgstr "Заглавие"
+
+msgid "weba_fi_page_details_security"
+msgstr "Сигурност"
+
+msgid "weba_fi_page_details_verification"
+msgstr "Удостоверение"
+
+msgid "weba_fi_saved_pass"
+msgstr "Запазени пароли"
+
+msgid "weba_fi_select_username_title"
+msgstr "Изберете потребителско име"
+
+msgid "weba_fi_settings_general_maxcache"
+msgstr "Размер на кеша в паметта"
+
+msgid "weba_fi_settings_plug_ins_enable_java_script"
+msgstr "Разрешаване на JavaScript"
+
+msgid "weba_fi_settings_privacy_accept_cookies"
+msgstr "Приемане на бисквитки"
+
+msgid "weba_fi_settings_privacy_enable_pop_up_windows"
+msgstr "Изкачащи прозорци"
+
+msgid "weba_fi_settings_privacy_password"
+msgstr "Разрешаване на запазени пароли"
+
+msgid "weba_fi_size_colon"
+msgstr "Размер"
+
+msgid "weba_fi_type_colon"
+msgstr "Тип"
+
+msgid "weba_ib_closing_a_window_background"
+msgstr "Затваряне на прозорец на заден план"
+
+msgid "weba_ib_downloading_complete"
+msgstr "Изтеглянето на %s завършено"
+
+msgid "weba_ib_enter_location"
+msgstr "Въведете адрес първо"
+
+msgid "weba_ib_flash_full"
+msgstr "За да излезете от цял екран натиснете backspace"
+
+msgid "weba_ib_invalid_username_or_password"
+msgstr "Невалидно потребителско име или парола"
+
+msgid "weba_ib_opening_new_window"
+msgstr "Отваряне на нов прозорец"
+
+msgid "weba_ib_pop_up_window_blocked"
+msgstr "Блокиран е изкачащ прозорец"
+
+msgid "weba_ib_secure_server"
+msgstr "%s e удостоверен от %s"
+
+msgid "weba_ib_select_update_first"
+msgstr "Първо изберете обновления"
+
+msgid "weba_ib_some_cache_items_cannot_be_deleted"
+msgstr "Някой части на кеша се използват. Не могат да бъдат изтрити."
+
+msgid "weba_ib_target_not"
+msgstr "Посоченият файл е недостъпен"
+
+msgid "weba_ib_upload_failed"
+msgstr "Качването е неуспешно"
+
+msgid "weba_li_history_list_item_name"
+msgstr "%s"
+
+msgid "weba_li_history_list_nr"
+msgid_plural "weba_li_history_list_nrs"
+msgstr[0] "%d елемент"
+msgstr[1] "%d елемента"
+
+msgid "weba_li_history_list_today"
+msgstr "Днес"
+
+msgid "weba_li_history_list_yesterday"
+msgstr "Вчера"
+
+msgid "weba_me_add"
+msgstr "Добавяне на адрес"
+
+msgid "weba_me_add_bookmark"
+msgstr "Добавяне към отметките"
+
+msgid "weba_me_add_home"
+msgstr "Добавяне на пряк път на работния плот"
+
+msgid "weba_me_add_link"
+msgstr "Добавяне на отметка"
+
+msgid "weba_me_adjustview"
+msgstr "Настройка на изглед"
+
+msgid "weba_me_clear_privatedata"
+msgstr "Изчистване на личната информация"
+
+msgid "weba_me_complete_his"
+msgstr "Пълна история на браузъра"
+
+msgid "weba_me_components"
+msgstr "Добавки"
+
+msgid "weba_me_copy"
+msgstr "Копиране"
+
+msgid "weba_me_copy_address"
+msgstr "Копиране на адреса"
+
+msgid "weba_me_copy_img_address"
+msgstr "Копиране на адреса на изображението"
+
+msgid "weba_me_details"
+msgstr "Детайли"
+
+msgid "weba_me_downloads"
+msgstr "Изтегляния"
+
+msgid "weba_me_find_on_page"
+msgstr "Търсене из страницата"
+
+msgid "weba_me_load_img"
+msgstr "Зареждане на изображения"
+
+msgid "weba_me_new_window"
+msgstr "Нов прозорец"
+
+msgid "weba_me_open_bookmark_new_window"
+msgstr "Отваряне в нов прозорец"
+
+msgid "weba_me_open_in_new_window"
+msgstr "Отваряне в нов прозорец"
+
+msgid "weba_me_open_link_new_window"
+msgstr "Отваряне на адреса в нов прозорец"
+
+msgid "weba_me_openfile"
+msgstr "Отваряне на файл"
+
+msgid "weba_me_options"
+msgstr "Конфигуриране"
+
+msgid "weba_me_paste"
+msgstr "Поставяне"
+
+msgid "weba_me_reload"
+msgstr "Презареждане"
+
+msgid "weba_me_rss"
+msgstr "Добавяне на емисия: %s"
+
+msgid "weba_me_save_img"
+msgstr "Запазване на изображението като"
+
+msgid "weba_me_save_link_as"
+msgstr "Запазване на адреса като"
+
+msgid "weba_me_save_page"
+msgstr "Запазване на страницата"
+
+msgid "weba_me_settings"
+msgstr "Настройки"
+
+msgid "weba_nc_change_stored_password"
+msgstr "Запазване на паролата за %s?"
+
+msgid "weba_nc_close"
+msgstr "Страницата не отговаря. Да се затвори ли прозореца принудително?\nНезапазените данни могат да бъдат загубени"
+
+msgid "weba_nc_close_app_pause_load"
+msgstr "Затваряне на приложението и\nспиране на текущото изтегляне\n%s"
+
+msgid "weba_nc_close_app_pause_loads"
+msgstr "Затваряне на приложението и\nспиране на текущите изтегляния?"
+
+msgid "weba_nc_delete_dowload"
+msgstr "Изтриване на изтеглянето?\n%s"
+
+msgid "weba_nc_geolocaton_dis"
+msgstr "Този сайт желае да разбере Вашето местоположение"
+
+msgid "weba_nc_remember_credentials"
+msgstr "Запазване на правата за достъп към този сайт?"
+
+msgid "weba_save_as"
+msgstr "Запазване на страницата като"
+
+msgid "weba_search_list"
+msgstr "Google търсене: '%s'"
+
+msgid "weba_ti_add_adress"
+msgstr "Добавяне на адрес"
+
+msgid "weba_ti_add_bookmark_title"
+msgstr "Добавяне на отметка"
+
+msgid "weba_ti_adjuvi_met_showimg"
+msgstr "Показване на изображения"
+
+msgid "weba_ti_adjuvi_title"
+msgstr "Настройка на изгледа"
+
+msgid "weba_ti_auhentication_title"
+msgstr "Удостоверяване"
+
+msgid "weba_ti_bookmarks"
+msgstr "Отметки"
+
+msgid "weba_ti_bookmarks_portrait"
+msgstr "Отметки"
+
+msgid "weba_ti_clear_privatedata"
+msgstr "Изчистване на личната информация"
+
+msgid "weba_ti_compbrhis"
+msgstr "Пълна история на браузъра"
+
+msgid "weba_ti_cookie_conf"
+msgstr "Потвърждение за бисквитки"
+
+msgid "weba_ti_cookie_conf_accept_nor"
+msgstr "Приемане на бисквитката?\n%s"
+
+msgid "weba_ti_cookie_conf_server"
+msgstr "Прилагане за всички бисквитки от този сървър"
+
+msgid "weba_ti_cookie_details_title"
+msgstr "Информация за бисквитка"
+
+msgid "weba_ti_deletebook"
+msgstr "Избор на отметки"
+
+msgid "weba_ti_download_file_title"
+msgstr "Изтегляне на файл"
+
+msgid "weba_ti_downloads_title"
+msgstr "Изтегляния"
+
+msgid "weba_ti_edit_bookmark_title"
+msgstr "Редактиране на отметка"
+
+msgid "weba_ti_edit_folder"
+msgstr "Редактиране на папка"
+
+msgid "weba_ti_foldername"
+msgstr "%s"
+
+msgid "weba_ti_geolocoation"
+msgstr "Геолокализиране"
+
+msgid "weba_ti_image_details_title"
+msgstr "Информация за изображение"
+
+msgid "weba_ti_java_script_confirmation"
+msgstr "JavaScript потвърждение"
+
+msgid "weba_ti_java_script_prompt"
+msgstr "JavaScript запитване"
+
+msgid "weba_ti_javas_alert"
+msgstr "JavaScript сигнал"
+
+msgid "weba_ti_options"
+msgstr "Конфигуриране"
+
+msgid "weba_ti_page_details_title"
+msgstr "Информация за страницата"
+
+msgid "weba_ti_recenthis"
+msgstr "Последна история"
+
+msgid "weba_ti_remeber_credentials"
+msgstr "Запазване на парола"
+
+msgid "weba_ti_select_file_title"
+msgstr "Избор на файл"
+
+msgid "weba_ti_settings_browser"
+msgstr "Браузър"
+
+msgid "weba_ti_settings_content"
+msgstr "Съдържание"
+
+msgid "weba_ti_settings_title"
+msgstr "Настройки"
+
+msgid "weba_ti_texlist_single"
+msgstr "Избор на елемент"
+
+msgid "weba_ti_text"
+msgstr "Размер на текст"
+
+msgid "weba_ti_textlist_multi"
+msgstr "Избор на елементи"
+
+msgid "weba_ti_webstart"
+msgstr "Интернет"
+
+msgid "weba_ti_webstart_portrait"
+msgstr "Интернет"
+
+msgid "weba_va_always"
+msgstr "Винаги"
+
+msgid "weba_va_download_from"
+msgstr "От"
+
+msgid "weba_va_downloads_rec_kb"
+msgstr "%d кБ"
+
+msgid "weba_va_downloads_rec_percent"
+msgstr "%d %%"
+
+msgid "weba_va_downloads_size_kb"
+msgstr "%.2f кБ"
+
+msgid "weba_va_downloads_size_unknown"
+msgstr "–"
+
+msgid "weba_va_encoding_big5"
+msgstr "Chinese, Traditional (Big5 I/II)"
+
+msgid "weba_va_encoding_euc_tw"
+msgstr "Chinese, Traditional (EUC-TW)"
+
+msgid "weba_va_encoding_gb_18030"
+msgstr "Chinese, Simplified (GB18030)"
+
+msgid "weba_va_encoding_iso_2022_cn"
+msgstr "Chinese, Simplified (ISO-2022-CN)"
+
+msgid "weba_va_encoding_iso_8859_1"
+msgstr "Latin (ISO 8859-1)"
+
+msgid "weba_va_encoding_iso_8859_15"
+msgstr "Latin extended (ISO-8859-15)"
+
+msgid "weba_va_encoding_iso_8859_2"
+msgstr "Central European (ISO 8859-2)"
+
+msgid "weba_va_encoding_iso_8859_7"
+msgstr "Greek (ISO 8859-7)"
+
+msgid "weba_va_encoding_iso_8859_9"
+msgstr "Turkish (ISO 8859-9)"
+
+msgid "weba_va_encoding_utf_16"
+msgstr "Unicode (UTF-16)"
+
+msgid "weba_va_encoding_utf_8"
+msgstr "Unicode (UTF-8)"
+
+msgid "weba_va_encoding_win_1250"
+msgstr "Central European (Windows-1250)"
+
+msgid "weba_va_encoding_win_1251"
+msgstr "Cyrillic (Windows-1251)"
+
+msgid "weba_va_encoding_win_1253"
+msgstr "Greek (Windows-1253)"
+
+msgid "weba_va_encoding_win_1254"
+msgstr "Turkish (Windows-1254)"
+
+msgid "weba_va_encoding_win_koi_8r"
+msgstr "Cyrillic (KOI-8R)"
+
+msgid "weba_va_high"
+msgstr "Висок"
+
+msgid "weba_va_image_details_dim_px"
+msgstr "%1$d x %2$d точки"
+
+msgid "weba_va_larger"
+msgstr "Голям"
+
+msgid "weba_va_largest"
+msgstr "Много голям"
+
+msgid "weba_va_loaded"
+msgstr "Само от кеша"
+
+msgid "weba_va_low"
+msgstr "Нисък"
+
+msgid "weba_va_medium"
+msgstr "Среден"
+
+msgid "weba_va_modal_dialog_abort"
+msgstr "Прекратяване"
+
+msgid "weba_va_modal_dialog_cancel"
+msgstr "Отказване"
+
+msgid "weba_va_modal_dialog_ignore"
+msgstr "Игнориране"
+
+msgid "weba_va_modal_dialog_no"
+msgstr "Не"
+
+msgid "weba_va_modal_dialog_ok"
+msgstr "Добре"
+
+msgid "weba_va_modal_dialog_retry"
+msgstr "Нов опит?"
+
+msgid "weba_va_modal_dialog_yes"
+msgstr "Да"
+
+msgid "weba_va_never"
+msgstr "Никога"
+
+msgid "weba_va_normal"
+msgstr "Нормален"
+
+msgid "weba_va_not_secure"
+msgstr "Некриптирана страница"
+
+msgid "weba_va_page_details_size_kb"
+msgstr "%.2f кБ"
+
+msgid "weba_va_page_not_verified"
+msgstr "Идентичността на сайта не е потвърдена"
+
+msgid "weba_va_save_complete"
+msgstr "Цялата страница"
+
+msgid "weba_va_save_html_only"
+msgstr "само HTML"
+
+msgid "weba_va_saved_password"
+msgstr "(запазена парола)"
+
+msgid "weba_va_settings_autofocus"
+msgstr "Автоматичен фокус върху адреса"
+
+msgid "weba_va_settings_fullscreen"
+msgstr "Отваряне на цял екран"
+
+msgid "weba_va_settings_general_maxc_1024"
+msgstr "10 МБ"
+
+msgid "weba_va_settings_general_maxc_2048"
+msgstr "20 МБ"
+
+msgid "weba_va_settings_general_maxc_4096"
+msgstr "40 МБ"
+
+msgid "weba_va_settings_general_maxc_512"
+msgstr "5 МБ"
+
+msgid "weba_va_settings_general_maxc_aut"
+msgstr "Автоматично"
+
+msgid "weba_va_settings_general_maxc_off"
+msgstr "Изключено"
+
+msgid "weba_va_settings_geolocation"
+msgstr "Геолокализиране"
+
+msgid "weba_va_settings_hwkeys"
+msgstr "Режим на бутоните „увеличаване/намаляне“"
+
+msgid "weba_va_settings_hwkeys_volume"
+msgstr "Промяна силата на звука"
+
+msgid "weba_va_settings_hwkeys_zoom"
+msgstr "Мащабиране на страниците"
+
+msgid "weba_va_settings_javaflash"
+msgstr "Прекъсване на JavaScript"
+
+msgid "weba_va_settings_javaflash_immediately"
+msgstr "веднага"
+
+msgid "weba_va_settings_javaflash_in15"
+msgstr "след 15 секунди"
+
+msgid "weba_va_settings_javaflash_in30"
+msgstr "след 30 секунди"
+
+msgid "weba_va_settings_javaflash_in60"
+msgstr "след 60 секунди"
+
+msgid "weba_va_settings_javaflash_not"
+msgstr "Без прекъсване"
+
+msgid "weba_va_settings_portrait"
+msgstr "Разрешаване на завъртане"
+
+msgid "weba_va_settings_privacy_accept_cookies_always"
+msgstr "Винаги"
+
+msgid "weba_va_settings_privacy_accept_cookies_askfirst"
+msgstr "Искане на потвърждение"
+
+msgid "weba_va_settings_privacy_accept_cookies_never"
+msgstr "Никога"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_always"
+msgstr "Винаги"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_askfirst"
+msgstr "Само поисканите"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_never"
+msgstr "Никога"
+
+msgid "weba_yi_hisfolder"
+msgstr "%s"
+
+msgid "webb_fi_bookmark_details_add"
+msgstr "Добавена"
+
+msgid "webb_fi_bookmark_details_use"
+msgstr "Последно използвана"
+
+msgid "webb_fi_folder_details_contents"
+msgstr "Съдържание"
+
+msgid "webb_fi_folder_details_contents_01"
+msgstr "1 отметка"
+
+msgid "webb_fi_folder_details_contents_02"
+msgstr "2 отметки"
+
+msgid "webb_fi_folder_details_contents_0n"
+msgstr "%d отметки"
+
+msgid "webb_fi_folder_details_contents_10"
+msgstr "1 папка"
+
+msgid "webb_fi_folder_details_contents_1n"
+msgstr "1 папка, %d отметки"
+
+msgid "webb_fi_folder_details_contents_20"
+msgstr "2 папки"
+
+msgid "webb_fi_folder_details_contents_2n"
+msgstr "2 папки, %d отметки"
+
+msgid "webb_fi_folder_details_contents_bookmark"
+msgid_plural "webb_fi_folder_details_contents_bookmars"
+msgstr[0] "%d отметка"
+msgstr[1] "%d bookmarks"
+
+msgid "webb_fi_folder_details_contents_folder"
+msgid_plural "webb_fi_folder_details_contents_folders"
+msgstr[0] "%d папка "
+msgstr[1] "%d folders "
+
+msgid "webb_fi_folder_details_contents_n0"
+msgstr "%d папки"
+
+msgid "webb_fi_folder_details_contents_n1"
+msgstr "%d папки, 1 отметка"
+
+msgid "webb_fi_folder_details_contents_n2"
+msgstr "%d папки, 2 отметки"
+
+msgid "webb_fi_folder_details_contents_nn"
+msgstr "%d папки, %d отметки"
+
+msgid "webb_fi_folder_details_date"
+msgstr "Добавена"
+
+msgid "webb_fi_folder_details_time"
+msgstr "Променена"
+
+msgid "webb_folder_imported_bookmarks"
+msgstr "Добавени отметки"
+
+msgid "webb_folder_operator"
+msgstr "отметки на Оператора"
+
+msgid "webb_folder_root_user"
+msgstr "Мой отметки"
+
+msgid "webb_ia_cookie_after_sessions_ends"
+msgstr "След приключване на сесията"
+
+msgid "webb_ia_no_bookmarks_folders_to_show"
+msgstr "(няма отметки/папки)"
+
+msgid "webb_ia_no_description"
+msgstr "(няма описание)"
+
+msgid "webb_ia_no_downloads"
+msgstr "(няма файлове)"
+
+msgid "webb_ia_none"
+msgstr "Няма"
+
+msgid "webb_ia_not_available"
+msgstr "Няма"
+
+msgid "webb_ia_not_defined_in_html"
+msgstr "(неозаглавен)"
+
+msgid "webb_ia_unknown"
+msgstr "Неизвестен"
+
+msgid "webb_ib_this_folder_cannot_be_renamed"
+msgstr "Не може да бъде преименувана папката"
+
+msgid "webb_me_delete"
+msgstr "Изтриване"
+
+msgid "webb_me_details"
+msgstr "Информация"
+
+msgid "webb_me_file_edit"
+msgstr "Редактиране"
+
+msgid "webb_me_impor"
+msgstr "Добавяне на отметки"
+
+msgid "webb_me_move_to"
+msgstr "Преместване"
+
+msgid "webb_nc_delete_item_nr"
+msgid_plural "webb_nc_delete_item_nrs"
+msgstr[0] "Изтриване на '%s'?"
+msgstr[1] "Delete selected %d items?"
+
+msgid "webb_nc_replace_item_nr"
+msgid_plural "webb_nc_replace_item_nrs"
+msgstr[0] "Замяна на съществуващия елемент със същото име?"
+msgstr[1] "Replace existing %d items of same name?"
+
+msgid "webb_ni_change_save_target_location"
+msgstr "Не може да бъде записан на избраното място.\nЗапис върху паметтана устройството?"
+
+msgid "webb_ni_downloading_paused"
+msgstr "Няма достатъчно памет върху устройството.\nИзтеглянето прекъснато."
+
+msgid "webb_ni_invalid_bookmarks_file"
+msgstr "Невалиден файл с отметки.\nНе са добавени отметки."
+
+msgid "webb_ni_resuming_failed"
+msgstr "Продължението на изтеглянето неуспешно.\nРестартиране на изтеглянето?"
+
+msgid "webb_ni_target_folder_not_available"
+msgstr "Избраната папка не е достъпна.\nИзберете друга папка."
+
+msgid "webb_ni_target_location_not_available"
+msgstr "Избраното място е недостъпно.\nЗапишете в локалната памет."
+
+msgid "webb_nw_deleting_bookmark"
+msgstr "Изтриване"
+
+msgid "webb_nw_importing_bookmark"
+msgstr "Добавяне"
+
+msgid "webb_nw_moving_bookmark"
+msgstr "Преместване"
+
+msgid "webb_ti_bookmark_details_title"
+msgstr "Информация за отметката"
+
+msgid "webb_ti_folder_details"
+msgstr "Информация за папката"
+
+msgid "webb_ti_selectbok"
+msgstr "Избор на отметки"
