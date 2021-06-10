@@ -1,0 +1,835 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2010-11-30 11:37+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek (http://www.transifex.net/projects/p/n900-extra-translations/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "bookm_li_imported_bookmarksd"
+msgstr "Εισαγόμενοι σελιδοδείκτες (%d)"
+
+msgid "bookm_ti_import_bookmarks"
+msgstr "Εισαγωγή σελιδοδεικτών"
+
+msgid "weba_ap_web_browser"
+msgstr "Ιστός"
+
+msgid "weba_bd_cancel"
+msgstr "Άκυρο"
+
+msgid "weba_bd_certificate"
+msgstr "Πιστοποιητικό"
+
+msgid "weba_bd_close"
+msgstr "Κλείσιμο"
+
+msgid "weba_bd_cookie_conf_accept"
+msgstr "Αποδοχή"
+
+msgid "weba_bd_cookie_conf_reject"
+msgstr "Απόρριψη"
+
+msgid "weba_bd_delete"
+msgstr "Διαγραφή"
+
+msgid "weba_bd_details"
+msgstr "Λεπτομέρειες"
+
+msgid "weba_bd_download_open_with"
+msgstr "Άνοιγμα με"
+
+msgid "weba_bd_download_save_to"
+msgstr "Αποθήκευση στη συσκευή"
+
+msgid "weba_bd_downloads_pause"
+msgstr "Παύση"
+
+msgid "weba_bd_downloads_resume"
+msgstr "Συνέχεια"
+
+msgid "weba_bd_geolocaton_allow"
+msgstr "Να επιτραπεί"
+
+msgid "weba_bd_geolocaton_always"
+msgstr "Να επιτρέπεται πάντα για αυτή τη δικτυακή τοποθεσία"
+
+msgid "weba_bd_geolocaton_never"
+msgstr "Να μην επιτρέπεται ποτέ για αυτή τη δικτυακή τοποθεσία"
+
+msgid "weba_bd_moveto"
+msgstr "Μετακίνηση"
+
+msgid "weba_bd_never"
+msgstr "Ποτέ"
+
+msgid "weba_bd_not_now"
+msgstr "Όχι τώρα"
+
+msgid "weba_bd_ok"
+msgstr "Εντάξει"
+
+msgid "weba_bd_select_clear_alll"
+msgstr "Εκκαθάριση όλων"
+
+msgid "weba_bd_stop"
+msgstr "Διακοπή"
+
+msgid "weba_db_clear"
+msgstr "Εκκαθάριση"
+
+msgid "weba_fi_address"
+msgstr "Διεύθυνση"
+
+msgid "weba_fi_address_colon"
+msgstr "Διεύθυνση"
+
+msgid "weba_fi_auhentication_password"
+msgstr "Κωδικός πρόσβασης"
+
+msgid "weba_fi_auhentication_realm"
+msgstr "Μήνυμα"
+
+msgid "weba_fi_auhentication_site"
+msgstr "Διακομιστής"
+
+msgid "weba_fi_auhentication_username"
+msgstr "Όνομα χρήστη"
+
+msgid "weba_fi_authentivated"
+msgstr "Σύνοδοι ταυτοποίησης"
+
+msgid "weba_fi_browsing_his"
+msgstr "Ιστορικό πλοήγησης"
+
+msgid "weba_fi_cache"
+msgstr "Προσωρινή μνήμη"
+
+msgid "weba_fi_cookie_details_domain"
+msgstr "Τομέας"
+
+msgid "weba_fi_cookie_details_expiration"
+msgstr "Λήγει"
+
+msgid "weba_fi_cookie_details_path"
+msgstr "Διαδρομή"
+
+msgid "weba_fi_cookie_details_slash"
+msgstr "/"
+
+msgid "weba_fi_cookie_details_value"
+msgstr "Τιμή"
+
+msgid "weba_fi_cookies"
+msgstr "Cookies"
+
+msgid "weba_fi_downloads_name"
+msgstr "Όνομα"
+
+msgid "weba_fi_downloads_percentage"
+msgstr "Ληφθέντα"
+
+msgid "weba_fi_downloads_size"
+msgstr "Μέγεθος"
+
+msgid "weba_fi_encoding"
+msgstr "Κωδικοποίηση"
+
+msgid "weba_fi_geolocation"
+msgstr "Δικαιώματα γεωγραφικού εντοπισμού"
+
+msgid "weba_fi_image_details_dimensions"
+msgstr "Διαστάσεις"
+
+msgid "weba_fi_location"
+msgstr "Τοποθεσία"
+
+msgid "weba_fi_name"
+msgstr "Όνομα"
+
+msgid "weba_fi_name_colon"
+msgstr "Όνομα"
+
+msgid "weba_fi_open_with_colon"
+msgstr "Άνοιγμα με:"
+
+msgid "weba_fi_page_details_page_title"
+msgstr "Τίτλος"
+
+msgid "weba_fi_page_details_security"
+msgstr "Ασφάλεια"
+
+msgid "weba_fi_page_details_verification"
+msgstr "Επαλήθευση"
+
+msgid "weba_fi_saved_pass"
+msgstr "Αποθηκευμένοι κωδικοί πρόσβασης"
+
+msgid "weba_fi_select_username_title"
+msgstr "Επιλογή όνομα χρήστη"
+
+msgid "weba_fi_settings_general_maxcache"
+msgstr "Μέγεθος προσωρινής μνήμης"
+
+msgid "weba_fi_settings_plug_ins_enable_java_script"
+msgstr "Ενεργοποίηση JavaScript"
+
+msgid "weba_fi_settings_privacy_accept_cookies"
+msgstr "Αποδοχή cookies"
+
+msgid "weba_fi_settings_privacy_enable_pop_up_windows"
+msgstr "Άνοιγμα αναδυόμενων παραθύρων"
+
+msgid "weba_fi_settings_privacy_password"
+msgstr "Ενεργοποίηση αποθήκευσης κωδικών πρόσβασης"
+
+msgid "weba_fi_size_colon"
+msgstr "Μέγεθος"
+
+msgid "weba_fi_type_colon"
+msgstr "Τύπος"
+
+msgid "weba_ib_closing_a_window_background"
+msgstr "Κλείσιμο παραθύρου στο παρασκήνιο"
+
+msgid "weba_ib_downloading_complete"
+msgstr "Η λήψη του %s ολοκληρώθηκε"
+
+msgid "weba_ib_enter_location"
+msgstr "Εισάγετε πρώτα τη διεύθυνση"
+
+msgid "weba_ib_flash_full"
+msgstr "Πατήστε το πλήκτρο backspace για να βγείτε από την κατάσταση λειτουργίας πλήρους οθόνης"
+
+msgid "weba_ib_invalid_username_or_password"
+msgstr "Δεν είναι έγκυρο το όνομα χρήστη ή ο κωδικός πρόσβασης"
+
+msgid "weba_ib_opening_new_window"
+msgstr "Άνοιγμα νέου παραθύρου"
+
+msgid "weba_ib_pop_up_window_blocked"
+msgstr "Φραγή αναδυόμενου παραθύρου"
+
+msgid "weba_ib_secure_server"
+msgstr "Το %s επαληθεύεται από το %s"
+
+msgid "weba_ib_select_update_first"
+msgstr "Επιλέξτε πρώτα την ενημέρωση"
+
+msgid "weba_ib_some_cache_items_cannot_be_deleted"
+msgstr "Ορισμένα στοιχεία της προσωρινής μνήμης είναι σε χρήση. Αδύνατη η διαγραφή."
+
+msgid "weba_ib_target_not"
+msgstr "Το αρχείο δεν είναι διαθέσιμο"
+
+msgid "weba_ib_upload_failed"
+msgstr "Η φόρτωση απέτυχε"
+
+msgid "weba_li_history_list_item_name"
+msgstr "%s"
+
+msgid "weba_li_history_list_nr"
+msgid_plural "weba_li_history_list_nrs"
+msgstr[0] "%d στοιχείο"
+msgstr[1] "%d στοιχεία"
+
+msgid "weba_li_history_list_today"
+msgstr "Σήμερα"
+
+msgid "weba_li_history_list_yesterday"
+msgstr "Χθές"
+
+msgid "weba_me_add"
+msgstr "Προσθήκη διεύθυνσης"
+
+msgid "weba_me_add_bookmark"
+msgstr "Προσθήκη στους σελιδοδείκτες"
+
+msgid "weba_me_add_home"
+msgstr "Προσθήκη συντόμευσης στην επιφάνεια εργασίας"
+
+msgid "weba_me_add_link"
+msgstr "Προσθήκη σελιδοδείκτη"
+
+msgid "weba_me_adjustview"
+msgstr "Ρύθμιση προβολής"
+
+msgid "weba_me_clear_privatedata"
+msgstr "Εκκαθάριση προσωπικών δεδομένων"
+
+msgid "weba_me_complete_his"
+msgstr "Πλήρες ιστορικό περιήγησης"
+
+msgid "weba_me_components"
+msgstr "Αναδυόμενα παράθυρα"
+
+msgid "weba_me_copy"
+msgstr "Αντιγραφή"
+
+msgid "weba_me_copy_address"
+msgstr "Αντιγραφή διεύθυνσης σύνδεσης"
+
+msgid "weba_me_copy_img_address"
+msgstr "Αντιγραφή διεύθυνσης εικόνας"
+
+msgid "weba_me_details"
+msgstr "Λεπτομέρειες"
+
+msgid "weba_me_downloads"
+msgstr "Λήψεις"
+
+msgid "weba_me_find_on_page"
+msgstr "Εύρεση στη σελίδα"
+
+msgid "weba_me_load_img"
+msgstr "Φόρτωση εικόνας"
+
+msgid "weba_me_new_window"
+msgstr "Νέο παράθυρο"
+
+msgid "weba_me_open_bookmark_new_window"
+msgstr "Άνοιγμα σε νέο παράθυρο"
+
+msgid "weba_me_open_in_new_window"
+msgstr "Άνοιγμα σε νέο παράθυρο"
+
+msgid "weba_me_open_link_new_window"
+msgstr "Άνοιγμα συνδέσμου σε νέο παράθυρο"
+
+msgid "weba_me_openfile"
+msgstr "Άνοιγμα αρχείου"
+
+msgid "weba_me_options"
+msgstr "Επιλογές"
+
+msgid "weba_me_paste"
+msgstr "Επικόλληση"
+
+msgid "weba_me_reload"
+msgstr "Επαναφόρτωση"
+
+msgid "weba_me_rss"
+msgstr "Εγγραφή στην τροφοδοσία: %s"
+
+msgid "weba_me_save_img"
+msgstr "Αποθήκευση εικόνας ως"
+
+msgid "weba_me_save_link_as"
+msgstr "Αποθήκευση συνδέσμου ως"
+
+msgid "weba_me_save_page"
+msgstr "Αποθήκευση σελίδας ως"
+
+msgid "weba_me_settings"
+msgstr "Ρυθμίσεις"
+
+msgid "weba_nc_change_stored_password"
+msgstr "Αλλαγή αποθηκευμένου κωδικού πρόσβασης για το %s;"
+
+msgid "weba_nc_close"
+msgstr "Η ιστοσελίδα δεν ανταποκρίνεται. Κλείσιμο του παραθύρου?\nΜη αποθηκευμένα δεδομένα μπορεί να χαθούν."
+
+msgid "weba_nc_close_app_pause_load"
+msgstr "Κλείσιμο της εφαρμογής και\nπαύση της ενεργής λήψης;\n%s"
+
+msgid "weba_nc_close_app_pause_loads"
+msgstr "Κλείσιμο της εφαρμογής και\nπαύση των ενεργών λήψεων;"
+
+msgid "weba_nc_delete_dowload"
+msgstr "Διαγραφή λήψης;\n%s"
+
+msgid "weba_nc_geolocaton_dis"
+msgstr "Αυτή η δικτυακή τοποθεσία θέλει να ξέρει τη θέση σας"
+
+msgid "weba_nc_remember_credentials"
+msgstr "Απομνημόνευση πιστοποιητικών για αυτή τη σελίδα;"
+
+msgid "weba_save_as"
+msgstr "Αποθήκευση σελίδας ως"
+
+msgid "weba_search_list"
+msgstr "Αναζήτηση Google για: '%s'"
+
+msgid "weba_ti_add_adress"
+msgstr "Προσθήκη διεύθυνσης"
+
+msgid "weba_ti_add_bookmark_title"
+msgstr "Προσθήκη σελιδοδείκτη"
+
+msgid "weba_ti_adjuvi_met_showimg"
+msgstr "Προβολή εικόνων"
+
+msgid "weba_ti_adjuvi_title"
+msgstr "Ρύθμιση προβολής"
+
+msgid "weba_ti_auhentication_title"
+msgstr "Πιστοποίηση"
+
+msgid "weba_ti_bookmarks"
+msgstr "Σελιδοδείκτες"
+
+msgid "weba_ti_bookmarks_portrait"
+msgstr "Σελιδοδείκτες"
+
+msgid "weba_ti_clear_privatedata"
+msgstr "Εκκαθάριση προσωπικών δεδομένων"
+
+msgid "weba_ti_compbrhis"
+msgstr "Πλήρες ιστορικό περιήγησης"
+
+msgid "weba_ti_cookie_conf"
+msgstr "Επικύρωση cookie"
+
+msgid "weba_ti_cookie_conf_accept_nor"
+msgstr "Αποδοχή του cookie;\n%s"
+
+msgid "weba_ti_cookie_conf_server"
+msgstr "Εφαρμογή σε όλα τα cookies από τον ίδιο διακομιστή"
+
+msgid "weba_ti_cookie_details_title"
+msgstr "Λεπτομέρειες cookie"
+
+msgid "weba_ti_deletebook"
+msgstr "Επιλογή σελιδοδεικτών"
+
+msgid "weba_ti_download_file_title"
+msgstr "Λήψη αρχείου"
+
+msgid "weba_ti_downloads_title"
+msgstr "Λήψεις"
+
+msgid "weba_ti_edit_bookmark_title"
+msgstr "Επεξεργασία σελιδοδείκτη"
+
+msgid "weba_ti_edit_folder"
+msgstr "Επεξεργασία φακέλου"
+
+msgid "weba_ti_foldername"
+msgstr "%s"
+
+msgid "weba_ti_geolocoation"
+msgstr "Γεωγραφικός εντοπισμός"
+
+msgid "weba_ti_image_details_title"
+msgstr "Λεπτομέρειες εικόνας"
+
+msgid "weba_ti_java_script_confirmation"
+msgstr "Επικύρωση JavaScript"
+
+msgid "weba_ti_java_script_prompt"
+msgstr "Εντολές JavaScript"
+
+msgid "weba_ti_javas_alert"
+msgstr "Ειδοποίηση JavaScript"
+
+msgid "weba_ti_options"
+msgstr "Επιλογές"
+
+msgid "weba_ti_page_details_title"
+msgstr "Λεπτομέρειες σελίδας"
+
+msgid "weba_ti_recenthis"
+msgstr "Πρόσφατο ιστορικό"
+
+msgid "weba_ti_remeber_credentials"
+msgstr "Απομνημόνευση κωδικού πρόσβασης"
+
+msgid "weba_ti_select_file_title"
+msgstr "Επιλογή αρχείου"
+
+msgid "weba_ti_settings_browser"
+msgstr "Ιστός"
+
+msgid "weba_ti_settings_content"
+msgstr "Περιεχόμενα"
+
+msgid "weba_ti_settings_title"
+msgstr "Ρυθμίσεις"
+
+msgid "weba_ti_texlist_single"
+msgstr "Επιλογή στοιχείου"
+
+msgid "weba_ti_text"
+msgstr "Μέγεθος κειμένου"
+
+msgid "weba_ti_textlist_multi"
+msgstr "Επιλογή στοιχείων"
+
+msgid "weba_ti_webstart"
+msgstr "Ιστός"
+
+msgid "weba_ti_webstart_portrait"
+msgstr "Ιστός"
+
+msgid "weba_va_always"
+msgstr "Πάντα"
+
+msgid "weba_va_download_from"
+msgstr "Από"
+
+msgid "weba_va_downloads_rec_kb"
+msgstr "%d kB"
+
+msgid "weba_va_downloads_rec_percent"
+msgstr "%d %%"
+
+msgid "weba_va_downloads_size_kb"
+msgstr "%.2f kB"
+
+msgid "weba_va_downloads_size_unknown"
+msgstr "–"
+
+msgid "weba_va_encoding_big5"
+msgstr "Κινέζικα, Παραδοσιακά (Big5 I/II)"
+
+msgid "weba_va_encoding_euc_tw"
+msgstr "Κινέζικα, Παραδοσιακά (EUC-TW)"
+
+msgid "weba_va_encoding_gb_18030"
+msgstr "Κινέζικα, Απλοποιημένα (GB18030)"
+
+msgid "weba_va_encoding_iso_2022_cn"
+msgstr "Κινέζικα, Απλοποιημένα (ISO-2022-CN)"
+
+msgid "weba_va_encoding_iso_8859_1"
+msgstr "Λατινικά (ISO 8859-1)"
+
+msgid "weba_va_encoding_iso_8859_15"
+msgstr "Λατινικά επεκταμένα (ISO-8859-15)"
+
+msgid "weba_va_encoding_iso_8859_2"
+msgstr "Κεντρικής Ευρώπης (ISO 8859-2)"
+
+msgid "weba_va_encoding_iso_8859_7"
+msgstr "Ελληνικά (ISO 8859-7)"
+
+msgid "weba_va_encoding_iso_8859_9"
+msgstr "Τουρκικά (ISO 8859-9)"
+
+msgid "weba_va_encoding_utf_16"
+msgstr "Unicode (UTF-16)"
+
+msgid "weba_va_encoding_utf_8"
+msgstr "Unicode (UTF-8)"
+
+msgid "weba_va_encoding_win_1250"
+msgstr "Κεντρικής Ευρώπης (Windows-1250)"
+
+msgid "weba_va_encoding_win_1251"
+msgstr "Κυριλλικά (Windows-1251)"
+
+msgid "weba_va_encoding_win_1253"
+msgstr "Ελληνικά (Windows-1253)"
+
+msgid "weba_va_encoding_win_1254"
+msgstr "Τουρκικά (Windows-1254)"
+
+msgid "weba_va_encoding_win_koi_8r"
+msgstr "Κυριλλικά (KOI-8R)"
+
+msgid "weba_va_high"
+msgstr "Υψηλή"
+
+msgid "weba_va_image_details_dim_px"
+msgstr "%1$d x %2$d pixels"
+
+msgid "weba_va_larger"
+msgstr "Μεγάλη"
+
+msgid "weba_va_largest"
+msgstr "Πολύ μεγάλη"
+
+msgid "weba_va_loaded"
+msgstr "Είναι ήδη στην προσωρινή μνήμη"
+
+msgid "weba_va_low"
+msgstr "Χαμηλή"
+
+msgid "weba_va_medium"
+msgstr "Μέτρια"
+
+msgid "weba_va_modal_dialog_abort"
+msgstr "Εγκατάλειψη"
+
+msgid "weba_va_modal_dialog_cancel"
+msgstr "Άκυρο"
+
+msgid "weba_va_modal_dialog_ignore"
+msgstr "Παράβλεψη"
+
+msgid "weba_va_modal_dialog_no"
+msgstr "Όχι"
+
+msgid "weba_va_modal_dialog_ok"
+msgstr "Εντάξει"
+
+msgid "weba_va_modal_dialog_retry"
+msgstr "Δοκιμή ξανά;"
+
+msgid "weba_va_modal_dialog_yes"
+msgstr "Ναι"
+
+msgid "weba_va_never"
+msgstr "Ποτέ"
+
+msgid "weba_va_normal"
+msgstr "Κανονική"
+
+msgid "weba_va_not_secure"
+msgstr "Μη ασφαλής σελίδα"
+
+msgid "weba_va_page_details_size_kb"
+msgstr "%.2f kB"
+
+msgid "weba_va_page_not_verified"
+msgstr "Η ταυτότητα της ιστοσελίδας δεν επαληθεύθηκε"
+
+msgid "weba_va_save_complete"
+msgstr "Πλήρης ιστοσελίδα"
+
+msgid "weba_va_save_html_only"
+msgstr "Μόνο HTML"
+
+msgid "weba_va_saved_password"
+msgstr "(αποθήκευση κωδικού πρόσβασης)"
+
+msgid "weba_va_settings_autofocus"
+msgstr "Αυτόματη εστίαση στο πεδίο της διεύθυνσης"
+
+msgid "weba_va_settings_fullscreen"
+msgstr "Άνοιγμα αρχικά σε πλήρη οθόνη"
+
+msgid "weba_va_settings_general_maxc_1024"
+msgstr "10 MB"
+
+msgid "weba_va_settings_general_maxc_2048"
+msgstr "20 MB"
+
+msgid "weba_va_settings_general_maxc_4096"
+msgstr "40 MB"
+
+msgid "weba_va_settings_general_maxc_512"
+msgstr "5 MB"
+
+msgid "weba_va_settings_general_maxc_aut"
+msgstr "Αυτόματο"
+
+msgid "weba_va_settings_general_maxc_off"
+msgstr "Απενεργοποιημένο"
+
+msgid "weba_va_settings_geolocation"
+msgstr "Γεωγραφικός εντοπισμός"
+
+msgid "weba_va_settings_hwkeys"
+msgstr "Χρησιμοποιήστε τα πλήκτρα αύξησης και μείωσης για"
+
+msgid "weba_va_settings_hwkeys_volume"
+msgstr "Ένταση ήχου"
+
+msgid "weba_va_settings_hwkeys_zoom"
+msgstr "Μεγέθυνση"
+
+msgid "weba_va_settings_javaflash"
+msgstr "Αποδοχή παύσης JavaScript "
+
+msgid "weba_va_settings_javaflash_immediately"
+msgstr "άμεσα"
+
+msgid "weba_va_settings_javaflash_in15"
+msgstr "σε 15 δευτερόλεπτα"
+
+msgid "weba_va_settings_javaflash_in30"
+msgstr "σε 30 δευτερόλεπτα"
+
+msgid "weba_va_settings_javaflash_in60"
+msgstr "σε 60 δευτερόλεπτα"
+
+msgid "weba_va_settings_javaflash_not"
+msgstr "Χωρίς παύση"
+
+msgid "weba_va_settings_portrait"
+msgstr "Ενεργοποίηση περιστροφής"
+
+msgid "weba_va_settings_privacy_accept_cookies_always"
+msgstr "Πάντα"
+
+msgid "weba_va_settings_privacy_accept_cookies_askfirst"
+msgstr "Ερώτηση πρώτα"
+
+msgid "weba_va_settings_privacy_accept_cookies_never"
+msgstr "Ποτέ"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_always"
+msgstr "Πάντα"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_askfirst"
+msgstr "Μόνο όταν απαιτείται"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_never"
+msgstr "Ποτέ"
+
+msgid "weba_yi_hisfolder"
+msgstr "%s"
+
+msgid "webb_fi_bookmark_details_add"
+msgstr "Προστέθηκε"
+
+msgid "webb_fi_bookmark_details_use"
+msgstr "Τελευταία χρήση"
+
+msgid "webb_fi_folder_details_contents"
+msgstr "Περιεχόμενα"
+
+msgid "webb_fi_folder_details_contents_01"
+msgstr "1 σελιδοδείκτης"
+
+msgid "webb_fi_folder_details_contents_02"
+msgstr "2 σελιδοδείκτες"
+
+msgid "webb_fi_folder_details_contents_0n"
+msgstr "%d σελιδοδείκτες"
+
+msgid "webb_fi_folder_details_contents_10"
+msgstr "1 φάκελος"
+
+msgid "webb_fi_folder_details_contents_1n"
+msgstr "1 φάκελος, %d σελιδοδείκτες"
+
+msgid "webb_fi_folder_details_contents_20"
+msgstr "2 φάκελοι"
+
+msgid "webb_fi_folder_details_contents_2n"
+msgstr "2 φάκελοι, %d σελιδοδείκτες"
+
+msgid "webb_fi_folder_details_contents_bookmark"
+msgid_plural "webb_fi_folder_details_contents_bookmars"
+msgstr[0] "%d σελιδοδείκτης"
+msgstr[1] "%d σελιδοδείκτες"
+
+msgid "webb_fi_folder_details_contents_folder"
+msgid_plural "webb_fi_folder_details_contents_folders"
+msgstr[0] "%d φάκελος "
+msgstr[1] "%d φάκελοι"
+
+msgid "webb_fi_folder_details_contents_n0"
+msgstr "%d φάκελοι"
+
+msgid "webb_fi_folder_details_contents_n1"
+msgstr "%d φάκελοι, 1 σελιδοδείκτης"
+
+msgid "webb_fi_folder_details_contents_n2"
+msgstr "%d φάκελοι, 2 σελιδοδείκτες"
+
+msgid "webb_fi_folder_details_contents_nn"
+msgstr "%d φάκελοι, %d σελιδοδείκτες"
+
+msgid "webb_fi_folder_details_date"
+msgstr "Προσθήκη"
+
+msgid "webb_fi_folder_details_time"
+msgstr "Τροποποιήση"
+
+msgid "webb_folder_imported_bookmarks"
+msgstr "Εισαγόμενοι σελιδοδείκτες"
+
+msgid "webb_folder_operator"
+msgstr "Διαχειριστής σελιδοδεικτών"
+
+msgid "webb_folder_root_user"
+msgstr "Σελιδοδείκτες μου"
+
+msgid "webb_ia_cookie_after_sessions_ends"
+msgstr "Μετά το τέλος της συνεδρίας"
+
+msgid "webb_ia_no_bookmarks_folders_to_show"
+msgstr "(δεν υπάρχουν σελιδοδείκτες/φάκελοι)"
+
+msgid "webb_ia_no_description"
+msgstr "(δεν υπάρχει περιγραφή)"
+
+msgid "webb_ia_no_downloads"
+msgstr "(δεν γίνεται λήψη αρχείων)"
+
+msgid "webb_ia_none"
+msgstr "Κανένα"
+
+msgid "webb_ia_not_available"
+msgstr "Μη διαθέσιμο"
+
+msgid "webb_ia_not_defined_in_html"
+msgstr "(χωρίς τίτλο)"
+
+msgid "webb_ia_unknown"
+msgstr "Άγνωστο"
+
+msgid "webb_ib_this_folder_cannot_be_renamed"
+msgstr "Αδύνατη η μετονομασία του επιλεγμένου φακέλου"
+
+msgid "webb_me_delete"
+msgstr "Διαγραφή"
+
+msgid "webb_me_details"
+msgstr "Λεπτομέρειες"
+
+msgid "webb_me_file_edit"
+msgstr "Επεξεργασία"
+
+msgid "webb_me_impor"
+msgstr "Εισαγωγή σελιδοδεικτών"
+
+msgid "webb_me_move_to"
+msgstr "Μετακίνηση"
+
+msgid "webb_nc_delete_item_nr"
+msgid_plural "webb_nc_delete_item_nrs"
+msgstr[0] "Διαγραφή του '%s';"
+msgstr[1] "Διαγραφή των %d επιλεγμένων στοιχείων;"
+
+msgid "webb_nc_replace_item_nr"
+msgid_plural "webb_nc_replace_item_nrs"
+msgstr[0] "Αντικατάσταση του υπάρχοντος στοιχείου του ίδιου ονόματος;"
+msgstr[1] "Αντικατάσταση των %d υπαρχόντων στοιχείων του ίδιου ονόματος;"
+
+msgid "webb_ni_change_save_target_location"
+msgstr "Αδύνατη η αποθήκευση στην επιλεγμένη τοποθεσία.\nΑποθήκευση στη μνήμη της συσκευής;"
+
+msgid "webb_ni_downloading_paused"
+msgstr "Δεν υπάρχει αρκετή ελεύθερη μνήμη στη συσκευή.\nΠαύση της λήψης."
+
+msgid "webb_ni_invalid_bookmarks_file"
+msgstr "Μη έγκυρο αρχείο σελιδοδείκτη.\nΔεν εισήχθησαν σελιδοδείκτες."
+
+msgid "webb_ni_resuming_failed"
+msgstr "Η συνέχιση της λήψης απέτυχε.\nΕπανεκκίνηση της λήψης;"
+
+msgid "webb_ni_target_folder_not_available"
+msgstr "Ο επιλεγμένος φάκελος δεν είναι διαθέσιμος.\nΑποθήκευση σε άλλο φάκελο."
+
+msgid "webb_ni_target_location_not_available"
+msgstr "Η επιλεγμένη τοποθεσία δεν είναι διαθέσιμη.\nΑποθήκευση στην τοπική μνήμη."
+
+msgid "webb_nw_deleting_bookmark"
+msgstr "Διαγραφή"
+
+msgid "webb_nw_importing_bookmark"
+msgstr "Εισαγωγή"
+
+msgid "webb_nw_moving_bookmark"
+msgstr "Μετακίνηση"
+
+msgid "webb_ti_bookmark_details_title"
+msgstr "Λεπτομέρειες σελιδοδείκτη"
+
+msgid "webb_ti_folder_details"
+msgstr "Λεπτομέρειες φακέλου"
+
+msgid "webb_ti_selectbok"
+msgstr "Επιλογή σελιδοδεικτών"
