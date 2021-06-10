@@ -1,0 +1,835 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2012-05-25 21:40+0000\n"
+"Last-Translator: Stanislau <kasrkin@mail.by>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be_BY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "bookm_li_imported_bookmarksd"
+msgstr "Імпартаваныя закладкі (%d)"
+
+msgid "bookm_ti_import_bookmarks"
+msgstr "Імпартаваць закладкі"
+
+msgid "weba_ap_web_browser"
+msgstr "Сеціва"
+
+msgid "weba_bd_cancel"
+msgstr "Скасаваць"
+
+msgid "weba_bd_certificate"
+msgstr "Сертыфікат"
+
+msgid "weba_bd_close"
+msgstr "Зачыніць"
+
+msgid "weba_bd_cookie_conf_accept"
+msgstr "Прыняць"
+
+msgid "weba_bd_cookie_conf_reject"
+msgstr "Адхіліць"
+
+msgid "weba_bd_delete"
+msgstr "Выдаліць"
+
+msgid "weba_bd_details"
+msgstr "Дэталі"
+
+msgid "weba_bd_download_open_with"
+msgstr "Адчыніць з"
+
+msgid "weba_bd_download_save_to"
+msgstr "Захаваць на дэвайс"
+
+msgid "weba_bd_downloads_pause"
+msgstr "Паўза"
+
+msgid "weba_bd_downloads_resume"
+msgstr "Працягнуць"
+
+msgid "weba_bd_geolocaton_allow"
+msgstr "Дазволіць"
+
+msgid "weba_bd_geolocaton_always"
+msgstr "Заўсёды дазваляць на гэтым сайце"
+
+msgid "weba_bd_geolocaton_never"
+msgstr "Ніколі не дазваляць на гэтым сайце"
+
+msgid "weba_bd_moveto"
+msgstr "Перамясціць"
+
+msgid "weba_bd_never"
+msgstr "Ніколі"
+
+msgid "weba_bd_not_now"
+msgstr "Не зараз"
+
+msgid "weba_bd_ok"
+msgstr "ОК"
+
+msgid "weba_bd_select_clear_alll"
+msgstr "Ачысціць усё"
+
+msgid "weba_bd_stop"
+msgstr "Стоп"
+
+msgid "weba_db_clear"
+msgstr "Ачысціць"
+
+msgid "weba_fi_address"
+msgstr "Адрас"
+
+msgid "weba_fi_address_colon"
+msgstr "Адрас"
+
+msgid "weba_fi_auhentication_password"
+msgstr "Пароль"
+
+msgid "weba_fi_auhentication_realm"
+msgstr "Паведамленне"
+
+msgid "weba_fi_auhentication_site"
+msgstr "Сервер"
+
+msgid "weba_fi_auhentication_username"
+msgstr "Імя карыстальніка"
+
+msgid "weba_fi_authentivated"
+msgstr "Аўтарызаваныя сесіі"
+
+msgid "weba_fi_browsing_his"
+msgstr "Гісторыя прагляду"
+
+msgid "weba_fi_cache"
+msgstr "Кэш"
+
+msgid "weba_fi_cookie_details_domain"
+msgstr "Дамен"
+
+msgid "weba_fi_cookie_details_expiration"
+msgstr "Тэрмін дзеяння"
+
+msgid "weba_fi_cookie_details_path"
+msgstr "Шлях"
+
+msgid "weba_fi_cookie_details_slash"
+msgstr "/"
+
+msgid "weba_fi_cookie_details_value"
+msgstr "Значэнне"
+
+msgid "weba_fi_cookies"
+msgstr "Cookies"
+
+msgid "weba_fi_downloads_name"
+msgstr "Назва"
+
+msgid "weba_fi_downloads_percentage"
+msgstr "Атрымана"
+
+msgid "weba_fi_downloads_size"
+msgstr "Памер"
+
+msgid "weba_fi_encoding"
+msgstr "Кадаванне"
+
+msgid "weba_fi_geolocation"
+msgstr "Правы геалакацыі"
+
+msgid "weba_fi_image_details_dimensions"
+msgstr "Памеры"
+
+msgid "weba_fi_location"
+msgstr "Сеціўны адрас"
+
+msgid "weba_fi_name"
+msgstr "Імя"
+
+msgid "weba_fi_name_colon"
+msgstr "Імя"
+
+msgid "weba_fi_open_with_colon"
+msgstr "Адчыніць з:"
+
+msgid "weba_fi_page_details_page_title"
+msgstr "Назва"
+
+msgid "weba_fi_page_details_security"
+msgstr "Бяспечнасць"
+
+msgid "weba_fi_page_details_verification"
+msgstr "Праверка"
+
+msgid "weba_fi_saved_pass"
+msgstr "Захаваныя паролі"
+
+msgid "weba_fi_select_username_title"
+msgstr "Абярыце імя карыстальніка"
+
+msgid "weba_fi_settings_general_maxcache"
+msgstr "Памер кэш памяці"
+
+msgid "weba_fi_settings_plug_ins_enable_java_script"
+msgstr "Дазволіць JavaScript"
+
+msgid "weba_fi_settings_privacy_accept_cookies"
+msgstr "Прыняць cookies"
+
+msgid "weba_fi_settings_privacy_enable_pop_up_windows"
+msgstr "Адчыніць усплывальныя вокны"
+
+msgid "weba_fi_settings_privacy_password"
+msgstr "Дазволіць захаванне пароля"
+
+msgid "weba_fi_size_colon"
+msgstr "Памер"
+
+msgid "weba_fi_type_colon"
+msgstr "Тып"
+
+msgid "weba_ib_closing_a_window_background"
+msgstr "Зачыненне фонавага акна"
+
+msgid "weba_ib_downloading_complete"
+msgstr "Запампоўка %s завершана"
+
+msgid "weba_ib_enter_location"
+msgstr "Спачатку ўвядзіце адрас"
+
+msgid "weba_ib_flash_full"
+msgstr "Націсніце backspace, каб выйсці з паўнаэкраннага рэжыму"
+
+msgid "weba_ib_invalid_username_or_password"
+msgstr "Няправільнае імя карыстальніка ці пароль"
+
+msgid "weba_ib_opening_new_window"
+msgstr "Адчыненне новага акна"
+
+msgid "weba_ib_pop_up_window_blocked"
+msgstr "Усплывальныя вокны заблакаваныя"
+
+msgid "weba_ib_secure_server"
+msgstr "%s правераны %s"
+
+msgid "weba_ib_select_update_first"
+msgstr "Спачатку выбярыце абнаўленне"
+
+msgid "weba_ib_some_cache_items_cannot_be_deleted"
+msgstr "Некаторыя элементы кэша выкарыстоўваюцца. Немагчыма выдаліць."
+
+msgid "weba_ib_target_not"
+msgstr "Мэтавы файл недаступны."
+
+msgid "weba_ib_upload_failed"
+msgstr "Памылка запампоўкі"
+
+msgid "weba_li_history_list_item_name"
+msgstr "%s"
+
+msgid "weba_li_history_list_nr"
+msgid_plural "weba_li_history_list_nrs"
+msgstr[0] "%d элемент"
+msgstr[1] "%d элементаў"
+
+msgid "weba_li_history_list_today"
+msgstr "Сёння"
+
+msgid "weba_li_history_list_yesterday"
+msgstr "Учора"
+
+msgid "weba_me_add"
+msgstr "Дадаць адрас"
+
+msgid "weba_me_add_bookmark"
+msgstr "Дадаць да закладак"
+
+msgid "weba_me_add_home"
+msgstr "Дадаць скарот на стальніцу"
+
+msgid "weba_me_add_link"
+msgstr "Дадаць закладку"
+
+msgid "weba_me_adjustview"
+msgstr "Наладзіць выгляд"
+
+msgid "weba_me_clear_privatedata"
+msgstr "Ачысціць прыватныя дадзеныя"
+
+msgid "weba_me_complete_his"
+msgstr "Поўная гісторыя прагляду"
+
+msgid "weba_me_components"
+msgstr "Дадаткі"
+
+msgid "weba_me_copy"
+msgstr "Капіраваць"
+
+msgid "weba_me_copy_address"
+msgstr "Капіраваць адрас"
+
+msgid "weba_me_copy_img_address"
+msgstr "Капіраваць адрас выявы"
+
+msgid "weba_me_details"
+msgstr "Дэталі"
+
+msgid "weba_me_downloads"
+msgstr "Запампоўкі"
+
+msgid "weba_me_find_on_page"
+msgstr "Знайсці на старонцы"
+
+msgid "weba_me_load_img"
+msgstr "Загрузіць выяву"
+
+msgid "weba_me_new_window"
+msgstr "Новае акно"
+
+msgid "weba_me_open_bookmark_new_window"
+msgstr "Адчыніць у новым акне"
+
+msgid "weba_me_open_in_new_window"
+msgstr "Адчыніць у новым акне"
+
+msgid "weba_me_open_link_new_window"
+msgstr "Адчыніць спасылку ў новым акне"
+
+msgid "weba_me_openfile"
+msgstr "Адчыніць файл"
+
+msgid "weba_me_options"
+msgstr "Опцыі"
+
+msgid "weba_me_paste"
+msgstr "Уставіць"
+
+msgid "weba_me_reload"
+msgstr "Перазагрузіць"
+
+msgid "weba_me_rss"
+msgstr "Падпісацца на канал: %s"
+
+msgid "weba_me_save_img"
+msgstr "Захаваць выяву як"
+
+msgid "weba_me_save_link_as"
+msgstr "Захаваць спасылку як"
+
+msgid "weba_me_save_page"
+msgstr "Захаваць старонку як"
+
+msgid "weba_me_settings"
+msgstr "Налады"
+
+msgid "weba_nc_change_stored_password"
+msgstr "Змяніць захаваны пароль для %s?"
+
+msgid "weba_nc_close"
+msgstr "Сеціўная старонка не адказвае. Зачыніць акно прымусова? \nНезахаваныя дадзеныя будуць страчаныя."
+
+msgid "weba_nc_close_app_pause_load"
+msgstr "Зачыніць прыкладанне і\nпрыпыніць бягучую запампоўку?\n%s"
+
+msgid "weba_nc_close_app_pause_loads"
+msgstr "Зачыніць прыкладанне і\nпрыпыніць бягучыя запампоўкі?"
+
+msgid "weba_nc_delete_dowload"
+msgstr "Выдаліць запампоўку?\n%s"
+
+msgid "weba_nc_geolocaton_dis"
+msgstr "Гэты сайт жадае ведаць ваше месцазнаходжанне"
+
+msgid "weba_nc_remember_credentials"
+msgstr "Запомніць ўліковыя дадзеныя для гэтага сайта?"
+
+msgid "weba_save_as"
+msgstr "Захаваць старонку як"
+
+msgid "weba_search_list"
+msgstr "Пошук Google: '%s'"
+
+msgid "weba_ti_add_adress"
+msgstr "Дадаць адрас"
+
+msgid "weba_ti_add_bookmark_title"
+msgstr "Дадаць закладку"
+
+msgid "weba_ti_adjuvi_met_showimg"
+msgstr "Паказаць выявы"
+
+msgid "weba_ti_adjuvi_title"
+msgstr "Наладзіць выгляд"
+
+msgid "weba_ti_auhentication_title"
+msgstr "Ідентыфікацыя"
+
+msgid "weba_ti_bookmarks"
+msgstr "Закладкі"
+
+msgid "weba_ti_bookmarks_portrait"
+msgstr "Закладкі"
+
+msgid "weba_ti_clear_privatedata"
+msgstr "Ачысціць прыватныя звесткі"
+
+msgid "weba_ti_compbrhis"
+msgstr "Поўная гісторыя прагляду"
+
+msgid "weba_ti_cookie_conf"
+msgstr "Пацверджанне cookie"
+
+msgid "weba_ti_cookie_conf_accept_nor"
+msgstr "Прыняць cookie?\n%s"
+
+msgid "weba_ti_cookie_conf_server"
+msgstr "Прымяніць да ўсіх cookies з гэтага сервера"
+
+msgid "weba_ti_cookie_details_title"
+msgstr "Дэталі cookie"
+
+msgid "weba_ti_deletebook"
+msgstr "Абраць закладкі"
+
+msgid "weba_ti_download_file_title"
+msgstr "Запампоўка файла"
+
+msgid "weba_ti_downloads_title"
+msgstr "Запампоўкі"
+
+msgid "weba_ti_edit_bookmark_title"
+msgstr "Рэдагаваць закладку"
+
+msgid "weba_ti_edit_folder"
+msgstr "Рэдагаваць тэчку"
+
+msgid "weba_ti_foldername"
+msgstr "%s"
+
+msgid "weba_ti_geolocoation"
+msgstr "Геалакацыя"
+
+msgid "weba_ti_image_details_title"
+msgstr "Дэталі выявы"
+
+msgid "weba_ti_java_script_confirmation"
+msgstr "Пацверджанне JavaScript"
+
+msgid "weba_ti_java_script_prompt"
+msgstr "Запыт JavaScript"
+
+msgid "weba_ti_javas_alert"
+msgstr "Сігнал  JavaScript"
+
+msgid "weba_ti_options"
+msgstr "Опцыі"
+
+msgid "weba_ti_page_details_title"
+msgstr "Дэталі старонкі"
+
+msgid "weba_ti_recenthis"
+msgstr "Недаўняя гісторыя"
+
+msgid "weba_ti_remeber_credentials"
+msgstr "Запомніць пароль"
+
+msgid "weba_ti_select_file_title"
+msgstr "Абраць назву"
+
+msgid "weba_ti_settings_browser"
+msgstr "Прагляднік"
+
+msgid "weba_ti_settings_content"
+msgstr "Змесціва"
+
+msgid "weba_ti_settings_title"
+msgstr "Налады"
+
+msgid "weba_ti_texlist_single"
+msgstr "Абярыце элемент"
+
+msgid "weba_ti_text"
+msgstr "Памер тэкста"
+
+msgid "weba_ti_textlist_multi"
+msgstr "Абраныя элементы"
+
+msgid "weba_ti_webstart"
+msgstr "Сеціва"
+
+msgid "weba_ti_webstart_portrait"
+msgstr "Сеціва"
+
+msgid "weba_va_always"
+msgstr "Заўсёды"
+
+msgid "weba_va_download_from"
+msgstr "Ад"
+
+msgid "weba_va_downloads_rec_kb"
+msgstr "%d кБ"
+
+msgid "weba_va_downloads_rec_percent"
+msgstr "%d %%"
+
+msgid "weba_va_downloads_size_kb"
+msgstr "%.2f кБ"
+
+msgid "weba_va_downloads_size_unknown"
+msgstr "\t–"
+
+msgid "weba_va_encoding_big5"
+msgstr "Chinese, Traditional (Big5 I/II)"
+
+msgid "weba_va_encoding_euc_tw"
+msgstr "Chinese, Traditional (EUC-TW)"
+
+msgid "weba_va_encoding_gb_18030"
+msgstr "Chinese, Simplified (GB18030)"
+
+msgid "weba_va_encoding_iso_2022_cn"
+msgstr "Chinese, Simplified (ISO-2022-CN)"
+
+msgid "weba_va_encoding_iso_8859_1"
+msgstr "Latin (ISO 8859-1)"
+
+msgid "weba_va_encoding_iso_8859_15"
+msgstr "Latin extended (ISO-8859-15)"
+
+msgid "weba_va_encoding_iso_8859_2"
+msgstr "Central European (ISO 8859-2)"
+
+msgid "weba_va_encoding_iso_8859_7"
+msgstr "Greek (ISO 8859-7)"
+
+msgid "weba_va_encoding_iso_8859_9"
+msgstr "Turkish (ISO 8859-9)"
+
+msgid "weba_va_encoding_utf_16"
+msgstr "Unicode (UTF-16)"
+
+msgid "weba_va_encoding_utf_8"
+msgstr "Unicode (UTF-8)"
+
+msgid "weba_va_encoding_win_1250"
+msgstr "Central European (Windows-1250)"
+
+msgid "weba_va_encoding_win_1251"
+msgstr "Cyrillic (Windows-1251)"
+
+msgid "weba_va_encoding_win_1253"
+msgstr "Greek (Windows-1253)"
+
+msgid "weba_va_encoding_win_1254"
+msgstr "Turkish (Windows-1254)"
+
+msgid "weba_va_encoding_win_koi_8r"
+msgstr "Cyrillic (KOI-8R)"
+
+msgid "weba_va_high"
+msgstr "Высокі"
+
+msgid "weba_va_image_details_dim_px"
+msgstr "%1$d x %2$d пікселяў"
+
+msgid "weba_va_larger"
+msgstr "Вялікі"
+
+msgid "weba_va_largest"
+msgstr "Вельмі вялікі"
+
+msgid "weba_va_loaded"
+msgstr "Ужо ў кэшы"
+
+msgid "weba_va_low"
+msgstr "Нізкі"
+
+msgid "weba_va_medium"
+msgstr "Сярэдні"
+
+msgid "weba_va_modal_dialog_abort"
+msgstr "Спыніць"
+
+msgid "weba_va_modal_dialog_cancel"
+msgstr "Скасаваць"
+
+msgid "weba_va_modal_dialog_ignore"
+msgstr "Ігнараваць"
+
+msgid "weba_va_modal_dialog_no"
+msgstr "Не"
+
+msgid "weba_va_modal_dialog_ok"
+msgstr "ОК"
+
+msgid "weba_va_modal_dialog_retry"
+msgstr "Паспрабаваць ізноў?"
+
+msgid "weba_va_modal_dialog_yes"
+msgstr "Так"
+
+msgid "weba_va_never"
+msgstr "Ніколі"
+
+msgid "weba_va_normal"
+msgstr "Нармальны"
+
+msgid "weba_va_not_secure"
+msgstr "Небяспечная старонка"
+
+msgid "weba_va_page_details_size_kb"
+msgstr "%.2f кБ"
+
+msgid "weba_va_page_not_verified"
+msgstr "Пасведчанне сеціўнай старонкі не праверана"
+
+msgid "weba_va_save_complete"
+msgstr "Цэлая старонка"
+
+msgid "weba_va_save_html_only"
+msgstr "толькі HTML"
+
+msgid "weba_va_saved_password"
+msgstr "(захаваны пароль)"
+
+msgid "weba_va_settings_autofocus"
+msgstr "Аўтафокус поля адрасу"
+
+msgid "weba_va_settings_fullscreen"
+msgstr "Адчыніць на ўвесь экран"
+
+msgid "weba_va_settings_general_maxc_1024"
+msgstr "10 МБ"
+
+msgid "weba_va_settings_general_maxc_2048"
+msgstr "20 МБ"
+
+msgid "weba_va_settings_general_maxc_4096"
+msgstr "40 МБ"
+
+msgid "weba_va_settings_general_maxc_512"
+msgstr "5 МБ"
+
+msgid "weba_va_settings_general_maxc_aut"
+msgstr "Аўтаматычна"
+
+msgid "weba_va_settings_general_maxc_off"
+msgstr "Выключана"
+
+msgid "weba_va_settings_geolocation"
+msgstr "Геалакацыя"
+
+msgid "weba_va_settings_hwkeys"
+msgstr "Рэжым кнопкі 'павелічэнне/памяншэнне'"
+
+msgid "weba_va_settings_hwkeys_volume"
+msgstr "Гук"
+
+msgid "weba_va_settings_hwkeys_zoom"
+msgstr "Павелічэнне"
+
+msgid "weba_va_settings_javaflash"
+msgstr "Дазволіць паўзу JavaScript"
+
+msgid "weba_va_settings_javaflash_immediately"
+msgstr "неадкладна"
+
+msgid "weba_va_settings_javaflash_in15"
+msgstr "на 15 секунд"
+
+msgid "weba_va_settings_javaflash_in30"
+msgstr "на 30 секунд"
+
+msgid "weba_va_settings_javaflash_in60"
+msgstr "на 60 секунд"
+
+msgid "weba_va_settings_javaflash_not"
+msgstr "Без паўз"
+
+msgid "weba_va_settings_portrait"
+msgstr "Дазволіць паврот"
+
+msgid "weba_va_settings_privacy_accept_cookies_always"
+msgstr "Заўсёды"
+
+msgid "weba_va_settings_privacy_accept_cookies_askfirst"
+msgstr "З запытам"
+
+msgid "weba_va_settings_privacy_accept_cookies_never"
+msgstr "Ніколі"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_always"
+msgstr "Заўсёды"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_askfirst"
+msgstr "Толькі па запросу"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_never"
+msgstr "Ніколі"
+
+msgid "weba_yi_hisfolder"
+msgstr "\t%s"
+
+msgid "webb_fi_bookmark_details_add"
+msgstr "Даданыя"
+
+msgid "webb_fi_bookmark_details_use"
+msgstr "Нядаўна выкарыставаныя"
+
+msgid "webb_fi_folder_details_contents"
+msgstr "Змесціва"
+
+msgid "webb_fi_folder_details_contents_01"
+msgstr "1 закладка"
+
+msgid "webb_fi_folder_details_contents_02"
+msgstr "2 закладкі"
+
+msgid "webb_fi_folder_details_contents_0n"
+msgstr "%d закладак"
+
+msgid "webb_fi_folder_details_contents_10"
+msgstr "1 тэчка"
+
+msgid "webb_fi_folder_details_contents_1n"
+msgstr "1 тэчка, %d закладак"
+
+msgid "webb_fi_folder_details_contents_20"
+msgstr "2 тэчцы"
+
+msgid "webb_fi_folder_details_contents_2n"
+msgstr "2 тэчцы, %d закладак"
+
+msgid "webb_fi_folder_details_contents_bookmark"
+msgid_plural "webb_fi_folder_details_contents_bookmars"
+msgstr[0] "%d закладка"
+msgstr[1] "%d закладак"
+
+msgid "webb_fi_folder_details_contents_folder"
+msgid_plural "webb_fi_folder_details_contents_folders"
+msgstr[0] "%d тэчка"
+msgstr[1] "%d тэчак"
+
+msgid "webb_fi_folder_details_contents_n0"
+msgstr "%d тэчак"
+
+msgid "webb_fi_folder_details_contents_n1"
+msgstr "%d тэчак, 1 закладка"
+
+msgid "webb_fi_folder_details_contents_n2"
+msgstr "%d тэчак, 2 закладкі"
+
+msgid "webb_fi_folder_details_contents_nn"
+msgstr "%d тэчак, %d закладак"
+
+msgid "webb_fi_folder_details_date"
+msgstr "Дадана"
+
+msgid "webb_fi_folder_details_time"
+msgstr "Зменена"
+
+msgid "webb_folder_imported_bookmarks"
+msgstr "Імпартаваныя закладкі"
+
+msgid "webb_folder_operator"
+msgstr "Аператарскія закладкі"
+
+msgid "webb_folder_root_user"
+msgstr "Мае закладкі"
+
+msgid "webb_ia_cookie_after_sessions_ends"
+msgstr "Пасля сэсіі"
+
+msgid "webb_ia_no_bookmarks_folders_to_show"
+msgstr "(няма закладак/тэчак)"
+
+msgid "webb_ia_no_description"
+msgstr "(няма апісання)"
+
+msgid "webb_ia_no_downloads"
+msgstr "(няма загружаных файлаў)"
+
+msgid "webb_ia_none"
+msgstr "Няма"
+
+msgid "webb_ia_not_available"
+msgstr "Недаступна"
+
+msgid "webb_ia_not_defined_in_html"
+msgstr "(безназоўны)"
+
+msgid "webb_ia_unknown"
+msgstr "Невядомы"
+
+msgid "webb_ib_this_folder_cannot_be_renamed"
+msgstr "Немагчыма перайменаваць абраную тэчку"
+
+msgid "webb_me_delete"
+msgstr "Выдаліць"
+
+msgid "webb_me_details"
+msgstr "Дэталі"
+
+msgid "webb_me_file_edit"
+msgstr "Рэдагаваць"
+
+msgid "webb_me_impor"
+msgstr "Імпартаваць закладкі"
+
+msgid "webb_me_move_to"
+msgstr "Перамясціць"
+
+msgid "webb_nc_delete_item_nr"
+msgid_plural "webb_nc_delete_item_nrs"
+msgstr[0] "Выдаліць '%s'?"
+msgstr[1] "Выдаліць %d абраных элементаў?"
+
+msgid "webb_nc_replace_item_nr"
+msgid_plural "webb_nc_replace_item_nrs"
+msgstr[0] "Замяніць існуючы элемент з тым жа імем?"
+msgstr[1] "Замяніць %d існуючых элементаў з тым жа імем?"
+
+msgid "webb_ni_change_save_target_location"
+msgstr "Немагчыма захаваць у абране рзмяшчэнне. \nЗахаваць у памяць дэвайса?"
+
+msgid "webb_ni_downloading_paused"
+msgstr "Не хапае памяці на дэвайсе.\nЗапампоўка прыпыненая."
+
+msgid "webb_ni_invalid_bookmarks_file"
+msgstr "Няправільны файл закладкі.\nЗакладкі не імпартуюцца."
+
+msgid "webb_ni_resuming_failed"
+msgstr "Памылка працягвання запампоўкі.\nПеразапусціць запампоўку?"
+
+msgid "webb_ni_target_folder_not_available"
+msgstr "Мэтавая тэчка недаступная.\nЗахавайце ў іншую тэчку."
+
+msgid "webb_ni_target_location_not_available"
+msgstr "Мэтавае размяшчэнне недаступнае.\nЗахавайце ў лакальнай памяці. "
+
+msgid "webb_nw_deleting_bookmark"
+msgstr "Выдаленне"
+
+msgid "webb_nw_importing_bookmark"
+msgstr "Імпартаванне"
+
+msgid "webb_nw_moving_bookmark"
+msgstr "Перамяшчэнне"
+
+msgid "webb_ti_bookmark_details_title"
+msgstr "Дэталі закладкі"
+
+msgid "webb_ti_folder_details"
+msgstr "Дэталі тэчкі"
+
+msgid "webb_ti_selectbok"
+msgstr "Абраць закладкі"
