@@ -1,0 +1,830 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2012-05-30 14:36+0000\n"
+"Last-Translator: firstfan <firstfan@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "bookm_li_imported_bookmarksd"
+msgstr "匯入 %d 個書籤"
+
+msgid "bookm_ti_import_bookmarks"
+msgstr "匯入書籤"
+
+msgid "weba_ap_web_browser"
+msgstr "網路"
+
+msgid "weba_bd_cancel"
+msgstr "取消"
+
+msgid "weba_bd_certificate"
+msgstr "憑證"
+
+msgid "weba_bd_close"
+msgstr "關閉"
+
+msgid "weba_bd_cookie_conf_accept"
+msgstr "接受"
+
+msgid "weba_bd_cookie_conf_reject"
+msgstr "拒絕"
+
+msgid "weba_bd_delete"
+msgstr "刪除"
+
+msgid "weba_bd_details"
+msgstr "詳情"
+
+msgid "weba_bd_download_open_with"
+msgstr "開啟"
+
+msgid "weba_bd_download_save_to"
+msgstr "儲存到裝置"
+
+msgid "weba_bd_downloads_pause"
+msgstr "暫停"
+
+msgid "weba_bd_downloads_resume"
+msgstr "恢復"
+
+msgid "weba_bd_geolocaton_allow"
+msgstr "允許"
+
+msgid "weba_bd_geolocaton_always"
+msgstr "這個站台總是允許"
+
+msgid "weba_bd_geolocaton_never"
+msgstr "不允許這個站台"
+
+msgid "weba_bd_moveto"
+msgstr "跳至"
+
+msgid "weba_bd_never"
+msgstr "從不"
+
+msgid "weba_bd_not_now"
+msgstr "不是現在"
+
+msgid "weba_bd_ok"
+msgstr "確定"
+
+msgid "weba_bd_select_clear_alll"
+msgstr "清除所有"
+
+msgid "weba_bd_stop"
+msgstr "停止"
+
+msgid "weba_db_clear"
+msgstr "清除"
+
+msgid "weba_fi_address"
+msgstr "網址"
+
+msgid "weba_fi_address_colon"
+msgstr "網址:"
+
+msgid "weba_fi_auhentication_password"
+msgstr "密碼"
+
+msgid "weba_fi_auhentication_realm"
+msgstr "訊息"
+
+msgid "weba_fi_auhentication_site"
+msgstr "伺服器"
+
+msgid "weba_fi_auhentication_username"
+msgstr "帳戶名稱"
+
+msgid "weba_fi_authentivated"
+msgstr "已驗證的執行階段"
+
+msgid "weba_fi_browsing_his"
+msgstr "瀏覽歷史記錄"
+
+msgid "weba_fi_cache"
+msgstr "緩衝區"
+
+msgid "weba_fi_cookie_details_domain"
+msgstr "網域"
+
+msgid "weba_fi_cookie_details_expiration"
+msgstr "逾期"
+
+msgid "weba_fi_cookie_details_path"
+msgstr "路徑"
+
+msgid "weba_fi_cookie_details_slash"
+msgstr "/"
+
+msgid "weba_fi_cookie_details_value"
+msgstr "值"
+
+msgid "weba_fi_cookies"
+msgstr "Cookies"
+
+msgid "weba_fi_downloads_name"
+msgstr "名稱"
+
+msgid "weba_fi_downloads_percentage"
+msgstr "已接收"
+
+msgid "weba_fi_downloads_size"
+msgstr "大小"
+
+msgid "weba_fi_encoding"
+msgstr "編碼"
+
+msgid "weba_fi_geolocation"
+msgstr "地理標記權限"
+
+msgid "weba_fi_image_details_dimensions"
+msgstr "尺寸"
+
+msgid "weba_fi_location"
+msgstr "位置"
+
+msgid "weba_fi_name"
+msgstr "名稱"
+
+msgid "weba_fi_name_colon"
+msgstr "名稱"
+
+msgid "weba_fi_open_with_colon"
+msgstr "開啟方式:"
+
+msgid "weba_fi_page_details_page_title"
+msgstr "標題"
+
+msgid "weba_fi_page_details_security"
+msgstr "安全"
+
+msgid "weba_fi_page_details_verification"
+msgstr "驗證"
+
+msgid "weba_fi_saved_pass"
+msgstr "已儲存的密碼"
+
+msgid "weba_fi_select_username_title"
+msgstr "選擇帳戶名稱"
+
+msgid "weba_fi_settings_general_maxcache"
+msgstr "記憶體緩衝區 (MB)"
+
+msgid "weba_fi_settings_plug_ins_enable_java_script"
+msgstr "啟用JavaScript"
+
+msgid "weba_fi_settings_privacy_accept_cookies"
+msgstr "接受 cookies"
+
+msgid "weba_fi_settings_privacy_enable_pop_up_windows"
+msgstr "啟用系統彈出視窗"
+
+msgid "weba_fi_settings_privacy_password"
+msgstr "啟用密碼儲存"
+
+msgid "weba_fi_size_colon"
+msgstr "大小"
+
+msgid "weba_fi_type_colon"
+msgstr "類型"
+
+msgid "weba_ib_closing_a_window_background"
+msgstr "關閉背景視窗"
+
+msgid "weba_ib_downloading_complete"
+msgstr "下載完成 %s"
+
+msgid "weba_ib_enter_location"
+msgstr "請先輸入網址"
+
+msgid "weba_ib_flash_full"
+msgstr "按後退鍵退出全螢幕模式"
+
+msgid "weba_ib_invalid_username_or_password"
+msgstr "帳戶名稱或密碼錯誤"
+
+msgid "weba_ib_opening_new_window"
+msgstr "正在開啟新視窗"
+
+msgid "weba_ib_pop_up_window_blocked"
+msgstr "彈出視窗已被阻擋"
+
+msgid "weba_ib_secure_server"
+msgstr "%s 已由 %s 驗證"
+
+msgid "weba_ib_select_update_first"
+msgstr "請先選擇更新"
+
+msgid "weba_ib_some_cache_items_cannot_be_deleted"
+msgstr "有些緩衝記憶體項目正被使用中, 無法刪除"
+
+msgid "weba_ib_target_not"
+msgstr "目標檔案不可用"
+
+msgid "weba_ib_upload_failed"
+msgstr "上傳失敗"
+
+msgid "weba_li_history_list_item_name"
+msgstr "%s"
+
+msgid "weba_li_history_list_nr"
+msgid_plural "weba_li_history_list_nrs"
+msgstr[0] "%d 項目"
+
+msgid "weba_li_history_list_today"
+msgstr "今天"
+
+msgid "weba_li_history_list_yesterday"
+msgstr "昨天"
+
+msgid "weba_me_add"
+msgstr "新增網址"
+
+msgid "weba_me_add_bookmark"
+msgstr "新增至書籤"
+
+msgid "weba_me_add_home"
+msgstr "新增捷徑到桌面"
+
+msgid "weba_me_add_link"
+msgstr "新增書籤"
+
+msgid "weba_me_adjustview"
+msgstr "調整檢視"
+
+msgid "weba_me_clear_privatedata"
+msgstr "清除私人資料"
+
+msgid "weba_me_complete_his"
+msgstr "全部瀏覽歷史記錄"
+
+msgid "weba_me_components"
+msgstr "附加組件"
+
+msgid "weba_me_copy"
+msgstr "複製"
+
+msgid "weba_me_copy_address"
+msgstr "複製網址鏈結"
+
+msgid "weba_me_copy_img_address"
+msgstr "複製圖片網址"
+
+msgid "weba_me_details"
+msgstr "詳情"
+
+msgid "weba_me_downloads"
+msgstr "下載"
+
+msgid "weba_me_find_on_page"
+msgstr "頁面中尋找"
+
+msgid "weba_me_load_img"
+msgstr "載入圖片"
+
+msgid "weba_me_new_window"
+msgstr "新視窗"
+
+msgid "weba_me_open_bookmark_new_window"
+msgstr "在新視窗中開啟"
+
+msgid "weba_me_open_in_new_window"
+msgstr "在新視窗中開啟"
+
+msgid "weba_me_open_link_new_window"
+msgstr "在新視窗中開啟鏈結"
+
+msgid "weba_me_openfile"
+msgstr "開啟檔案"
+
+msgid "weba_me_options"
+msgstr "選項"
+
+msgid "weba_me_paste"
+msgstr "貼上"
+
+msgid "weba_me_reload"
+msgstr "重新載入"
+
+msgid "weba_me_rss"
+msgstr "訂閱到 RSS feed: %s"
+
+msgid "weba_me_save_img"
+msgstr "圖片另存新檔"
+
+msgid "weba_me_save_link_as"
+msgstr "鏈接另存新檔"
+
+msgid "weba_me_save_page"
+msgstr "網頁另存新檔"
+
+msgid "weba_me_settings"
+msgstr "設定"
+
+msgid "weba_nc_change_stored_password"
+msgstr "為 %s 更改儲存密碼?"
+
+msgid "weba_nc_close"
+msgstr "網頁無回應.強制關閉視窗?\n未儲存的資料可能會遺失."
+
+msgid "weba_nc_close_app_pause_load"
+msgstr "關閉應用程式\n暫停正在下載的項目?\n%s"
+
+msgid "weba_nc_close_app_pause_loads"
+msgstr "關閉應用程式\n暫停正在下載的項目?"
+
+msgid "weba_nc_delete_dowload"
+msgstr "刪除下載?\n%s"
+
+msgid "weba_nc_geolocaton_dis"
+msgstr "這個站台"
+
+msgid "weba_nc_remember_credentials"
+msgstr "記住此網站的憑證?"
+
+msgid "weba_save_as"
+msgstr "網頁另存新檔"
+
+msgid "weba_search_list"
+msgstr "Google 搜尋: '%s'"
+
+msgid "weba_ti_add_adress"
+msgstr "新增網址"
+
+msgid "weba_ti_add_bookmark_title"
+msgstr "新增書籤"
+
+msgid "weba_ti_adjuvi_met_showimg"
+msgstr "顯示圖片"
+
+msgid "weba_ti_adjuvi_title"
+msgstr "調整檢視"
+
+msgid "weba_ti_auhentication_title"
+msgstr "認證"
+
+msgid "weba_ti_bookmarks"
+msgstr "書籤"
+
+msgid "weba_ti_bookmarks_portrait"
+msgstr "書籤"
+
+msgid "weba_ti_clear_privatedata"
+msgstr "清除私人資料"
+
+msgid "weba_ti_compbrhis"
+msgstr "全部瀏覽歷史記錄"
+
+msgid "weba_ti_cookie_conf"
+msgstr "Cookie 確認"
+
+msgid "weba_ti_cookie_conf_accept_nor"
+msgstr "接受 cookie? \n%s"
+
+msgid "weba_ti_cookie_conf_server"
+msgstr "接受同一伺服器所有的 cookies"
+
+msgid "weba_ti_cookie_details_title"
+msgstr "Cookie 詳情"
+
+msgid "weba_ti_deletebook"
+msgstr "選擇書籤"
+
+msgid "weba_ti_download_file_title"
+msgstr "下載檔案"
+
+msgid "weba_ti_downloads_title"
+msgstr "下載"
+
+msgid "weba_ti_edit_bookmark_title"
+msgstr "編輯書籤"
+
+msgid "weba_ti_edit_folder"
+msgstr "編輯資料夾"
+
+msgid "weba_ti_foldername"
+msgstr "%s"
+
+msgid "weba_ti_geolocoation"
+msgstr "地理標記"
+
+msgid "weba_ti_image_details_title"
+msgstr "圖片詳情"
+
+msgid "weba_ti_java_script_confirmation"
+msgstr "JavaScript 確認"
+
+msgid "weba_ti_java_script_prompt"
+msgstr "JavaScript 提示"
+
+msgid "weba_ti_javas_alert"
+msgstr "JavaScript 警告"
+
+msgid "weba_ti_options"
+msgstr "選項"
+
+msgid "weba_ti_page_details_title"
+msgstr "頁面詳情"
+
+msgid "weba_ti_recenthis"
+msgstr "最近歷史記錄"
+
+msgid "weba_ti_remeber_credentials"
+msgstr "記住密碼"
+
+msgid "weba_ti_select_file_title"
+msgstr "選擇檔案"
+
+msgid "weba_ti_settings_browser"
+msgstr "瀏覽器"
+
+msgid "weba_ti_settings_content"
+msgstr "連絡人"
+
+msgid "weba_ti_settings_title"
+msgstr "設定"
+
+msgid "weba_ti_texlist_single"
+msgstr "選擇項目"
+
+msgid "weba_ti_text"
+msgstr "文字大小"
+
+msgid "weba_ti_textlist_multi"
+msgstr "選擇項目"
+
+msgid "weba_ti_webstart"
+msgstr "網站"
+
+msgid "weba_ti_webstart_portrait"
+msgstr "網站"
+
+msgid "weba_va_always"
+msgstr "永遠"
+
+msgid "weba_va_download_from"
+msgstr "由"
+
+msgid "weba_va_downloads_rec_kb"
+msgstr "%d kB"
+
+msgid "weba_va_downloads_rec_percent"
+msgstr "%d %%"
+
+msgid "weba_va_downloads_size_kb"
+msgstr "%.2f kB"
+
+msgid "weba_va_downloads_size_unknown"
+msgstr "–"
+
+msgid "weba_va_encoding_big5"
+msgstr "繁體中文(Big5 I/II)"
+
+msgid "weba_va_encoding_euc_tw"
+msgstr "繁體中文 (EUC-TW)"
+
+msgid "weba_va_encoding_gb_18030"
+msgstr "簡體中文 (GB18030)"
+
+msgid "weba_va_encoding_iso_2022_cn"
+msgstr "簡體中文 (ISO-2022-CN)"
+
+msgid "weba_va_encoding_iso_8859_1"
+msgstr "拉丁語系 (ISO 8859-1)"
+
+msgid "weba_va_encoding_iso_8859_15"
+msgstr "拉丁語系延伸 (ISO-8859-15)"
+
+msgid "weba_va_encoding_iso_8859_2"
+msgstr "中歐語系 (ISO 8859-2)"
+
+msgid "weba_va_encoding_iso_8859_7"
+msgstr "希臘文 (ISO 8859-7)"
+
+msgid "weba_va_encoding_iso_8859_9"
+msgstr "土耳其文 (ISO 8859-9)"
+
+msgid "weba_va_encoding_utf_16"
+msgstr "Unicode (UTF-16)"
+
+msgid "weba_va_encoding_utf_8"
+msgstr "Unicode (UTF-8)"
+
+msgid "weba_va_encoding_win_1250"
+msgstr "中歐語系 (Windows-1250)"
+
+msgid "weba_va_encoding_win_1251"
+msgstr "斯拉夫語系 (Windows-1251)"
+
+msgid "weba_va_encoding_win_1253"
+msgstr "希臘文 (Windows-1253)"
+
+msgid "weba_va_encoding_win_1254"
+msgstr "土耳其文 (Windows-1254)"
+
+msgid "weba_va_encoding_win_koi_8r"
+msgstr "斯拉夫語系 (KOI-8R)"
+
+msgid "weba_va_high"
+msgstr "高"
+
+msgid "weba_va_image_details_dim_px"
+msgstr "%1$d x %2$d 像素"
+
+msgid "weba_va_larger"
+msgstr "大"
+
+msgid "weba_va_largest"
+msgstr "超大"
+
+msgid "weba_va_loaded"
+msgstr "已在緩衝記憶體中"
+
+msgid "weba_va_low"
+msgstr "低"
+
+msgid "weba_va_medium"
+msgstr "中等"
+
+msgid "weba_va_modal_dialog_abort"
+msgstr "中止"
+
+msgid "weba_va_modal_dialog_cancel"
+msgstr "取消"
+
+msgid "weba_va_modal_dialog_ignore"
+msgstr "略過"
+
+msgid "weba_va_modal_dialog_no"
+msgstr "否"
+
+msgid "weba_va_modal_dialog_ok"
+msgstr "確定"
+
+msgid "weba_va_modal_dialog_retry"
+msgstr "重試?"
+
+msgid "weba_va_modal_dialog_yes"
+msgstr "是"
+
+msgid "weba_va_never"
+msgstr "從不"
+
+msgid "weba_va_normal"
+msgstr "正常"
+
+msgid "weba_va_not_secure"
+msgstr "非安全的頁面"
+
+msgid "weba_va_page_details_size_kb"
+msgstr "%.2f kB"
+
+msgid "weba_va_page_not_verified"
+msgstr "網站的身份未確認"
+
+msgid "weba_va_save_complete"
+msgstr "完整的網頁"
+
+msgid "weba_va_save_html_only"
+msgstr "僅限 HTML"
+
+msgid "weba_va_saved_password"
+msgstr "(已儲存的密碼)"
+
+msgid "weba_va_settings_autofocus"
+msgstr "游標自動移至網址列"
+
+msgid "weba_va_settings_fullscreen"
+msgstr "以全螢幕開啟"
+
+msgid "weba_va_settings_general_maxc_1024"
+msgstr "10"
+
+msgid "weba_va_settings_general_maxc_2048"
+msgstr "20"
+
+msgid "weba_va_settings_general_maxc_4096"
+msgstr "40"
+
+msgid "weba_va_settings_general_maxc_512"
+msgstr "5"
+
+msgid "weba_va_settings_general_maxc_aut"
+msgstr "自動"
+
+msgid "weba_va_settings_general_maxc_off"
+msgstr "關閉"
+
+msgid "weba_va_settings_geolocation"
+msgstr "地理標記"
+
+msgid "weba_va_settings_hwkeys"
+msgstr "音量調整鍵功能設定"
+
+msgid "weba_va_settings_hwkeys_volume"
+msgstr "調整音量"
+
+msgid "weba_va_settings_hwkeys_zoom"
+msgstr "縮放檢視"
+
+msgid "weba_va_settings_javaflash"
+msgstr "允許 JavaScript 暫停"
+
+msgid "weba_va_settings_javaflash_immediately"
+msgstr "即時"
+
+msgid "weba_va_settings_javaflash_in15"
+msgstr "15 秒內暫停"
+
+msgid "weba_va_settings_javaflash_in30"
+msgstr "30 秒內暫停"
+
+msgid "weba_va_settings_javaflash_in60"
+msgstr "60 秒內暫停"
+
+msgid "weba_va_settings_javaflash_not"
+msgstr "不要暫停"
+
+msgid "weba_va_settings_portrait"
+msgstr "開啟螢幕旋轉"
+
+msgid "weba_va_settings_privacy_accept_cookies_always"
+msgstr "永遠"
+
+msgid "weba_va_settings_privacy_accept_cookies_askfirst"
+msgstr "先詢問"
+
+msgid "weba_va_settings_privacy_accept_cookies_never"
+msgstr "從不"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_always"
+msgstr "永遠"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_askfirst"
+msgstr "僅要求"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_never"
+msgstr "從不"
+
+msgid "weba_yi_hisfolder"
+msgstr "%s"
+
+msgid "webb_fi_bookmark_details_add"
+msgstr "新增日期"
+
+msgid "webb_fi_bookmark_details_use"
+msgstr "存取日期"
+
+msgid "webb_fi_folder_details_contents"
+msgstr "內容"
+
+msgid "webb_fi_folder_details_contents_01"
+msgstr "1 個書籤"
+
+msgid "webb_fi_folder_details_contents_02"
+msgstr "2 個書籤"
+
+msgid "webb_fi_folder_details_contents_0n"
+msgstr "%d 個書籤"
+
+msgid "webb_fi_folder_details_contents_10"
+msgstr "1 個資料夾"
+
+msgid "webb_fi_folder_details_contents_1n"
+msgstr "1 個資料夾, %d 個書籤"
+
+msgid "webb_fi_folder_details_contents_20"
+msgstr "2 個資料夾"
+
+msgid "webb_fi_folder_details_contents_2n"
+msgstr "2 個資料夾, %d 個書籤"
+
+msgid "webb_fi_folder_details_contents_bookmark"
+msgid_plural "webb_fi_folder_details_contents_bookmars"
+msgstr[0] "%d 書籤"
+
+msgid "webb_fi_folder_details_contents_folder"
+msgid_plural "webb_fi_folder_details_contents_folders"
+msgstr[0] "%d 資料夾"
+
+msgid "webb_fi_folder_details_contents_n0"
+msgstr "%d 資料夾"
+
+msgid "webb_fi_folder_details_contents_n1"
+msgstr "%d 個資料夾, 1 個書籤"
+
+msgid "webb_fi_folder_details_contents_n2"
+msgstr "%d 個資料夾, 2 個書籤"
+
+msgid "webb_fi_folder_details_contents_nn"
+msgstr "%d 個資料夾, %d 個書籤"
+
+msgid "webb_fi_folder_details_date"
+msgstr "新增日期"
+
+msgid "webb_fi_folder_details_time"
+msgstr "存取日期"
+
+msgid "webb_folder_imported_bookmarks"
+msgstr "匯入書籤"
+
+msgid "webb_folder_operator"
+msgstr "電信業者書籤"
+
+msgid "webb_folder_root_user"
+msgstr "我的書籤"
+
+msgid "webb_ia_cookie_after_sessions_ends"
+msgstr "會話結束後"
+
+msgid "webb_ia_no_bookmarks_folders_to_show"
+msgstr "(沒有書籤/資料夾)"
+
+msgid "webb_ia_no_description"
+msgstr "(沒有說明)"
+
+msgid "webb_ia_no_downloads"
+msgstr "(沒有下載的檔案)"
+
+msgid "webb_ia_none"
+msgstr "無"
+
+msgid "webb_ia_not_available"
+msgstr "不可用"
+
+msgid "webb_ia_not_defined_in_html"
+msgstr "(未定義標題)"
+
+msgid "webb_ia_unknown"
+msgstr "未知"
+
+msgid "webb_ib_this_folder_cannot_be_renamed"
+msgstr "無法重新命名已選取的資料夾"
+
+msgid "webb_me_delete"
+msgstr "刪除"
+
+msgid "webb_me_details"
+msgstr "詳情"
+
+msgid "webb_me_file_edit"
+msgstr "編輯"
+
+msgid "webb_me_impor"
+msgstr "匯入書籤"
+
+msgid "webb_me_move_to"
+msgstr "移動"
+
+msgid "webb_nc_delete_item_nr"
+msgid_plural "webb_nc_delete_item_nrs"
+msgstr[0] "刪除 '%s'?"
+
+msgid "webb_nc_replace_item_nr"
+msgid_plural "webb_nc_replace_item_nrs"
+msgstr[0] "取代現有同名的項目?"
+
+msgid "webb_ni_change_save_target_location"
+msgstr "無法儲存到選取的位址.\n儲存到裝置記憶體?"
+
+msgid "webb_ni_downloading_paused"
+msgstr "裝置可用空間不足.\n下載被暫停."
+
+msgid "webb_ni_invalid_bookmarks_file"
+msgstr "無效的書籤檔案.\n匯入書籤失敗."
+
+msgid "webb_ni_resuming_failed"
+msgstr "續傳失敗.\n重新下載?"
+
+msgid "webb_ni_target_folder_not_available"
+msgstr "目標資料夾不可用.\n存至其他資料夾."
+
+msgid "webb_ni_target_location_not_available"
+msgstr "目標位置不可用.\n存至裝置記憶體."
+
+msgid "webb_nw_deleting_bookmark"
+msgstr "正在刪除"
+
+msgid "webb_nw_importing_bookmark"
+msgstr "正在匯入"
+
+msgid "webb_nw_moving_bookmark"
+msgstr "正在移動"
+
+msgid "webb_ti_bookmark_details_title"
+msgstr "書籤詳情"
+
+msgid "webb_ti_folder_details"
+msgstr "資料夾詳情"
+
+msgid "webb_ti_selectbok"
+msgstr "選擇書籤"
