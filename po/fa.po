@@ -1,0 +1,831 @@
+# 
+# Translators:
+# jeco <maemosoft@yahoo.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2011-11-06 14:55+0000\n"
+"Last-Translator: jeco <maemosoft@yahoo.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "bookm_li_imported_bookmarksd"
+msgstr "بوک‌مارک‌های وارد شده (%d)"
+
+msgid "bookm_ti_import_bookmarks"
+msgstr "بوک‌مارک‌ها را وارد کنید."
+
+msgid "weba_ap_web_browser"
+msgstr "وب"
+
+msgid "weba_bd_cancel"
+msgstr "انصراف"
+
+msgid "weba_bd_certificate"
+msgstr "گواهینامه"
+
+msgid "weba_bd_close"
+msgstr "بستن"
+
+msgid "weba_bd_cookie_conf_accept"
+msgstr "موافقم"
+
+msgid "weba_bd_cookie_conf_reject"
+msgstr "رد می‌کنم"
+
+msgid "weba_bd_delete"
+msgstr "حذف"
+
+msgid "weba_bd_details"
+msgstr "جزئیات"
+
+msgid "weba_bd_download_open_with"
+msgstr "باز کردن با"
+
+msgid "weba_bd_download_save_to"
+msgstr "ذخیره در دستگاه"
+
+msgid "weba_bd_downloads_pause"
+msgstr "وقفه"
+
+msgid "weba_bd_downloads_resume"
+msgstr "ادامه"
+
+msgid "weba_bd_geolocaton_allow"
+msgstr "اجازه"
+
+msgid "weba_bd_geolocaton_always"
+msgstr "برای این سایت همیشه اجازه داده شود."
+
+msgid "weba_bd_geolocaton_never"
+msgstr "برای این سایت هرگز اجازه داده نشود."
+
+msgid "weba_bd_moveto"
+msgstr "انتقال"
+
+msgid "weba_bd_never"
+msgstr "هیچ وقت"
+
+msgid "weba_bd_not_now"
+msgstr "الان نه"
+
+msgid "weba_bd_ok"
+msgstr "موافقم"
+
+msgid "weba_bd_select_clear_alll"
+msgstr "پاک کردن همه"
+
+msgid "weba_bd_stop"
+msgstr "توقف"
+
+msgid "weba_db_clear"
+msgstr "پاک کردن"
+
+msgid "weba_fi_address"
+msgstr "آدرس"
+
+msgid "weba_fi_address_colon"
+msgstr "آدرس"
+
+msgid "weba_fi_auhentication_password"
+msgstr "کلمه عبور"
+
+msgid "weba_fi_auhentication_realm"
+msgstr "پیام"
+
+msgid "weba_fi_auhentication_site"
+msgstr "سرور"
+
+msgid "weba_fi_auhentication_username"
+msgstr "نام کاربری"
+
+msgid "weba_fi_authentivated"
+msgstr "گواهینامه‌ی جلسه ها"
+
+msgid "weba_fi_browsing_his"
+msgstr "تاریخچه‌ی مرورگر"
+
+msgid "weba_fi_cache"
+msgstr "کش"
+
+msgid "weba_fi_cookie_details_domain"
+msgstr "دامنه"
+
+msgid "weba_fi_cookie_details_expiration"
+msgstr "انقضاء"
+
+msgid "weba_fi_cookie_details_path"
+msgstr "مسیر"
+
+msgid "weba_fi_cookie_details_slash"
+msgstr "/"
+
+msgid "weba_fi_cookie_details_value"
+msgstr "مقدار"
+
+msgid "weba_fi_cookies"
+msgstr "کوکی‌ها"
+
+msgid "weba_fi_downloads_name"
+msgstr "نام"
+
+msgid "weba_fi_downloads_percentage"
+msgstr "دریافت شد"
+
+msgid "weba_fi_downloads_size"
+msgstr "سایز"
+
+msgid "weba_fi_encoding"
+msgstr "رمز گذاری"
+
+msgid "weba_fi_geolocation"
+msgstr "مجوز‌های موقعیت جغرافیایی"
+
+msgid "weba_fi_image_details_dimensions"
+msgstr "ابعاد"
+
+msgid "weba_fi_location"
+msgstr "محل"
+
+msgid "weba_fi_name"
+msgstr "نام"
+
+msgid "weba_fi_name_colon"
+msgstr "نام"
+
+msgid "weba_fi_open_with_colon"
+msgstr "باز کردن با:"
+
+msgid "weba_fi_page_details_page_title"
+msgstr "عنوان"
+
+msgid "weba_fi_page_details_security"
+msgstr "امنیت"
+
+msgid "weba_fi_page_details_verification"
+msgstr "تایید"
+
+msgid "weba_fi_saved_pass"
+msgstr "کلمات عبور ذخیره شده."
+
+msgid "weba_fi_select_username_title"
+msgstr "انتخاب نام کاربری"
+
+msgid "weba_fi_settings_general_maxcache"
+msgstr "سایز حافظه ی کش"
+
+msgid "weba_fi_settings_plug_ins_enable_java_script"
+msgstr "فعال کردن جاوا اسکریپت"
+
+msgid "weba_fi_settings_privacy_accept_cookies"
+msgstr "پذیرش کوکی‌ها"
+
+msgid "weba_fi_settings_privacy_enable_pop_up_windows"
+msgstr "باز کردن پاپ‌آپ‌ها"
+
+msgid "weba_fi_settings_privacy_password"
+msgstr "فعال کردن امکان ذخیره‌ی کلمه‌ی عبور"
+
+msgid "weba_fi_size_colon"
+msgstr "سایز"
+
+msgid "weba_fi_type_colon"
+msgstr "نوع"
+
+msgid "weba_ib_closing_a_window_background"
+msgstr "بستن یک پنجره در پس زمینه"
+
+msgid "weba_ib_downloading_complete"
+msgstr "در حال دانلود %s دانلود شده است"
+
+msgid "weba_ib_enter_location"
+msgstr "ابتدا آدرس را وارد نمایید"
+
+msgid "weba_ib_flash_full"
+msgstr "برای خروج از حالت تمام صفحه ، کلید بک اسپیس را فشار دهید"
+
+msgid "weba_ib_invalid_username_or_password"
+msgstr "نام کاربری یا رمز عبور اشتباه است"
+
+msgid "weba_ib_opening_new_window"
+msgstr "در حال باز کردن پنجره‌ی جدید"
+
+msgid "weba_ib_pop_up_window_blocked"
+msgstr "پنجره‌ی پاپ‌آپ مسدود شد"
+
+msgid "weba_ib_secure_server"
+msgstr "%s تایید شده توسط %s"
+
+msgid "weba_ib_select_update_first"
+msgstr "ابتدا به روز رسانی را انتخاب کنید"
+
+msgid "weba_ib_some_cache_items_cannot_be_deleted"
+msgstr "بعضی از آیتم‌های کش در حال استفاده هستند. در حال حاضر امکان حذفشان وجود ندارد."
+
+msgid "weba_ib_target_not"
+msgstr "فایل مورد نظر در دسترس نیست"
+
+msgid "weba_ib_upload_failed"
+msgstr "آپلود ناموفق بود."
+
+msgid "weba_li_history_list_item_name"
+msgstr "%s"
+
+msgid "weba_li_history_list_nr"
+msgid_plural "weba_li_history_list_nrs"
+msgstr[0] ""
+
+msgid "weba_li_history_list_today"
+msgstr "امروز"
+
+msgid "weba_li_history_list_yesterday"
+msgstr "دیروز"
+
+msgid "weba_me_add"
+msgstr "افزودن آدرس"
+
+msgid "weba_me_add_bookmark"
+msgstr "افزودن به بوک‌مارک‌ها"
+
+msgid "weba_me_add_home"
+msgstr "افزودن میانبر در دسکتاپ"
+
+msgid "weba_me_add_link"
+msgstr "افزودن بوک‌مارک"
+
+msgid "weba_me_adjustview"
+msgstr "تنظیم نمایش"
+
+msgid "weba_me_clear_privatedata"
+msgstr "پاک کردن اطلاعات خصوصی"
+
+msgid "weba_me_complete_his"
+msgstr "در حال کامل کردن تاریخچه‌ی مرورگر"
+
+msgid "weba_me_components"
+msgstr "افزونه‌ها"
+
+msgid "weba_me_copy"
+msgstr "کپی"
+
+msgid "weba_me_copy_address"
+msgstr "کپی کردن آدرس لینک"
+
+msgid "weba_me_copy_img_address"
+msgstr "کپی کردن آدرس عکس"
+
+msgid "weba_me_details"
+msgstr "جزئیات"
+
+msgid "weba_me_downloads"
+msgstr "دانلود‌ها"
+
+msgid "weba_me_find_on_page"
+msgstr "پیدا کردن در صفحه"
+
+msgid "weba_me_load_img"
+msgstr "بارگذاری عکس"
+
+msgid "weba_me_new_window"
+msgstr "پنجره‌ی جدید"
+
+msgid "weba_me_open_bookmark_new_window"
+msgstr "باز کردن در پنجره‌ی جدید"
+
+msgid "weba_me_open_in_new_window"
+msgstr "باز کردن در پنجره‌ی جدید"
+
+msgid "weba_me_open_link_new_window"
+msgstr "باز کردن لینک در پنجره‌ی جدید"
+
+msgid "weba_me_openfile"
+msgstr "باز کردن فایل"
+
+msgid "weba_me_options"
+msgstr "گزینه‌ها"
+
+msgid "weba_me_paste"
+msgstr "جاگذاری فایل کپی شده"
+
+msgid "weba_me_reload"
+msgstr "بارگذاری مجدد"
+
+msgid "weba_me_rss"
+msgstr "اشتراک در خوراک: %s"
+
+msgid "weba_me_save_img"
+msgstr "ذخیره‌ی عکس به عنوان"
+
+msgid "weba_me_save_link_as"
+msgstr "ذخیره‌ی لینک در"
+
+msgid "weba_me_save_page"
+msgstr "ذخیره‌ی صفحه به عنوان"
+
+msgid "weba_me_settings"
+msgstr "تنظیمات"
+
+msgid "weba_nc_change_stored_password"
+msgstr "تغییر رمز عبور ذخیره شده برای %s؟"
+
+msgid "weba_nc_close"
+msgstr "صفحه‌ی وب پاسخی نمی دهد.پنجره بسته شود؟\nاطلاعات ذخیره نشده ممکن است از دست بروند."
+
+msgid "weba_nc_close_app_pause_load"
+msgstr "بستن برنامه و\nتوقف ادامه‌ی دانلود؟\n%s"
+
+msgid "weba_nc_close_app_pause_loads"
+msgstr "بستن برنامه و\nتوقف دانلود‌های آتی?"
+
+msgid "weba_nc_delete_dowload"
+msgstr "دانلود حذف شود؟\n%s"
+
+msgid "weba_nc_geolocaton_dis"
+msgstr "این سایت اجازه می‌خواهد موقعیت شما را بداند؟"
+
+msgid "weba_nc_remember_credentials"
+msgstr " گواهی‌ها برای این سایت بخاطر سپرده شود؟"
+
+msgid "weba_save_as"
+msgstr "ذخیره‌ی صفحه به عنوان"
+
+msgid "weba_search_list"
+msgstr "جستجوی گوگل: '%s'"
+
+msgid "weba_ti_add_adress"
+msgstr "افزودن آدرس"
+
+msgid "weba_ti_add_bookmark_title"
+msgstr "افزودن بوک‌مارک"
+
+msgid "weba_ti_adjuvi_met_showimg"
+msgstr "نمایش عکس‌ها"
+
+msgid "weba_ti_adjuvi_title"
+msgstr "تنظیم نمایش"
+
+msgid "weba_ti_auhentication_title"
+msgstr "تصدیق"
+
+msgid "weba_ti_bookmarks"
+msgstr "بوک‌مارک‌ها"
+
+msgid "weba_ti_bookmarks_portrait"
+msgstr "بوک‌مارک‌ها"
+
+msgid "weba_ti_clear_privatedata"
+msgstr "پاک کردن اطلاعات خصوصی"
+
+msgid "weba_ti_compbrhis"
+msgstr "کامل کردن تاریخچه‌ی مرورگر"
+
+msgid "weba_ti_cookie_conf"
+msgstr "تایید کوکی"
+
+msgid "weba_ti_cookie_conf_accept_nor"
+msgstr "پذیرش کوکی؟\n%s"
+
+msgid "weba_ti_cookie_conf_server"
+msgstr "اِعمال برای تمام کوکی‌ها از همان سرور"
+
+msgid "weba_ti_cookie_details_title"
+msgstr "جزئیات کوکی"
+
+msgid "weba_ti_deletebook"
+msgstr "انتخاب بوک‌مارک‌ها"
+
+msgid "weba_ti_download_file_title"
+msgstr "فایل دانلود شد"
+
+msgid "weba_ti_downloads_title"
+msgstr "دانلود‌ها"
+
+msgid "weba_ti_edit_bookmark_title"
+msgstr "ویرایش بوک‌مارک"
+
+msgid "weba_ti_edit_folder"
+msgstr "ویرایش پوشه"
+
+msgid "weba_ti_foldername"
+msgstr "%s"
+
+msgid "weba_ti_geolocoation"
+msgstr "موقعیت جغرافیایی"
+
+msgid "weba_ti_image_details_title"
+msgstr "جزئیات عکس"
+
+msgid "weba_ti_java_script_confirmation"
+msgstr "تاییدات جاوا اسکریپت"
+
+msgid "weba_ti_java_script_prompt"
+msgstr "اعلان جاوا اسکریپت"
+
+msgid "weba_ti_javas_alert"
+msgstr "هشدار جاوا اسکریپت"
+
+msgid "weba_ti_options"
+msgstr "انتخاب‌ها"
+
+msgid "weba_ti_page_details_title"
+msgstr "جزئیات صفحه"
+
+msgid "weba_ti_recenthis"
+msgstr "تاریخچه‌های اخیر"
+
+msgid "weba_ti_remeber_credentials"
+msgstr "به یاد سپردن رمز عبور"
+
+msgid "weba_ti_select_file_title"
+msgstr "انتخاب فایل"
+
+msgid "weba_ti_settings_browser"
+msgstr "مرورگر"
+
+msgid "weba_ti_settings_content"
+msgstr "محتوا"
+
+msgid "weba_ti_settings_title"
+msgstr "تنظیمات"
+
+msgid "weba_ti_texlist_single"
+msgstr "انتخاب گزینه"
+
+msgid "weba_ti_text"
+msgstr "سایز متن"
+
+msgid "weba_ti_textlist_multi"
+msgstr "انتخاب گزینه‌ها"
+
+msgid "weba_ti_webstart"
+msgstr "وب"
+
+msgid "weba_ti_webstart_portrait"
+msgstr "وب"
+
+msgid "weba_va_always"
+msgstr "همیشه"
+
+msgid "weba_va_download_from"
+msgstr "از"
+
+msgid "weba_va_downloads_rec_kb"
+msgstr "%d کیلوبایت"
+
+msgid "weba_va_downloads_rec_percent"
+msgstr "%d %%"
+
+msgid "weba_va_downloads_size_kb"
+msgstr "%.2f کیلوبایت"
+
+msgid "weba_va_downloads_size_unknown"
+msgstr "–"
+
+msgid "weba_va_encoding_big5"
+msgstr "چینی ، سنتی (Big5 I/II)"
+
+msgid "weba_va_encoding_euc_tw"
+msgstr "چینی ، سنتی (EUC-TW)"
+
+msgid "weba_va_encoding_gb_18030"
+msgstr "چینی ، ساده شده (GB18030)"
+
+msgid "weba_va_encoding_iso_2022_cn"
+msgstr "چینی . ساده شده (ISO-2022-CN)"
+
+msgid "weba_va_encoding_iso_8859_1"
+msgstr "لاتین  (ISO 8859-1)"
+
+msgid "weba_va_encoding_iso_8859_15"
+msgstr "لاتین ، تمدید شده  (ISO 8859-1)"
+
+msgid "weba_va_encoding_iso_8859_2"
+msgstr "اروپای مرکزی  (ISO 8859-2)"
+
+msgid "weba_va_encoding_iso_8859_7"
+msgstr "یونانی (ISO 8859-7)"
+
+msgid "weba_va_encoding_iso_8859_9"
+msgstr "ترکیه ای  (ISO 8859-9)"
+
+msgid "weba_va_encoding_utf_16"
+msgstr "یونیکد (UTF-16)"
+
+msgid "weba_va_encoding_utf_8"
+msgstr "یونیکد (UTF-8)"
+
+msgid "weba_va_encoding_win_1250"
+msgstr "اروپای مرکزی (windows-1250)"
+
+msgid "weba_va_encoding_win_1251"
+msgstr "سیریلیک (Windows-1251)"
+
+msgid "weba_va_encoding_win_1253"
+msgstr "یونانی (Windows-1253)"
+
+msgid "weba_va_encoding_win_1254"
+msgstr "ترکیه ای (Windows-1254)"
+
+msgid "weba_va_encoding_win_koi_8r"
+msgstr "سیریلیک (KOI-8R)"
+
+msgid "weba_va_high"
+msgstr "زیاد"
+
+msgid "weba_va_image_details_dim_px"
+msgstr "%1$d x %2$d پیکسل"
+
+msgid "weba_va_larger"
+msgstr "بزرگ"
+
+msgid "weba_va_largest"
+msgstr "خیلی بزرگ"
+
+msgid "weba_va_loaded"
+msgstr "درحال حاضر در کش موجود است"
+
+msgid "weba_va_low"
+msgstr "کم"
+
+msgid "weba_va_medium"
+msgstr "متوسط"
+
+msgid "weba_va_modal_dialog_abort"
+msgstr "رد کردن"
+
+msgid "weba_va_modal_dialog_cancel"
+msgstr "انصراف"
+
+msgid "weba_va_modal_dialog_ignore"
+msgstr "چشم پوشی"
+
+msgid "weba_va_modal_dialog_no"
+msgstr "خیر"
+
+msgid "weba_va_modal_dialog_ok"
+msgstr "تائید"
+
+msgid "weba_va_modal_dialog_retry"
+msgstr "دوباره سعی شود؟"
+
+msgid "weba_va_modal_dialog_yes"
+msgstr "بلی"
+
+msgid "weba_va_never"
+msgstr "هیچوقت"
+
+msgid "weba_va_normal"
+msgstr "معمولی"
+
+msgid "weba_va_not_secure"
+msgstr "این صفحه امن نیست."
+
+msgid "weba_va_page_details_size_kb"
+msgstr "%.2f کیلوبایت"
+
+msgid "weba_va_page_not_verified"
+msgstr "هویت وب سایت تایید نشده است"
+
+msgid "weba_va_save_complete"
+msgstr "صفحه‌ی وب کامل شد."
+
+msgid "weba_va_save_html_only"
+msgstr "HTML فقط"
+
+msgid "weba_va_saved_password"
+msgstr "(رمز عبور ذخیره شده)"
+
+msgid "weba_va_settings_autofocus"
+msgstr "فیلد آدرس با قابلیت تمرکز خودکار"
+
+msgid "weba_va_settings_fullscreen"
+msgstr "باز کردن بصورت تمام صفحه"
+
+msgid "weba_va_settings_general_maxc_1024"
+msgstr "10 مگابایت"
+
+msgid "weba_va_settings_general_maxc_2048"
+msgstr "20 مگابایت"
+
+msgid "weba_va_settings_general_maxc_4096"
+msgstr "40 مگابایت"
+
+msgid "weba_va_settings_general_maxc_512"
+msgstr "5 مگابایت"
+
+msgid "weba_va_settings_general_maxc_aut"
+msgstr "خودکار"
+
+msgid "weba_va_settings_general_maxc_off"
+msgstr "خاموش"
+
+msgid "weba_va_settings_geolocation"
+msgstr "موقعیت جغرافیایی"
+
+msgid "weba_va_settings_hwkeys"
+msgstr "استفاده از کلید‌های افزایش و کاهش برای"
+
+msgid "weba_va_settings_hwkeys_volume"
+msgstr "ولوم"
+
+msgid "weba_va_settings_hwkeys_zoom"
+msgstr "بزرگنمایی"
+
+msgid "weba_va_settings_javaflash"
+msgstr "اجازه برای توقف جاوا اسکریپت"
+
+msgid "weba_va_settings_javaflash_immediately"
+msgstr "بلافاصله"
+
+msgid "weba_va_settings_javaflash_in15"
+msgstr "بعد از 15 ثانیه"
+
+msgid "weba_va_settings_javaflash_in30"
+msgstr "بعد از 30 ثانیه"
+
+msgid "weba_va_settings_javaflash_in60"
+msgstr "بعد از 60 ثانیه"
+
+msgid "weba_va_settings_javaflash_not"
+msgstr "مکث نکن"
+
+msgid "weba_va_settings_portrait"
+msgstr "فعال شدن چرخش"
+
+msgid "weba_va_settings_privacy_accept_cookies_always"
+msgstr "همیشه"
+
+msgid "weba_va_settings_privacy_accept_cookies_askfirst"
+msgstr "اول بپرس"
+
+msgid "weba_va_settings_privacy_accept_cookies_never"
+msgstr "هیچوقت"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_always"
+msgstr "همیشه"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_askfirst"
+msgstr "فقط درخواست دهد"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_never"
+msgstr "هیچ وقت"
+
+msgid "weba_yi_hisfolder"
+msgstr "%s"
+
+msgid "webb_fi_bookmark_details_add"
+msgstr "اضافه شد"
+
+msgid "webb_fi_bookmark_details_use"
+msgstr "آخرین استفاده"
+
+msgid "webb_fi_folder_details_contents"
+msgstr "محتویات"
+
+msgid "webb_fi_folder_details_contents_01"
+msgstr "یک بوک‌مارک"
+
+msgid "webb_fi_folder_details_contents_02"
+msgstr "دو بوک‌کارک"
+
+msgid "webb_fi_folder_details_contents_0n"
+msgstr "%d بوک‌مارک"
+
+msgid "webb_fi_folder_details_contents_10"
+msgstr "یک پوشه"
+
+msgid "webb_fi_folder_details_contents_1n"
+msgstr "یک پوشه , %d بوک‌مارک"
+
+msgid "webb_fi_folder_details_contents_20"
+msgstr "دو پوشه"
+
+msgid "webb_fi_folder_details_contents_2n"
+msgstr "دو پوشه , %d فولدر"
+
+msgid "webb_fi_folder_details_contents_bookmark"
+msgid_plural "webb_fi_folder_details_contents_bookmars"
+msgstr[0] ""
+
+msgid "webb_fi_folder_details_contents_folder"
+msgid_plural "webb_fi_folder_details_contents_folders"
+msgstr[0] ""
+
+msgid "webb_fi_folder_details_contents_n0"
+msgstr "%d پوشه"
+
+msgid "webb_fi_folder_details_contents_n1"
+msgstr "%d پوشه ، یک بوک‌مارک "
+
+msgid "webb_fi_folder_details_contents_n2"
+msgstr "%d فولدر, دو بوک‌مارک "
+
+msgid "webb_fi_folder_details_contents_nn"
+msgstr "%d فولدر , %d بوک‌مارک"
+
+msgid "webb_fi_folder_details_date"
+msgstr "اضافه شد"
+
+msgid "webb_fi_folder_details_time"
+msgstr "تغییر یافته"
+
+msgid "webb_folder_imported_bookmarks"
+msgstr "بوک‌مارک‌های وارداتی"
+
+msgid "webb_folder_operator"
+msgstr "بوک‌مارک‌های اپراتور"
+
+msgid "webb_folder_root_user"
+msgstr "بوک‌مارک‌های من"
+
+msgid "webb_ia_cookie_after_sessions_ends"
+msgstr "پس از پایان فصل"
+
+msgid "webb_ia_no_bookmarks_folders_to_show"
+msgstr "(بوک‌مارکی/پوشه‌ای وجود ندارد)"
+
+msgid "webb_ia_no_description"
+msgstr "(بدون توضیحات)"
+
+msgid "webb_ia_no_downloads"
+msgstr "(فایلی در حال دانلود نیست)"
+
+msgid "webb_ia_none"
+msgstr "یادداشت"
+
+msgid "webb_ia_not_available"
+msgstr "در دسترس نمی‌باشد"
+
+msgid "webb_ia_not_defined_in_html"
+msgstr "(بدون عنوان)"
+
+msgid "webb_ia_unknown"
+msgstr "ناشناخته"
+
+msgid "webb_ib_this_folder_cannot_be_renamed"
+msgstr "قادر به تغییر نام فولدر انتخاب شده نیست"
+
+msgid "webb_me_delete"
+msgstr "حذف"
+
+msgid "webb_me_details"
+msgstr "جزئیات"
+
+msgid "webb_me_file_edit"
+msgstr "ویرایش"
+
+msgid "webb_me_impor"
+msgstr "وارد کردن بوک‌مارک‌ها"
+
+msgid "webb_me_move_to"
+msgstr "انتقال"
+
+msgid "webb_nc_delete_item_nr"
+msgid_plural "webb_nc_delete_item_nrs"
+msgstr[0] ""
+
+msgid "webb_nc_replace_item_nr"
+msgid_plural "webb_nc_replace_item_nrs"
+msgstr[0] ""
+
+msgid "webb_ni_change_save_target_location"
+msgstr "قادر به ذخیره سازی در محل انتخاب شده نیست.\nذخیره در حافظه‌ی دستگاه؟"
+
+msgid "webb_ni_downloading_paused"
+msgstr "حافظه‌ی آزاد کافی در دستگاه موجود نیست.\nدانلود متوقف شد."
+
+msgid "webb_ni_invalid_bookmarks_file"
+msgstr "فایل بوک‌مارک نامعتبر است.\nبوک‌مارکی وارد نشد."
+
+msgid "webb_ni_resuming_failed"
+msgstr "ادامه ی دانلود ناموفق بود.\nشروع دانلود از اول؟"
+
+msgid "webb_ni_target_folder_not_available"
+msgstr " پوشه‌ی مورد نظر در دسترس نیست.\nذخیره در پوشه‌ی دیگر؟"
+
+msgid "webb_ni_target_location_not_available"
+msgstr "مسیر هدف در دسترس نیست.\nذخیره در حافظه‌ی داخلی؟"
+
+msgid "webb_nw_deleting_bookmark"
+msgstr "در حال حذف"
+
+msgid "webb_nw_importing_bookmark"
+msgstr "در حال وارد کردن"
+
+msgid "webb_nw_moving_bookmark"
+msgstr "درحال انتقال"
+
+msgid "webb_ti_bookmark_details_title"
+msgstr "جزئیات بوک‌مارک"
+
+msgid "webb_ti_folder_details"
+msgstr "جزئیات پوشه"
+
+msgid "webb_ti_selectbok"
+msgstr "انتخاب بوک مارک‌ها"
