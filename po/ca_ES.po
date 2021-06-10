@@ -1,0 +1,836 @@
+# 
+# Translators:
+# Toni Hermoso Pulido <toniher@softcatala.cat>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02 09:57+0200\n"
+"PO-Revision-Date: 2010-11-30 11:37+0000\n"
+"Last-Translator: \n"
+"Language-Team: Catalan (http://www.transifex.net/projects/p/n900-extra-translations/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "bookm_li_imported_bookmarksd"
+msgstr "Preferits importats (%d)"
+
+msgid "bookm_ti_import_bookmarks"
+msgstr "Importa preferits"
+
+msgid "weba_ap_web_browser"
+msgstr "Web"
+
+msgid "weba_bd_cancel"
+msgstr "Cancel·la"
+
+msgid "weba_bd_certificate"
+msgstr "Certificat"
+
+msgid "weba_bd_close"
+msgstr "Tanca"
+
+msgid "weba_bd_cookie_conf_accept"
+msgstr "Accepta"
+
+msgid "weba_bd_cookie_conf_reject"
+msgstr "Rebutja"
+
+msgid "weba_bd_delete"
+msgstr "Esborra"
+
+msgid "weba_bd_details"
+msgstr "Detalls"
+
+msgid "weba_bd_download_open_with"
+msgstr "Obre amb"
+
+msgid "weba_bd_download_save_to"
+msgstr "Desa al dispositiu"
+
+msgid "weba_bd_downloads_pause"
+msgstr "Pausa"
+
+msgid "weba_bd_downloads_resume"
+msgstr "Continua"
+
+msgid "weba_bd_geolocaton_allow"
+msgstr "Permet"
+
+msgid "weba_bd_geolocaton_always"
+msgstr "Permet sempre per a aquest lloc"
+
+msgid "weba_bd_geolocaton_never"
+msgstr "No permet mai per a aquest lloc"
+
+msgid "weba_bd_moveto"
+msgstr "Mou"
+
+msgid "weba_bd_never"
+msgstr "Mai"
+
+msgid "weba_bd_not_now"
+msgstr "Ara no"
+
+msgid "weba_bd_ok"
+msgstr "D'acord"
+
+msgid "weba_bd_select_clear_alll"
+msgstr "Neteja-ho tot"
+
+msgid "weba_bd_stop"
+msgstr "Atura"
+
+msgid "weba_db_clear"
+msgstr "Neteja"
+
+msgid "weba_fi_address"
+msgstr "Adreça"
+
+msgid "weba_fi_address_colon"
+msgstr "Adreça"
+
+msgid "weba_fi_auhentication_password"
+msgstr "Contrasenya"
+
+msgid "weba_fi_auhentication_realm"
+msgstr "Missatge"
+
+msgid "weba_fi_auhentication_site"
+msgstr "Servidor"
+
+msgid "weba_fi_auhentication_username"
+msgstr "Nom d'usuari"
+
+msgid "weba_fi_authentivated"
+msgstr "Sessions autenticades"
+
+msgid "weba_fi_browsing_his"
+msgstr "Historial"
+
+msgid "weba_fi_cache"
+msgstr "Memòria cau"
+
+msgid "weba_fi_cookie_details_domain"
+msgstr "Domini"
+
+msgid "weba_fi_cookie_details_expiration"
+msgstr "Venç"
+
+msgid "weba_fi_cookie_details_path"
+msgstr "Camí"
+
+msgid "weba_fi_cookie_details_slash"
+msgstr "/"
+
+msgid "weba_fi_cookie_details_value"
+msgstr "Valor"
+
+msgid "weba_fi_cookies"
+msgstr "Galetes"
+
+msgid "weba_fi_downloads_name"
+msgstr "Nom"
+
+msgid "weba_fi_downloads_percentage"
+msgstr "Rebut"
+
+msgid "weba_fi_downloads_size"
+msgstr "Mida"
+
+msgid "weba_fi_encoding"
+msgstr "Codificació"
+
+msgid "weba_fi_geolocation"
+msgstr "Permisos de geolocalització"
+
+msgid "weba_fi_image_details_dimensions"
+msgstr "Dimensions"
+
+msgid "weba_fi_location"
+msgstr "Localització"
+
+msgid "weba_fi_name"
+msgstr "Nom"
+
+msgid "weba_fi_name_colon"
+msgstr "Nom"
+
+msgid "weba_fi_open_with_colon"
+msgstr "Obre amb:"
+
+msgid "weba_fi_page_details_page_title"
+msgstr "Títol"
+
+msgid "weba_fi_page_details_security"
+msgstr "Seguretat"
+
+msgid "weba_fi_page_details_verification"
+msgstr "Verificació"
+
+msgid "weba_fi_saved_pass"
+msgstr "Contrasenyes desades"
+
+msgid "weba_fi_select_username_title"
+msgstr "Tria nom d'usuari"
+
+msgid "weba_fi_settings_general_maxcache"
+msgstr "Mida de la memòria cau"
+
+msgid "weba_fi_settings_plug_ins_enable_java_script"
+msgstr "Activa JavaScript"
+
+msgid "weba_fi_settings_privacy_accept_cookies"
+msgstr "Accepta galetes"
+
+msgid "weba_fi_settings_privacy_enable_pop_up_windows"
+msgstr "Obre emergents"
+
+msgid "weba_fi_settings_privacy_password"
+msgstr "Permet desar contrasenyes"
+
+msgid "weba_fi_size_colon"
+msgstr "Mida"
+
+msgid "weba_fi_type_colon"
+msgstr "Tipus"
+
+msgid "weba_ib_closing_a_window_background"
+msgstr "Es tanca finestra en segon pla"
+
+msgid "weba_ib_downloading_complete"
+msgstr "Baixant: %s complet"
+
+msgid "weba_ib_enter_location"
+msgstr "Introduïu l'adreça primer"
+
+msgid "weba_ib_flash_full"
+msgstr "Premeu la tecla de retrocés per sortir del mode pantalla completa"
+
+msgid "weba_ib_invalid_username_or_password"
+msgstr "Nom d'usuari o contrasenya no vàlid"
+
+msgid "weba_ib_opening_new_window"
+msgstr "S'obre nova finestra"
+
+msgid "weba_ib_pop_up_window_blocked"
+msgstr "Emergent blocat"
+
+msgid "weba_ib_secure_server"
+msgstr "%s verificat per %s"
+
+msgid "weba_ib_select_update_first"
+msgstr "Primer seleccioneu actualitzar"
+
+msgid "weba_ib_some_cache_items_cannot_be_deleted"
+msgstr "Alguns components a la memòria cau són en ús. No s'han pogut esborrar."
+
+msgid "weba_ib_target_not"
+msgstr "Fitxer no disponible"
+
+msgid "weba_ib_upload_failed"
+msgstr "Pujada fallada"
+
+msgid "weba_li_history_list_item_name"
+msgstr "%s"
+
+msgid "weba_li_history_list_nr"
+msgid_plural "weba_li_history_list_nrs"
+msgstr[0] "%d objecte"
+msgstr[1] "%d objectes"
+
+msgid "weba_li_history_list_today"
+msgstr "Avui"
+
+msgid "weba_li_history_list_yesterday"
+msgstr "Ahir"
+
+msgid "weba_me_add"
+msgstr "Afegeix l'adreça"
+
+msgid "weba_me_add_bookmark"
+msgstr "Desa als preferits"
+
+msgid "weba_me_add_home"
+msgstr "Afegeix com a drecera a l'escriptori"
+
+msgid "weba_me_add_link"
+msgstr "Afegeix com a preferit"
+
+msgid "weba_me_adjustview"
+msgstr "Ajusta la vista"
+
+msgid "weba_me_clear_privatedata"
+msgstr "Neteja dades privades"
+
+msgid "weba_me_complete_his"
+msgstr "Historial de navegació"
+
+msgid "weba_me_components"
+msgstr "Complements"
+
+msgid "weba_me_copy"
+msgstr "Copia"
+
+msgid "weba_me_copy_address"
+msgstr "Copia l'enllaç"
+
+msgid "weba_me_copy_img_address"
+msgstr "Copia la ubicació de la imatge"
+
+msgid "weba_me_details"
+msgstr "Detalls"
+
+msgid "weba_me_downloads"
+msgstr "Baixades"
+
+msgid "weba_me_find_on_page"
+msgstr "Cerca a la pàgina"
+
+msgid "weba_me_load_img"
+msgstr "Carrega imatge"
+
+msgid "weba_me_new_window"
+msgstr "Nova finestra"
+
+msgid "weba_me_open_bookmark_new_window"
+msgstr "Obre a una nova finestra"
+
+msgid "weba_me_open_in_new_window"
+msgstr "Obre a una nova finestra"
+
+msgid "weba_me_open_link_new_window"
+msgstr "Obre enllaç a una nova finestra"
+
+msgid "weba_me_openfile"
+msgstr "Obre un fitxer"
+
+msgid "weba_me_options"
+msgstr "Opcions"
+
+msgid "weba_me_paste"
+msgstr "Enganxa"
+
+msgid "weba_me_reload"
+msgstr "Actualitza"
+
+msgid "weba_me_rss"
+msgstr "Subscriu a: %s"
+
+msgid "weba_me_save_img"
+msgstr "Desa la imatge com"
+
+msgid "weba_me_save_link_as"
+msgstr "Desa l'enllaç com"
+
+msgid "weba_me_save_page"
+msgstr "Desa la pàgina com"
+
+msgid "weba_me_settings"
+msgstr "Preferències"
+
+msgid "weba_nc_change_stored_password"
+msgstr "Es canvia la contrasenya desada per %s?"
+
+msgid "weba_nc_close"
+msgstr "Pàgina web no respon. Es força tancament de finestra?\nLes dades no desades es perdran."
+
+msgid "weba_nc_close_app_pause_load"
+msgstr "Es tanca aplicació i es pausa baixada activa?\n%s"
+
+msgid "weba_nc_close_app_pause_loads"
+msgstr "Es tanca aplicació i es pausen\nbaixades actives?"
+
+msgid "weba_nc_delete_dowload"
+msgstr "S'elimina la baixada?\n%s"
+
+msgid "weba_nc_geolocaton_dis"
+msgstr "Es permet al lloc conèixer la vostra ubicació?"
+
+msgid "weba_nc_remember_credentials"
+msgstr "Recorda les credencials per a aquest lloc?"
+
+msgid "weba_save_as"
+msgstr "Desa la pàgina com"
+
+msgid "weba_search_list"
+msgstr "Cerca amb Google: '%s'"
+
+msgid "weba_ti_add_adress"
+msgstr "Afegeix adreça"
+
+msgid "weba_ti_add_bookmark_title"
+msgstr "Afegeix preferit"
+
+msgid "weba_ti_adjuvi_met_showimg"
+msgstr "Mostra imatges"
+
+msgid "weba_ti_adjuvi_title"
+msgstr "Ajusta la vista"
+
+msgid "weba_ti_auhentication_title"
+msgstr "Autenticació"
+
+msgid "weba_ti_bookmarks"
+msgstr "Preferits"
+
+msgid "weba_ti_bookmarks_portrait"
+msgstr "Preferits"
+
+msgid "weba_ti_clear_privatedata"
+msgstr "Neteja les dades privades"
+
+msgid "weba_ti_compbrhis"
+msgstr "Historial de navegació"
+
+msgid "weba_ti_cookie_conf"
+msgstr "Confirmació de galetes"
+
+msgid "weba_ti_cookie_conf_accept_nor"
+msgstr "S'accepta la galeta?\n%s"
+
+msgid "weba_ti_cookie_conf_server"
+msgstr "Aplica a totes les galetes del mateix servidor"
+
+msgid "weba_ti_cookie_details_title"
+msgstr "Detalls de la galeta"
+
+msgid "weba_ti_deletebook"
+msgstr "Tria de preferits"
+
+msgid "weba_ti_download_file_title"
+msgstr "Baixada de fitxers"
+
+msgid "weba_ti_downloads_title"
+msgstr "Baixades"
+
+msgid "weba_ti_edit_bookmark_title"
+msgstr "Edita el preferit"
+
+msgid "weba_ti_edit_folder"
+msgstr "Edita el directori"
+
+msgid "weba_ti_foldername"
+msgstr "%s"
+
+msgid "weba_ti_geolocoation"
+msgstr "Geolocalització"
+
+msgid "weba_ti_image_details_title"
+msgstr "Detalls de la imatge"
+
+msgid "weba_ti_java_script_confirmation"
+msgstr "Confirmació de JavaScript"
+
+msgid "weba_ti_java_script_prompt"
+msgstr "Sol·licitud de JavaScript"
+
+msgid "weba_ti_javas_alert"
+msgstr "Alerta de JavaScript"
+
+msgid "weba_ti_options"
+msgstr "Opcions"
+
+msgid "weba_ti_page_details_title"
+msgstr "Detalls de la pàgina"
+
+msgid "weba_ti_recenthis"
+msgstr "Historial recent"
+
+msgid "weba_ti_remeber_credentials"
+msgstr "Recorda la contrasenya"
+
+msgid "weba_ti_select_file_title"
+msgstr "Tria el fitxer"
+
+msgid "weba_ti_settings_browser"
+msgstr "Navegador"
+
+msgid "weba_ti_settings_content"
+msgstr "Contingut"
+
+msgid "weba_ti_settings_title"
+msgstr "Preferències"
+
+msgid "weba_ti_texlist_single"
+msgstr "Tria objecte"
+
+msgid "weba_ti_text"
+msgstr "Mida del text"
+
+msgid "weba_ti_textlist_multi"
+msgstr "Tria objectes"
+
+msgid "weba_ti_webstart"
+msgstr "Web"
+
+msgid "weba_ti_webstart_portrait"
+msgstr "Web"
+
+msgid "weba_va_always"
+msgstr "Sempre"
+
+msgid "weba_va_download_from"
+msgstr "De"
+
+msgid "weba_va_downloads_rec_kb"
+msgstr "%d kB"
+
+msgid "weba_va_downloads_rec_percent"
+msgstr "%d %%"
+
+msgid "weba_va_downloads_size_kb"
+msgstr "%.2f kB"
+
+msgid "weba_va_downloads_size_unknown"
+msgstr "–"
+
+msgid "weba_va_encoding_big5"
+msgstr "Xinès, Tradicional (Big5 I/II)"
+
+msgid "weba_va_encoding_euc_tw"
+msgstr "Xinès, Tradicional (EUC-TW)"
+
+msgid "weba_va_encoding_gb_18030"
+msgstr "Xinès, Simplificat (GB18030)"
+
+msgid "weba_va_encoding_iso_2022_cn"
+msgstr "Xinès, Simplificat (ISO-2022-CN)"
+
+msgid "weba_va_encoding_iso_8859_1"
+msgstr "Occidental (ISO 8859-1)"
+
+msgid "weba_va_encoding_iso_8859_15"
+msgstr "Occidental (ISO-8859-15)"
+
+msgid "weba_va_encoding_iso_8859_2"
+msgstr "Centreeuropeu (ISO 8859-2)"
+
+msgid "weba_va_encoding_iso_8859_7"
+msgstr "Grec (ISO 8859-7)"
+
+msgid "weba_va_encoding_iso_8859_9"
+msgstr "Turc (ISO 8859-9)"
+
+msgid "weba_va_encoding_utf_16"
+msgstr "Unicode (UTF-16)"
+
+msgid "weba_va_encoding_utf_8"
+msgstr "Unicode (UTF-8)"
+
+msgid "weba_va_encoding_win_1250"
+msgstr "Centreeuropeu (Windows-1250)"
+
+msgid "weba_va_encoding_win_1251"
+msgstr "Ciríl·lic (Windows-1251)"
+
+msgid "weba_va_encoding_win_1253"
+msgstr "Grec (Windows-1253)"
+
+msgid "weba_va_encoding_win_1254"
+msgstr "Turc (Windows-1254)"
+
+msgid "weba_va_encoding_win_koi_8r"
+msgstr "Ciríl·lic (KOI-8R)"
+
+msgid "weba_va_high"
+msgstr "Alt"
+
+msgid "weba_va_image_details_dim_px"
+msgstr "%1$d x %2$d píxels"
+
+msgid "weba_va_larger"
+msgstr "Gran"
+
+msgid "weba_va_largest"
+msgstr "Molt gran"
+
+msgid "weba_va_loaded"
+msgstr "Si ja són a la memòria cau"
+
+msgid "weba_va_low"
+msgstr "Baix"
+
+msgid "weba_va_medium"
+msgstr "Mitjà"
+
+msgid "weba_va_modal_dialog_abort"
+msgstr "Interromp"
+
+msgid "weba_va_modal_dialog_cancel"
+msgstr "Cancel·la"
+
+msgid "weba_va_modal_dialog_ignore"
+msgstr "Ignora"
+
+msgid "weba_va_modal_dialog_no"
+msgstr "No"
+
+msgid "weba_va_modal_dialog_ok"
+msgstr "D'acord"
+
+msgid "weba_va_modal_dialog_retry"
+msgstr "Es reintenta?"
+
+msgid "weba_va_modal_dialog_yes"
+msgstr "Sí"
+
+msgid "weba_va_never"
+msgstr "Mai"
+
+msgid "weba_va_normal"
+msgstr "Normal"
+
+msgid "weba_va_not_secure"
+msgstr "No és una pàgina segura"
+
+msgid "weba_va_page_details_size_kb"
+msgstr "%.2f kB"
+
+msgid "weba_va_page_not_verified"
+msgstr "Identitat del lloc web no verificada"
+
+msgid "weba_va_save_complete"
+msgstr "Pàgina web completa"
+
+msgid "weba_va_save_html_only"
+msgstr "Només HTML"
+
+msgid "weba_va_saved_password"
+msgstr "(contrasenya desada)"
+
+msgid "weba_va_settings_autofocus"
+msgstr "Camp d'adreça seleccionat"
+
+msgid "weba_va_settings_fullscreen"
+msgstr "Obrir d'entrada a pantalla completa"
+
+msgid "weba_va_settings_general_maxc_1024"
+msgstr "10 MB"
+
+msgid "weba_va_settings_general_maxc_2048"
+msgstr "20 MB"
+
+msgid "weba_va_settings_general_maxc_4096"
+msgstr "40 MB"
+
+msgid "weba_va_settings_general_maxc_512"
+msgstr "5 MB"
+
+msgid "weba_va_settings_general_maxc_aut"
+msgstr "Automàtic"
+
+msgid "weba_va_settings_general_maxc_off"
+msgstr "Inactiu"
+
+msgid "weba_va_settings_geolocation"
+msgstr "Geolocalització"
+
+msgid "weba_va_settings_hwkeys"
+msgstr "S'utilitzen tecles d'increment i decrement per"
+
+msgid "weba_va_settings_hwkeys_volume"
+msgstr "Volum"
+
+msgid "weba_va_settings_hwkeys_zoom"
+msgstr "Zoom"
+
+msgid "weba_va_settings_javaflash"
+msgstr "Permetre pausar JavaScript"
+
+msgid "weba_va_settings_javaflash_immediately"
+msgstr "Immediatament"
+
+msgid "weba_va_settings_javaflash_in15"
+msgstr "en 15 segons"
+
+msgid "weba_va_settings_javaflash_in30"
+msgstr "en 30 segons"
+
+msgid "weba_va_settings_javaflash_in60"
+msgstr "en 60 segons"
+
+msgid "weba_va_settings_javaflash_not"
+msgstr "No pausar"
+
+msgid "weba_va_settings_portrait"
+msgstr "Permet rotació"
+
+msgid "weba_va_settings_privacy_accept_cookies_always"
+msgstr "Sempre"
+
+msgid "weba_va_settings_privacy_accept_cookies_askfirst"
+msgstr "Demana-ho"
+
+msgid "weba_va_settings_privacy_accept_cookies_never"
+msgstr "Mai"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_always"
+msgstr "Sempre"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_askfirst"
+msgstr "Demana-ho"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_never"
+msgstr "Mai"
+
+msgid "weba_yi_hisfolder"
+msgstr "%s"
+
+msgid "webb_fi_bookmark_details_add"
+msgstr "Afegit"
+
+msgid "webb_fi_bookmark_details_use"
+msgstr "Darrer ús"
+
+msgid "webb_fi_folder_details_contents"
+msgstr "Contingut"
+
+msgid "webb_fi_folder_details_contents_01"
+msgstr "1 preferit"
+
+msgid "webb_fi_folder_details_contents_02"
+msgstr "2 preferits"
+
+msgid "webb_fi_folder_details_contents_0n"
+msgstr "%d preferits"
+
+msgid "webb_fi_folder_details_contents_10"
+msgstr "1 directori"
+
+msgid "webb_fi_folder_details_contents_1n"
+msgstr "1 directori, %d preferits"
+
+msgid "webb_fi_folder_details_contents_20"
+msgstr "2 directoris"
+
+msgid "webb_fi_folder_details_contents_2n"
+msgstr "2 directoris, %d preferits"
+
+msgid "webb_fi_folder_details_contents_bookmark"
+msgid_plural "webb_fi_folder_details_contents_bookmars"
+msgstr[0] "%d preferit"
+msgstr[1] "%d preferits"
+
+msgid "webb_fi_folder_details_contents_folder"
+msgid_plural "webb_fi_folder_details_contents_folders"
+msgstr[0] "%d directori"
+msgstr[1] "%d directoris"
+
+msgid "webb_fi_folder_details_contents_n0"
+msgstr "%d directoris"
+
+msgid "webb_fi_folder_details_contents_n1"
+msgstr "%d directoris, 1 preferit"
+
+msgid "webb_fi_folder_details_contents_n2"
+msgstr "%d directoris, 2 preferits"
+
+msgid "webb_fi_folder_details_contents_nn"
+msgstr "%d directoris, %d preferits"
+
+msgid "webb_fi_folder_details_date"
+msgstr "Afegit"
+
+msgid "webb_fi_folder_details_time"
+msgstr "Modificat"
+
+msgid "webb_folder_imported_bookmarks"
+msgstr "Preferits importats"
+
+msgid "webb_folder_operator"
+msgstr "Preferits de l'operador"
+
+msgid "webb_folder_root_user"
+msgstr "Els meus preferits"
+
+msgid "webb_ia_cookie_after_sessions_ends"
+msgstr "Després del final de sessió"
+
+msgid "webb_ia_no_bookmarks_folders_to_show"
+msgstr "(no hi ha preferits/directoris)"
+
+msgid "webb_ia_no_description"
+msgstr "(sense descripció)"
+
+msgid "webb_ia_no_downloads"
+msgstr "(no s'està baixant res)"
+
+msgid "webb_ia_none"
+msgstr "Cap"
+
+msgid "webb_ia_not_available"
+msgstr "No disponible"
+
+msgid "webb_ia_not_defined_in_html"
+msgstr "(sense titol)"
+
+msgid "webb_ia_unknown"
+msgstr "Desconegut"
+
+msgid "webb_ib_this_folder_cannot_be_renamed"
+msgstr "No s'ha pogut reanomenar el directori"
+
+msgid "webb_me_delete"
+msgstr "Esborra"
+
+msgid "webb_me_details"
+msgstr "Detalls"
+
+msgid "webb_me_file_edit"
+msgstr "Edita"
+
+msgid "webb_me_impor"
+msgstr "Importa preferits"
+
+msgid "webb_me_move_to"
+msgstr "Més"
+
+msgid "webb_nc_delete_item_nr"
+msgid_plural "webb_nc_delete_item_nrs"
+msgstr[0] "S'esborra '%s'?"
+msgstr[1] "S'esborren %d objectes seleccionats?"
+
+msgid "webb_nc_replace_item_nr"
+msgid_plural "webb_nc_replace_item_nrs"
+msgstr[0] "Se substitueix element existent amb el mateix nom?"
+msgstr[1] "Se substitueixen %d elements amb el mateix nom?"
+
+msgid "webb_ni_change_save_target_location"
+msgstr "No s'ha pogut desar al lloc seleccionat.\nEs desa a la memòria del dispositiu?"
+
+msgid "webb_ni_downloading_paused"
+msgstr "No hi ha prou memòria al dispositiu.\nBaixades en pausa."
+
+msgid "webb_ni_invalid_bookmarks_file"
+msgstr "Fitxer de preferits no vàlid.\nNo s'han importat preferits."
+
+msgid "webb_ni_resuming_failed"
+msgstr "Ha fallat la continuació de la baixada.\nEs reinicien les baixades?"
+
+msgid "webb_ni_target_folder_not_available"
+msgstr "Directori de destinació no disponible.\nEs desa a un altre directori."
+
+msgid "webb_ni_target_location_not_available"
+msgstr "Ubicació de destinació no disponible.\nEs desa a memòria local."
+
+msgid "webb_nw_deleting_bookmark"
+msgstr "S'està esborrant"
+
+msgid "webb_nw_importing_bookmark"
+msgstr "S'està important"
+
+msgid "webb_nw_moving_bookmark"
+msgstr "S'està movent"
+
+msgid "webb_ti_bookmark_details_title"
+msgstr "Detalls del preferit"
+
+msgid "webb_ti_folder_details"
+msgstr "Detalls del directori"
+
+msgid "webb_ti_selectbok"
+msgstr "Selecciona preferits"
