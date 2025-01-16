@@ -1,0 +1,833 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-browser-ui 20100208121232\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "bookm_li_imported_bookmarksd"
+msgstr ""
+
+msgid "bookm_ti_import_bookmarks"
+msgstr ""
+
+msgid "weba_ap_web_browser"
+msgstr ""
+
+msgid "weba_bd_cancel"
+msgstr ""
+
+msgid "weba_bd_certificate"
+msgstr ""
+
+msgid "weba_bd_close"
+msgstr ""
+
+msgid "weba_bd_cookie_conf_accept"
+msgstr ""
+
+msgid "weba_bd_cookie_conf_reject"
+msgstr ""
+
+msgid "weba_bd_delete"
+msgstr ""
+
+msgid "weba_bd_details"
+msgstr ""
+
+msgid "weba_bd_download_open_with"
+msgstr ""
+
+msgid "weba_bd_download_save_to"
+msgstr ""
+
+msgid "weba_bd_downloads_pause"
+msgstr ""
+
+msgid "weba_bd_downloads_resume"
+msgstr ""
+
+msgid "weba_bd_geolocaton_allow"
+msgstr ""
+
+msgid "weba_bd_geolocaton_always"
+msgstr ""
+
+msgid "weba_bd_geolocaton_never"
+msgstr ""
+
+msgid "weba_bd_moveto"
+msgstr ""
+
+msgid "weba_bd_never"
+msgstr ""
+
+msgid "weba_bd_not_now"
+msgstr ""
+
+msgid "weba_bd_ok"
+msgstr ""
+
+msgid "weba_bd_select_clear_alll"
+msgstr ""
+
+msgid "weba_bd_stop"
+msgstr ""
+
+msgid "weba_db_clear"
+msgstr ""
+
+msgid "weba_fi_address"
+msgstr ""
+
+msgid "weba_fi_address_colon"
+msgstr ""
+
+msgid "weba_fi_auhentication_password"
+msgstr ""
+
+msgid "weba_fi_auhentication_realm"
+msgstr ""
+
+msgid "weba_fi_auhentication_site"
+msgstr ""
+
+msgid "weba_fi_auhentication_username"
+msgstr ""
+
+msgid "weba_fi_authentivated"
+msgstr ""
+
+msgid "weba_fi_browsing_his"
+msgstr ""
+
+msgid "weba_fi_cache"
+msgstr ""
+
+msgid "weba_fi_cookie_details_domain"
+msgstr ""
+
+msgid "weba_fi_cookie_details_expiration"
+msgstr ""
+
+msgid "weba_fi_cookie_details_path"
+msgstr ""
+
+msgid "weba_fi_cookie_details_slash"
+msgstr ""
+
+msgid "weba_fi_cookie_details_value"
+msgstr ""
+
+msgid "weba_fi_cookies"
+msgstr ""
+
+msgid "weba_fi_downloads_name"
+msgstr ""
+
+msgid "weba_fi_downloads_percentage"
+msgstr ""
+
+msgid "weba_fi_downloads_size"
+msgstr ""
+
+msgid "weba_fi_encoding"
+msgstr ""
+
+msgid "weba_fi_geolocation"
+msgstr ""
+
+msgid "weba_fi_image_details_dimensions"
+msgstr ""
+
+msgid "weba_fi_location"
+msgstr ""
+
+msgid "weba_fi_name"
+msgstr ""
+
+msgid "weba_fi_name_colon"
+msgstr ""
+
+msgid "weba_fi_open_with_colon"
+msgstr ""
+
+msgid "weba_fi_page_details_page_title"
+msgstr ""
+
+msgid "weba_fi_page_details_security"
+msgstr ""
+
+msgid "weba_fi_page_details_verification"
+msgstr ""
+
+msgid "weba_fi_saved_pass"
+msgstr ""
+
+msgid "weba_fi_select_username_title"
+msgstr ""
+
+msgid "weba_fi_settings_general_maxcache"
+msgstr ""
+
+msgid "weba_fi_settings_plug_ins_enable_java_script"
+msgstr ""
+
+msgid "weba_fi_settings_privacy_accept_cookies"
+msgstr ""
+
+msgid "weba_fi_settings_privacy_enable_pop_up_windows"
+msgstr ""
+
+msgid "weba_fi_settings_privacy_password"
+msgstr ""
+
+msgid "weba_fi_size_colon"
+msgstr ""
+
+msgid "weba_fi_type_colon"
+msgstr ""
+
+msgid "weba_ib_closing_a_window_background"
+msgstr ""
+
+msgid "weba_ib_downloading_complete"
+msgstr ""
+
+msgid "weba_ib_enter_location"
+msgstr ""
+
+msgid "weba_ib_flash_full"
+msgstr ""
+
+msgid "weba_ib_invalid_username_or_password"
+msgstr ""
+
+msgid "weba_ib_opening_new_window"
+msgstr ""
+
+msgid "weba_ib_pop_up_window_blocked"
+msgstr ""
+
+msgid "weba_ib_secure_server"
+msgstr ""
+
+msgid "weba_ib_select_update_first"
+msgstr ""
+
+msgid "weba_ib_some_cache_items_cannot_be_deleted"
+msgstr ""
+
+msgid "weba_ib_target_not"
+msgstr ""
+
+msgid "weba_ib_upload_failed"
+msgstr ""
+
+msgid "weba_li_history_list_item_name"
+msgstr ""
+
+msgid "weba_li_history_list_nr"
+msgid_plural "weba_li_history_list_nrs"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "weba_li_history_list_today"
+msgstr ""
+
+msgid "weba_li_history_list_yesterday"
+msgstr ""
+
+msgid "weba_me_add"
+msgstr ""
+
+msgid "weba_me_add_bookmark"
+msgstr ""
+
+msgid "weba_me_add_home"
+msgstr ""
+
+msgid "weba_me_add_link"
+msgstr ""
+
+msgid "weba_me_adjustview"
+msgstr ""
+
+msgid "weba_me_clear_privatedata"
+msgstr ""
+
+msgid "weba_me_complete_his"
+msgstr ""
+
+msgid "weba_me_components"
+msgstr ""
+
+msgid "weba_me_copy"
+msgstr ""
+
+msgid "weba_me_copy_address"
+msgstr ""
+
+msgid "weba_me_copy_img_address"
+msgstr ""
+
+msgid "weba_me_details"
+msgstr ""
+
+msgid "weba_me_downloads"
+msgstr ""
+
+msgid "weba_me_find_on_page"
+msgstr ""
+
+msgid "weba_me_load_img"
+msgstr ""
+
+msgid "weba_me_new_window"
+msgstr ""
+
+msgid "weba_me_open_bookmark_new_window"
+msgstr ""
+
+msgid "weba_me_open_in_new_window"
+msgstr ""
+
+msgid "weba_me_open_link_new_window"
+msgstr ""
+
+msgid "weba_me_openfile"
+msgstr ""
+
+msgid "weba_me_options"
+msgstr ""
+
+msgid "weba_me_paste"
+msgstr ""
+
+msgid "weba_me_reload"
+msgstr ""
+
+msgid "weba_me_rss"
+msgstr ""
+
+msgid "weba_me_save_img"
+msgstr ""
+
+msgid "weba_me_save_link_as"
+msgstr ""
+
+msgid "weba_me_save_page"
+msgstr ""
+
+msgid "weba_me_settings"
+msgstr ""
+
+msgid "weba_nc_change_stored_password"
+msgstr ""
+
+msgid "weba_nc_close"
+msgstr ""
+
+msgid "weba_nc_close_app_pause_load"
+msgstr ""
+
+msgid "weba_nc_close_app_pause_loads"
+msgstr ""
+
+msgid "weba_nc_delete_dowload"
+msgstr ""
+
+msgid "weba_nc_geolocaton_dis"
+msgstr ""
+
+msgid "weba_nc_remember_credentials"
+msgstr ""
+
+msgid "weba_save_as"
+msgstr ""
+
+msgid "weba_search_list"
+msgstr ""
+
+msgid "weba_ti_add_adress"
+msgstr ""
+
+msgid "weba_ti_add_bookmark_title"
+msgstr ""
+
+msgid "weba_ti_adjuvi_met_showimg"
+msgstr ""
+
+msgid "weba_ti_adjuvi_title"
+msgstr ""
+
+msgid "weba_ti_auhentication_title"
+msgstr ""
+
+msgid "weba_ti_bookmarks"
+msgstr ""
+
+msgid "weba_ti_bookmarks_portrait"
+msgstr ""
+
+msgid "weba_ti_clear_privatedata"
+msgstr ""
+
+msgid "weba_ti_compbrhis"
+msgstr ""
+
+msgid "weba_ti_cookie_conf"
+msgstr ""
+
+msgid "weba_ti_cookie_conf_accept_nor"
+msgstr ""
+
+msgid "weba_ti_cookie_conf_server"
+msgstr ""
+
+msgid "weba_ti_cookie_details_title"
+msgstr ""
+
+msgid "weba_ti_deletebook"
+msgstr ""
+
+msgid "weba_ti_download_file_title"
+msgstr ""
+
+msgid "weba_ti_downloads_title"
+msgstr ""
+
+msgid "weba_ti_edit_bookmark_title"
+msgstr ""
+
+msgid "weba_ti_edit_folder"
+msgstr ""
+
+msgid "weba_ti_foldername"
+msgstr ""
+
+msgid "weba_ti_geolocoation"
+msgstr ""
+
+msgid "weba_ti_image_details_title"
+msgstr ""
+
+msgid "weba_ti_java_script_confirmation"
+msgstr ""
+
+msgid "weba_ti_java_script_prompt"
+msgstr ""
+
+msgid "weba_ti_javas_alert"
+msgstr ""
+
+msgid "weba_ti_options"
+msgstr ""
+
+msgid "weba_ti_page_details_title"
+msgstr ""
+
+msgid "weba_ti_recenthis"
+msgstr ""
+
+msgid "weba_ti_remeber_credentials"
+msgstr ""
+
+msgid "weba_ti_select_file_title"
+msgstr ""
+
+msgid "weba_ti_settings_browser"
+msgstr ""
+
+msgid "weba_ti_settings_content"
+msgstr ""
+
+msgid "weba_ti_settings_title"
+msgstr ""
+
+msgid "weba_ti_texlist_single"
+msgstr ""
+
+msgid "weba_ti_text"
+msgstr ""
+
+msgid "weba_ti_textlist_multi"
+msgstr ""
+
+msgid "weba_ti_webstart"
+msgstr ""
+
+msgid "weba_ti_webstart_portrait"
+msgstr ""
+
+msgid "weba_va_always"
+msgstr ""
+
+msgid "weba_va_download_from"
+msgstr ""
+
+msgid "weba_va_downloads_rec_kb"
+msgstr ""
+
+msgid "weba_va_downloads_rec_percent"
+msgstr ""
+
+msgid "weba_va_downloads_size_kb"
+msgstr ""
+
+msgid "weba_va_downloads_size_unknown"
+msgstr ""
+
+msgid "weba_va_encoding_big5"
+msgstr ""
+
+msgid "weba_va_encoding_euc_tw"
+msgstr ""
+
+msgid "weba_va_encoding_gb_18030"
+msgstr ""
+
+msgid "weba_va_encoding_iso_2022_cn"
+msgstr ""
+
+msgid "weba_va_encoding_iso_8859_1"
+msgstr ""
+
+msgid "weba_va_encoding_iso_8859_15"
+msgstr ""
+
+msgid "weba_va_encoding_iso_8859_2"
+msgstr ""
+
+msgid "weba_va_encoding_iso_8859_7"
+msgstr ""
+
+msgid "weba_va_encoding_iso_8859_9"
+msgstr ""
+
+msgid "weba_va_encoding_utf_16"
+msgstr ""
+
+msgid "weba_va_encoding_utf_8"
+msgstr ""
+
+msgid "weba_va_encoding_win_1250"
+msgstr ""
+
+msgid "weba_va_encoding_win_1251"
+msgstr ""
+
+msgid "weba_va_encoding_win_1253"
+msgstr ""
+
+msgid "weba_va_encoding_win_1254"
+msgstr ""
+
+msgid "weba_va_encoding_win_koi_8r"
+msgstr ""
+
+msgid "weba_va_high"
+msgstr ""
+
+msgid "weba_va_image_details_dim_px"
+msgstr ""
+
+msgid "weba_va_larger"
+msgstr ""
+
+msgid "weba_va_largest"
+msgstr ""
+
+msgid "weba_va_loaded"
+msgstr ""
+
+msgid "weba_va_low"
+msgstr ""
+
+msgid "weba_va_medium"
+msgstr ""
+
+msgid "weba_va_modal_dialog_abort"
+msgstr ""
+
+msgid "weba_va_modal_dialog_cancel"
+msgstr ""
+
+msgid "weba_va_modal_dialog_ignore"
+msgstr ""
+
+msgid "weba_va_modal_dialog_no"
+msgstr ""
+
+msgid "weba_va_modal_dialog_ok"
+msgstr ""
+
+msgid "weba_va_modal_dialog_retry"
+msgstr ""
+
+msgid "weba_va_modal_dialog_yes"
+msgstr ""
+
+msgid "weba_va_never"
+msgstr ""
+
+msgid "weba_va_normal"
+msgstr ""
+
+msgid "weba_va_not_secure"
+msgstr ""
+
+msgid "weba_va_page_details_size_kb"
+msgstr ""
+
+msgid "weba_va_page_not_verified"
+msgstr ""
+
+msgid "weba_va_save_complete"
+msgstr ""
+
+msgid "weba_va_save_html_only"
+msgstr ""
+
+msgid "weba_va_saved_password"
+msgstr ""
+
+msgid "weba_va_settings_autofocus"
+msgstr ""
+
+msgid "weba_va_settings_fullscreen"
+msgstr ""
+
+msgid "weba_va_settings_general_maxc_1024"
+msgstr ""
+
+msgid "weba_va_settings_general_maxc_2048"
+msgstr ""
+
+msgid "weba_va_settings_general_maxc_4096"
+msgstr ""
+
+msgid "weba_va_settings_general_maxc_512"
+msgstr ""
+
+msgid "weba_va_settings_general_maxc_aut"
+msgstr ""
+
+msgid "weba_va_settings_general_maxc_off"
+msgstr ""
+
+msgid "weba_va_settings_geolocation"
+msgstr ""
+
+msgid "weba_va_settings_hwkeys"
+msgstr ""
+
+msgid "weba_va_settings_hwkeys_volume"
+msgstr ""
+
+msgid "weba_va_settings_hwkeys_zoom"
+msgstr ""
+
+msgid "weba_va_settings_javaflash"
+msgstr ""
+
+msgid "weba_va_settings_javaflash_immediately"
+msgstr ""
+
+msgid "weba_va_settings_javaflash_in15"
+msgstr ""
+
+msgid "weba_va_settings_javaflash_in30"
+msgstr ""
+
+msgid "weba_va_settings_javaflash_in60"
+msgstr ""
+
+msgid "weba_va_settings_javaflash_not"
+msgstr ""
+
+msgid "weba_va_settings_portrait"
+msgstr ""
+
+msgid "weba_va_settings_privacy_accept_cookies_always"
+msgstr ""
+
+msgid "weba_va_settings_privacy_accept_cookies_askfirst"
+msgstr ""
+
+msgid "weba_va_settings_privacy_accept_cookies_never"
+msgstr ""
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_always"
+msgstr ""
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_askfirst"
+msgstr ""
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_never"
+msgstr ""
+
+msgid "weba_yi_hisfolder"
+msgstr ""
+
+msgid "webb_fi_bookmark_details_add"
+msgstr ""
+
+msgid "webb_fi_bookmark_details_use"
+msgstr ""
+
+msgid "webb_fi_folder_details_contents"
+msgstr ""
+
+msgid "webb_fi_folder_details_contents_01"
+msgstr ""
+
+msgid "webb_fi_folder_details_contents_02"
+msgstr ""
+
+msgid "webb_fi_folder_details_contents_0n"
+msgstr ""
+
+msgid "webb_fi_folder_details_contents_10"
+msgstr ""
+
+msgid "webb_fi_folder_details_contents_1n"
+msgstr ""
+
+msgid "webb_fi_folder_details_contents_20"
+msgstr ""
+
+msgid "webb_fi_folder_details_contents_2n"
+msgstr ""
+
+msgid "webb_fi_folder_details_contents_bookmark"
+msgid_plural "webb_fi_folder_details_contents_bookmars"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "webb_fi_folder_details_contents_folder"
+msgid_plural "webb_fi_folder_details_contents_folders"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "webb_fi_folder_details_contents_n0"
+msgstr ""
+
+msgid "webb_fi_folder_details_contents_n1"
+msgstr ""
+
+msgid "webb_fi_folder_details_contents_n2"
+msgstr ""
+
+msgid "webb_fi_folder_details_contents_nn"
+msgstr ""
+
+msgid "webb_fi_folder_details_date"
+msgstr ""
+
+msgid "webb_fi_folder_details_time"
+msgstr ""
+
+msgid "webb_folder_imported_bookmarks"
+msgstr ""
+
+msgid "webb_folder_operator"
+msgstr ""
+
+msgid "webb_folder_root_user"
+msgstr ""
+
+msgid "webb_ia_cookie_after_sessions_ends"
+msgstr ""
+
+msgid "webb_ia_no_bookmarks_folders_to_show"
+msgstr ""
+
+msgid "webb_ia_no_description"
+msgstr ""
+
+msgid "webb_ia_no_downloads"
+msgstr ""
+
+msgid "webb_ia_none"
+msgstr ""
+
+msgid "webb_ia_not_available"
+msgstr ""
+
+msgid "webb_ia_not_defined_in_html"
+msgstr ""
+
+msgid "webb_ia_unknown"
+msgstr ""
+
+msgid "webb_ib_this_folder_cannot_be_renamed"
+msgstr ""
+
+msgid "webb_me_delete"
+msgstr ""
+
+msgid "webb_me_details"
+msgstr ""
+
+msgid "webb_me_file_edit"
+msgstr ""
+
+msgid "webb_me_impor"
+msgstr ""
+
+msgid "webb_me_move_to"
+msgstr ""
+
+msgid "webb_nc_delete_item_nr"
+msgid_plural "webb_nc_delete_item_nrs"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "webb_nc_replace_item_nr"
+msgid_plural "webb_nc_replace_item_nrs"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "webb_ni_change_save_target_location"
+msgstr ""
+
+msgid "webb_ni_downloading_paused"
+msgstr ""
+
+msgid "webb_ni_invalid_bookmarks_file"
+msgstr ""
+
+msgid "webb_ni_resuming_failed"
+msgstr ""
+
+msgid "webb_ni_target_folder_not_available"
+msgstr ""
+
+msgid "webb_ni_target_location_not_available"
+msgstr ""
+
+msgid "webb_nw_deleting_bookmark"
+msgstr ""
+
+msgid "webb_nw_importing_bookmark"
+msgstr ""
+
+msgid "webb_nw_moving_bookmark"
+msgstr ""
+
+msgid "webb_ti_bookmark_details_title"
+msgstr ""
+
+msgid "webb_ti_folder_details"
+msgstr ""
+
+msgid "webb_ti_selectbok"
+msgstr ""
