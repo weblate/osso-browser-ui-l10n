@@ -3,16 +3,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: n900 extra translations\n"
-"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/"
+"issues/list\n"
 "POT-Creation-Date: 2009.11.02 09:57+0200\n"
-"PO-Revision-Date: 2012-05-30 14:39+0000\n"
-"Last-Translator: firstfan <firstfan@gmail.com>\n"
-"Language-Team: en_US\n"
+"PO-Revision-Date: 2025-02-06 21:01+0000\n"
+"Last-Translator: coio <ddllkl@outlook.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/maemo-leste/osso-browser-ui-l10n/zh_Hans/>\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh_CN\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 msgid "bookm_li_imported_bookmarksd"
 msgstr "导入%d个书签"
@@ -90,7 +93,7 @@ msgid "weba_fi_address"
 msgstr "地址"
 
 msgid "weba_fi_address_colon"
-msgstr "地址:"
+msgstr "地址"
 
 msgid "weba_fi_auhentication_password"
 msgstr "密码"
@@ -114,19 +117,19 @@ msgid "weba_fi_cache"
 msgstr "缓存"
 
 msgid "weba_fi_cookie_details_domain"
-msgstr "域名:"
+msgstr "域名"
 
 msgid "weba_fi_cookie_details_expiration"
-msgstr "过期:"
+msgstr "到期"
 
 msgid "weba_fi_cookie_details_path"
-msgstr "路径:"
+msgstr "路径"
 
 msgid "weba_fi_cookie_details_slash"
 msgstr "/"
 
 msgid "weba_fi_cookie_details_value"
-msgstr "值:"
+msgstr "值"
 
 msgid "weba_fi_cookies"
 msgstr "Cookies"
@@ -147,7 +150,7 @@ msgid "weba_fi_geolocation"
 msgstr "地理标记权限"
 
 msgid "weba_fi_image_details_dimensions"
-msgstr "尺寸:"
+msgstr "尺寸"
 
 msgid "weba_fi_location"
 msgstr "位置"
@@ -162,13 +165,13 @@ msgid "weba_fi_open_with_colon"
 msgstr "打开方式:"
 
 msgid "weba_fi_page_details_page_title"
-msgstr "标题:"
+msgstr "标题"
 
 msgid "weba_fi_page_details_security"
-msgstr "安全:"
+msgstr "安全"
 
 msgid "weba_fi_page_details_verification"
-msgstr "验证:"
+msgstr "验证"
 
 msgid "weba_fi_saved_pass"
 msgstr "已保存的密码"
@@ -225,7 +228,7 @@ msgid "weba_ib_select_update_first"
 msgstr "请先选择一个更新"
 
 msgid "weba_ib_some_cache_items_cannot_be_deleted"
-msgstr "部分缓存项目正在被使用,无法删除"
+msgstr "部分缓存项目正在被使用，无法删除。"
 
 msgid "weba_ib_target_not"
 msgstr "目标文件不可用"
@@ -334,10 +337,15 @@ msgid "weba_nc_change_stored_password"
 msgstr "修改已存储的%s密码?"
 
 msgid "weba_nc_close"
-msgstr "页面没有响应.未保存的数据可能丢失."
+msgstr ""
+"页面没有响应，要强制关闭吗？\n"
+"未保存的数据可能丢失."
 
 msgid "weba_nc_close_app_pause_load"
-msgstr "关闭程序并且\n暂停正在下载的项目?%s"
+msgstr ""
+"关闭程序并且\n"
+"暂停正在下载的项目？\n"
+"%s"
 
 msgid "weba_nc_close_app_pause_loads"
 msgstr "关闭程序并且\n暂停正在下载的项目?"
@@ -346,7 +354,7 @@ msgid "weba_nc_delete_dowload"
 msgstr "删除下载?\n%s"
 
 msgid "weba_nc_geolocaton_dis"
-msgstr "这个网站"
+msgstr "允许这个网站知道你的地理位置？"
 
 msgid "weba_nc_remember_credentials"
 msgstr "记住此网站的证书?"
@@ -388,7 +396,9 @@ msgid "weba_ti_cookie_conf"
 msgstr "Cookie 确认"
 
 msgid "weba_ti_cookie_conf_accept_nor"
-msgstr "接受/拒绝%s"
+msgstr ""
+"接受/拒绝cookie？\n"
+"%s"
 
 msgid "weba_ti_cookie_conf_server"
 msgstr "接受来自相同服务器的全部 cookies"
@@ -679,13 +689,13 @@ msgid "weba_yi_hisfolder"
 msgstr "%s"
 
 msgid "webb_fi_bookmark_details_add"
-msgstr "创建时间:"
+msgstr "创建时间"
 
 msgid "webb_fi_bookmark_details_use"
-msgstr "上次访问时间:"
+msgstr "上次访问时间"
 
 msgid "webb_fi_folder_details_contents"
-msgstr "内容:"
+msgstr "内容"
 
 msgid "webb_fi_folder_details_contents_01"
 msgstr "1 个书签"
@@ -714,7 +724,7 @@ msgstr[0] "%d 个书签"
 
 msgid "webb_fi_folder_details_contents_folder"
 msgid_plural "webb_fi_folder_details_contents_folders"
-msgstr[0] "%d 个文件夹"
+msgstr[0] "%d 个文件夹 "
 
 msgid "webb_fi_folder_details_contents_n0"
 msgstr "%d 个文件夹"
@@ -729,10 +739,10 @@ msgid "webb_fi_folder_details_contents_nn"
 msgstr "%d 个文件夹, %d 个书签"
 
 msgid "webb_fi_folder_details_date"
-msgstr "创建时间:"
+msgstr "创建时间"
 
 msgid "webb_fi_folder_details_time"
-msgstr "修改时间:"
+msgstr "修改时间"
 
 msgid "webb_folder_imported_bookmarks"
 msgstr "导入的书签"
